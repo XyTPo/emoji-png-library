@@ -1,0 +1,1554 @@
+[
+  {
+    "key": "ant",
+    "path": "Animals Neture/Ant.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["ant", "animal", "insect", "nature", "bug"]
+  },
+  {
+    "key": "baby_chick",
+    "path": "Animals Neture/Baby Chick.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["baby_chick", "animal", "chicken", "bird"]
+  },
+  {
+    "key": "badger",
+    "path": "Animals Neture/Badger.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["badger", "animal", "nature", "honey"]
+  },
+  {
+    "key": "bat",
+    "path": "Animals Neture/Bat.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["bat", "animal", "nature", "blind", "vampire"]
+  },
+  {
+    "key": "bear",
+    "path": "Animals Neture/Bear.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["bear", "animal", "nature", "wild"]
+  },
+  {
+    "key": "beaver",
+    "path": "Animals Neture/Beaver.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["beaver", "animal", "rodent"]
+  },
+  {
+    "key": "beetle",
+    "path": "Animals Neture/Beetle.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["beetle", "insect"]
+  },
+  {
+    "key": "bird",
+    "path": "Animals Neture/Bird.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["bird", "animal", "nature", "fly", "tweet", "spring"]
+  },
+  {
+    "key": "bison",
+    "path": "Animals Neture/Bison.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["bison", "ox"]
+  },
+  {
+    "key": "black_cat",
+    "path": "Animals Neture/Black Cat.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["black_cat", "black cat", "superstition", "luck"]
+  },
+  {
+    "key": "blossom",
+    "path": "Animals Neture/Blossom.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["blossom", "nature", "flowers", "yellow"]
+  },
+  {
+    "key": "blowfish",
+    "path": "Animals Neture/Blowfish.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["blowfish", "animal", "nature", "food", "sea", "ocean"]
+  },
+  {
+    "key": "boar",
+    "path": "Animals Neture/Boar.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["boar", "animal", "nature"]
+  },
+  {
+    "key": "bouquet",
+    "path": "Animals Neture/Bouquet.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["bouquet", "flowers", "nature", "spring"]
+  },
+  {
+    "key": "bug",
+    "path": "Animals Neture/Bug.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["bug", "animal", "insect", "nature", "worm"]
+  },
+  {
+    "key": "butterfly",
+    "path": "Animals Neture/Butterfly.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["butterfly", "animal", "insect", "nature", "caterpillar"]
+  },
+  {
+    "key": "cactus",
+    "path": "Animals Neture/Cactus.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["cactus", "vegetable", "plant", "nature"]
+  },
+  {
+    "key": "camel",
+    "path": "Animals Neture/Camel.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["camel", "animal", "hot", "desert", "hump"]
+  },
+  {
+    "key": "carp_streamer",
+    "path": "Animals Neture/Carp Streamer.png",
+    "categoryKey": "animals-nature",
+    "suggestions": [
+      "carp_streamer",
+      "fish",
+      "japanese",
+      "koinobori",
+      "carp",
+      "banner"
+    ]
+  },
+  {
+    "key": "cat",
+    "path": "Animals Neture/Cat.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["cat", "animal", "meow", "pet", "cats"]
+  },
+  {
+    "key": "cherry_blossom",
+    "path": "Animals Neture/Cherry Blossom.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["cherry_blossom", "nature", "plant", "spring", "flower"]
+  },
+  {
+    "key": "chicken",
+    "path": "Animals Neture/Chicken.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["chicken", "animal", "cluck", "nature", "bird"]
+  },
+  {
+    "key": "chipmunk",
+    "path": "Animals Neture/Chipmunk.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["chipmunk", "animal", "nature", "rodent", "squirrel"]
+  },
+  {
+    "key": "christmas_tree",
+    "path": "Animals Neture/Christmas Tree.png",
+    "categoryKey": "animals-nature",
+    "suggestions": [
+      "christmas_tree",
+      "festival",
+      "vacation",
+      "december",
+      "xmas",
+      "celebration"
+    ]
+  },
+  {
+    "key": "cloud_with_lightning_and_rain",
+    "path": "Animals Neture/Cloud With Lightning And Rain.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["cloud_with_lightning_and_rain", "weather", "lightning"]
+  },
+  {
+    "key": "cloud_with_lightning",
+    "path": "Animals Neture/Cloud With Lightning.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["cloud_with_lightning", "weather", "thunder"]
+  },
+  {
+    "key": "cloud_with_rain",
+    "path": "Animals Neture/Cloud With Rain.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["cloud_with_rain", "weather"]
+  },
+  {
+    "key": "cloud_with_snow",
+    "path": "Animals Neture/Cloud With Snow.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["cloud_with_snow", "weather"]
+  },
+  {
+    "key": "cloud",
+    "path": "Animals Neture/Cloud.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["cloud", "weather", "sky"]
+  },
+  {
+    "key": "cockroach",
+    "path": "Animals Neture/Cockroach.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["cockroach", "insect", "pests"]
+  },
+  {
+    "key": "collision",
+    "path": "Animals Neture/Collision.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["collision", "bomb", "explode", "explosion", "blown"]
+  },
+  {
+    "key": "comet",
+    "path": "Animals Neture/Comet.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["comet", "space"]
+  },
+  {
+    "key": "cow_face",
+    "path": "Animals Neture/Cow Face.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["cow_face", "beef", "ox", "animal", "nature", "moo", "milk"]
+  },
+  {
+    "key": "cow",
+    "path": "Animals Neture/Cow.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["cow", "beef", "ox", "animal", "nature", "moo", "milk"]
+  },
+  {
+    "key": "crab",
+    "path": "Animals Neture/Crab.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["crab", "animal", "crustacean"]
+  },
+  {
+    "key": "crescent_moon",
+    "path": "Animals Neture/Crescent Moon.png",
+    "categoryKey": "animals-nature",
+    "suggestions": [
+      "crescent_moon",
+      "night",
+      "sleep",
+      "sky",
+      "evening",
+      "magic"
+    ]
+  },
+  {
+    "key": "cricket",
+    "path": "Animals Neture/Cricket.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["cricket", "animal", "chirp"]
+  },
+  {
+    "key": "crocodile",
+    "path": "Animals Neture/Crocodile.png",
+    "categoryKey": "animals-nature",
+    "suggestions": [
+      "crocodile",
+      "animal",
+      "nature",
+      "reptile",
+      "lizard",
+      "alligator"
+    ]
+  },
+  {
+    "key": "dashing_away",
+    "path": "Animals Neture/Dashing Away.png",
+    "categoryKey": "animals-nature",
+    "suggestions": [
+      "dashing_away",
+      "wind",
+      "air",
+      "fast",
+      "shoo",
+      "fart",
+      "smoke",
+      "puff"
+    ]
+  },
+  {
+    "key": "deciduous_tree",
+    "path": "Animals Neture/Deciduous Tree.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["deciduous_tree", "plant", "nature"]
+  },
+  {
+    "key": "deer",
+    "path": "Animals Neture/Deer.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["deer", "animal", "nature", "horns", "venison"]
+  },
+  {
+    "key": "dizzy",
+    "path": "Animals Neture/Dizzy.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["dizzy", "star", "sparkle", "shoot", "magic"]
+  },
+  {
+    "key": "dodo",
+    "path": "Animals Neture/Dodo.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["dodo", "animal", "bird"]
+  },
+  {
+    "key": "dog_face",
+    "path": "Animals Neture/Dog Face.png",
+    "categoryKey": "animals-nature",
+    "suggestions": [
+      "dog_face",
+      "animal",
+      "friend",
+      "nature",
+      "woof",
+      "puppy",
+      "pet",
+      "faithful"
+    ]
+  },
+  {
+    "key": "dog",
+    "path": "Animals Neture/Dog.png",
+    "categoryKey": "animals-nature",
+    "suggestions": [
+      "dog",
+      "animal",
+      "nature",
+      "friend",
+      "doge",
+      "pet",
+      "faithful"
+    ]
+  },
+  {
+    "key": "dolphin",
+    "path": "Animals Neture/Dolphin.png",
+    "categoryKey": "animals-nature",
+    "suggestions": [
+      "dolphin",
+      "animal",
+      "nature",
+      "fish",
+      "sea",
+      "ocean",
+      "flipper",
+      "fins",
+      "beach"
+    ]
+  },
+  {
+    "key": "dove",
+    "path": "Animals Neture/Dove.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["dove", "animal", "bird"]
+  },
+  {
+    "key": "dragon_face",
+    "path": "Animals Neture/Dragon Face.png",
+    "categoryKey": "animals-nature",
+    "suggestions": [
+      "dragon_face",
+      "animal",
+      "myth",
+      "nature",
+      "chinese",
+      "green"
+    ]
+  },
+  {
+    "key": "dragon",
+    "path": "Animals Neture/Dragon.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["dragon", "animal", "myth", "nature", "chinese", "green"]
+  },
+  {
+    "key": "duck",
+    "path": "Animals Neture/Duck.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["duck", "animal", "nature", "bird", "mallard"]
+  },
+  {
+    "key": "eagle",
+    "path": "Animals Neture/Eagle.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["eagle", "animal", "nature", "bird"]
+  },
+  {
+    "key": "elephant",
+    "path": "Animals Neture/Elephant.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["elephant", "animal", "nature", "nose", "th", "circus"]
+  },
+  {
+    "key": "evergreen_tree",
+    "path": "Animals Neture/Evergreen Tree.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["evergreen_tree", "plant", "nature"]
+  },
+  {
+    "key": "ewe",
+    "path": "Animals Neture/Ewe.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["ewe", "animal", "nature", "wool", "shipit"]
+  },
+  {
+    "key": "fallen_leaf",
+    "path": "Animals Neture/Fallen Leaf.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["fallen_leaf", "nature", "plant", "vegetable", "leaves"]
+  },
+  {
+    "key": "feather",
+    "path": "Animals Neture/Feather.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["feather", "bird", "fly"]
+  },
+  {
+    "key": "fire",
+    "path": "Animals Neture/Fire.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["fire", "hot", "cook", "flame"]
+  },
+  {
+    "key": "first_quarter_moon_face",
+    "path": "Animals Neture/First Quarter Moon Face.png",
+    "categoryKey": "animals-nature",
+    "suggestions": [
+      "first_quarter_moon_face",
+      "nature",
+      "twilight",
+      "planet",
+      "space",
+      "night",
+      "evening",
+      "sleep"
+    ]
+  },
+  {
+    "key": "first_quarter_moon",
+    "path": "Animals Neture/First Quarter Moon.png",
+    "categoryKey": "animals-nature",
+    "suggestions": [
+      "first_quarter_moon",
+      "nature",
+      "twilight",
+      "planet",
+      "space",
+      "night",
+      "evening",
+      "sleep"
+    ]
+  },
+  {
+    "key": "fish",
+    "path": "Animals Neture/Fish.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["fish", "animal", "food", "nature"]
+  },
+  {
+    "key": "flamingo",
+    "path": "Animals Neture/Flamingo.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["flamingo", "animal"]
+  },
+  {
+    "key": "fly",
+    "path": "Animals Neture/Fly.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["fly", "insect"]
+  },
+  {
+    "key": "fog",
+    "path": "Animals Neture/Fog.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["fog", "weather"]
+  },
+  {
+    "key": "four_leaf_clover",
+    "path": "Animals Neture/Four Leaf Clover.png",
+    "categoryKey": "animals-nature",
+    "suggestions": [
+      "four_leaf_clover",
+      "vegetable",
+      "plant",
+      "nature",
+      "lucky",
+      "irish"
+    ]
+  },
+  {
+    "key": "fox",
+    "path": "Animals Neture/Fox.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["fox", "animal", "nature", "face"]
+  },
+  {
+    "key": "frog",
+    "path": "Animals Neture/Frog.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["frog", "animal", "nature", "croak", "toad"]
+  },
+  {
+    "key": "front_facing_baby_chick",
+    "path": "Animals Neture/Front Facing Baby Chick.png",
+    "categoryKey": "animals-nature",
+    "suggestions": [
+      "front_facing_baby_chick",
+      "animal",
+      "chicken",
+      "baby",
+      "bird"
+    ]
+  },
+  {
+    "key": "full_moon_face",
+    "path": "Animals Neture/Full Moon Face.png",
+    "categoryKey": "animals-nature",
+    "suggestions": [
+      "full_moon_face",
+      "nature",
+      "twilight",
+      "planet",
+      "space",
+      "night",
+      "evening",
+      "sleep"
+    ]
+  },
+  {
+    "key": "full_moon",
+    "path": "Animals Neture/Full Moon.png",
+    "categoryKey": "animals-nature",
+    "suggestions": [
+      "full_moon",
+      "nature",
+      "yellow",
+      "twilight",
+      "planet",
+      "space",
+      "night",
+      "evening",
+      "sleep"
+    ]
+  },
+  {
+    "key": "giraffe",
+    "path": "Animals Neture/Giraffe.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["giraffe", "animal", "nature", "spots", "safari"]
+  },
+  {
+    "key": "globe_showing_americas",
+    "path": "Animals Neture/Globe Showing Americas.png",
+    "categoryKey": "animals-nature",
+    "suggestions": [
+      "globe_showing_americas",
+      "globe",
+      "world",
+      "USA",
+      "international"
+    ]
+  },
+  {
+    "key": "globe_showing_asia_australia",
+    "path": "Animals Neture/Globe Showing Asia Australia.png",
+    "categoryKey": "animals-nature",
+    "suggestions": [
+      "globe_showing_asia_australia",
+      "globe",
+      "world",
+      "east",
+      "international"
+    ]
+  },
+  {
+    "key": "globe_showing_europe_africa",
+    "path": "Animals Neture/Globe Showing Europe Africa.png",
+    "categoryKey": "animals-nature",
+    "suggestions": [
+      "globe_showing_europe_africa",
+      "globe",
+      "world",
+      "international"
+    ]
+  },
+  {
+    "key": "globe_with_meridians",
+    "path": "Animals Neture/Globe With Meridians.png",
+    "categoryKey": "animals-nature",
+    "suggestions": [
+      "globe_with_meridians",
+      "earth",
+      "international",
+      "world",
+      "internet",
+      "interweb",
+      "i18n"
+    ]
+  },
+  {
+    "key": "glowing_star",
+    "path": "Animals Neture/Glowing Star.png",
+    "categoryKey": "animals-nature",
+    "suggestions": [
+      "glowing_star",
+      "night",
+      "sparkle",
+      "awesome",
+      "good",
+      "magic"
+    ]
+  },
+  {
+    "key": "goat",
+    "path": "Animals Neture/Goat.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["goat", "animal", "nature"]
+  },
+  {
+    "key": "gorilla",
+    "path": "Animals Neture/Gorilla.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["gorilla", "animal", "nature", "circus"]
+  },
+  {
+    "key": "guide_dog",
+    "path": "Animals Neture/Guide Dog.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["guide_dog", "animal", "blind"]
+  },
+  {
+    "key": "hamster",
+    "path": "Animals Neture/Hamster.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["hamster", "animal", "nature"]
+  },
+  {
+    "key": "hatching_chick",
+    "path": "Animals Neture/Hatching Chick.png",
+    "categoryKey": "animals-nature",
+    "suggestions": [
+      "hatching_chick",
+      "animal",
+      "chicken",
+      "egg",
+      "born",
+      "baby",
+      "bird"
+    ]
+  },
+  {
+    "key": "hear_no_evil_monkey",
+    "path": "Animals Neture/Hear No Evil Monkey.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["hear_no_evil_monkey", "animal", "monkey", "nature"]
+  },
+  {
+    "key": "hedgehog",
+    "path": "Animals Neture/Hedgehog.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["hedgehog", "animal", "nature", "spiny"]
+  },
+  {
+    "key": "herb",
+    "path": "Animals Neture/Herb.png",
+    "categoryKey": "animals-nature",
+    "suggestions": [
+      "herb",
+      "vegetable",
+      "plant",
+      "medicine",
+      "weed",
+      "grass",
+      "lawn"
+    ]
+  },
+  {
+    "key": "hibiscus",
+    "path": "Animals Neture/Hibiscus.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["hibiscus", "plant", "vegetable", "flowers", "beach"]
+  },
+  {
+    "key": "high_voltage",
+    "path": "Animals Neture/High Voltage.png",
+    "categoryKey": "animals-nature",
+    "suggestions": [
+      "high_voltage",
+      "thunder",
+      "weather",
+      "lightning bolt",
+      "fast"
+    ]
+  },
+  {
+    "key": "hippopotamus",
+    "path": "Animals Neture/Hippopotamus.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["hippopotamus", "animal", "nature"]
+  },
+  {
+    "key": "honeybee",
+    "path": "Animals Neture/Honeybee.png",
+    "categoryKey": "animals-nature",
+    "suggestions": [
+      "honeybee",
+      "animal",
+      "insect",
+      "nature",
+      "bug",
+      "spring",
+      "honey"
+    ]
+  },
+  {
+    "key": "horse_face",
+    "path": "Animals Neture/Horse Face.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["horse_face", "animal", "brown", "nature"]
+  },
+  {
+    "key": "horse",
+    "path": "Animals Neture/Horse.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["horse", "animal", "gamble", "luck"]
+  },
+  {
+    "key": "kangaroo",
+    "path": "Animals Neture/Kangaroo.png",
+    "categoryKey": "animals-nature",
+    "suggestions": [
+      "kangaroo",
+      "animal",
+      "nature",
+      "australia",
+      "joey",
+      "hop",
+      "marsupial"
+    ]
+  },
+  {
+    "key": "koala",
+    "path": "Animals Neture/Koala.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["koala", "animal", "nature"]
+  },
+  {
+    "key": "lady_beetle",
+    "path": "Animals Neture/Lady Beetle.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["lady_beetle", "animal", "insect", "nature", "ladybug"]
+  },
+  {
+    "key": "last_quarter_moon_face",
+    "path": "Animals Neture/Last Quarter Moon Face.png",
+    "categoryKey": "animals-nature",
+    "suggestions": [
+      "last_quarter_moon_face",
+      "nature",
+      "twilight",
+      "planet",
+      "space",
+      "night",
+      "evening",
+      "sleep"
+    ]
+  },
+  {
+    "key": "last_quarter_moon",
+    "path": "Animals Neture/Last Quarter Moon.png",
+    "categoryKey": "animals-nature",
+    "suggestions": [
+      "last_quarter_moon",
+      "nature",
+      "twilight",
+      "planet",
+      "space",
+      "night",
+      "evening",
+      "sleep"
+    ]
+  },
+  {
+    "key": "leaf_fluttering_in_wind",
+    "path": "Animals Neture/Leaf Fluttering In Wind.png",
+    "categoryKey": "animals-nature",
+    "suggestions": [
+      "leaf_fluttering_in_wind",
+      "nature",
+      "plant",
+      "tree",
+      "vegetable",
+      "grass",
+      "lawn",
+      "spring"
+    ]
+  },
+  {
+    "key": "leopard",
+    "path": "Animals Neture/Leopard.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["leopard", "animal", "nature"]
+  },
+  {
+    "key": "lion",
+    "path": "Animals Neture/Lion.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["lion", "animal", "nature"]
+  },
+  {
+    "key": "lizard",
+    "path": "Animals Neture/Lizard.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["lizard", "animal", "nature", "reptile"]
+  },
+  {
+    "key": "llama",
+    "path": "Animals Neture/Llama.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["llama", "animal", "nature", "alpaca"]
+  },
+  {
+    "key": "lobster",
+    "path": "Animals Neture/Lobster.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["lobster", "animal", "nature", "bisque", "claws", "seafood"]
+  },
+  {
+    "key": "mammoth",
+    "path": "Animals Neture/Mammoth.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["mammoth", "elephant", "tusks"]
+  },
+  {
+    "key": "maple_leaf",
+    "path": "Animals Neture/Maple Leaf.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["maple_leaf", "nature", "plant", "vegetable", "ca", "fall"]
+  },
+  {
+    "key": "microbe",
+    "path": "Animals Neture/Microbe.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["microbe", "amoeba", "bacteria", "germs", "virus", "covid"]
+  },
+  {
+    "key": "monkey_face",
+    "path": "Animals Neture/Monkey Face.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["monkey_face", "animal", "nature", "circus"]
+  },
+  {
+    "key": "monkey",
+    "path": "Animals Neture/Monkey.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["monkey", "animal", "nature", "banana", "circus"]
+  },
+  {
+    "key": "mosquito",
+    "path": "Animals Neture/Mosquito.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["mosquito", "animal", "nature", "insect", "malaria"]
+  },
+  {
+    "key": "mouse_face",
+    "path": "Animals Neture/Mouse Face.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["mouse_face", "animal", "nature", "cheese_wedge", "rodent"]
+  },
+  {
+    "key": "mouse",
+    "path": "Animals Neture/Mouse.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["mouse", "animal", "nature", "rodent"]
+  },
+  {
+    "key": "new_moon_face",
+    "path": "Animals Neture/New Moon Face.png",
+    "categoryKey": "animals-nature",
+    "suggestions": [
+      "new_moon_face",
+      "nature",
+      "twilight",
+      "planet",
+      "space",
+      "night",
+      "evening",
+      "sleep"
+    ]
+  },
+  {
+    "key": "new_moon",
+    "path": "Animals Neture/New Moon.png",
+    "categoryKey": "animals-nature",
+    "suggestions": [
+      "new_moon",
+      "nature",
+      "twilight",
+      "planet",
+      "space",
+      "night",
+      "evening",
+      "sleep"
+    ]
+  },
+  {
+    "key": "octopus",
+    "path": "Animals Neture/Octopus.png",
+    "categoryKey": "animals-nature",
+    "suggestions": [
+      "octopus",
+      "animal",
+      "creature",
+      "ocean",
+      "sea",
+      "nature",
+      "beach"
+    ]
+  },
+  {
+    "key": "orangutan",
+    "path": "Animals Neture/Orangutan.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["orangutan", "animal"]
+  },
+  {
+    "key": "otter",
+    "path": "Animals Neture/Otter.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["otter", "animal"]
+  },
+  {
+    "key": "owl",
+    "path": "Animals Neture/Owl.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["owl", "animal", "nature", "bird", "hoot"]
+  },
+  {
+    "key": "ox",
+    "path": "Animals Neture/Ox.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["ox", "animal", "cow", "beef"]
+  },
+  {
+    "key": "palm_tree",
+    "path": "Animals Neture/Palm Tree.png",
+    "categoryKey": "animals-nature",
+    "suggestions": [
+      "palm_tree",
+      "plant",
+      "vegetable",
+      "nature",
+      "summer",
+      "beach",
+      "mojito",
+      "tropical"
+    ]
+  },
+  {
+    "key": "panda",
+    "path": "Animals Neture/Panda.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["panda", "animal", "nature"]
+  },
+  {
+    "key": "parrot",
+    "path": "Animals Neture/Parrot.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["parrot", "animal", "nature", "bird", "pirate", "talk"]
+  },
+  {
+    "key": "paw_prints",
+    "path": "Animals Neture/Paw Prints.png",
+    "categoryKey": "animals-nature",
+    "suggestions": [
+      "paw_prints",
+      "animal",
+      "tracking",
+      "footprints",
+      "dog",
+      "cat",
+      "pet",
+      "feet"
+    ]
+  },
+  {
+    "key": "peacock",
+    "path": "Animals Neture/Peacock.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["peacock", "animal", "nature", "peahen", "bird"]
+  },
+  {
+    "key": "penguin",
+    "path": "Animals Neture/Penguin.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["penguin", "animal", "nature"]
+  },
+  {
+    "key": "pig_face",
+    "path": "Animals Neture/Pig Face.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["pig_face", "animal", "oink", "nature"]
+  },
+  {
+    "key": "pig_nose",
+    "path": "Animals Neture/Pig Nose.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["pig_nose", "animal", "oink"]
+  },
+  {
+    "key": "pig",
+    "path": "Animals Neture/Pig.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["pig", "animal", "nature"]
+  },
+  {
+    "key": "pine_decoration",
+    "path": "Animals Neture/Pine Decoration.png",
+    "categoryKey": "animals-nature",
+    "suggestions": [
+      "pine_decoration",
+      "japanese",
+      "plant",
+      "nature",
+      "vegetable",
+      "panda",
+      "new_years",
+      "bamboo"
+    ]
+  },
+  {
+    "key": "polar_bear",
+    "path": "Animals Neture/Polar Bear.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["polar_bear", "polar bear", "animal", "arctic"]
+  },
+  {
+    "key": "poodle",
+    "path": "Animals Neture/Poodle.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["poodle", "dog", "animal", "101", "nature", "pet"]
+  },
+  {
+    "key": "potted_plant",
+    "path": "Animals Neture/Potted Plant.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["potted_plant", "potted plant", "greenery", "house"]
+  },
+  {
+    "key": "rabbit_face",
+    "path": "Animals Neture/Rabbit Face.png",
+    "categoryKey": "animals-nature",
+    "suggestions": [
+      "rabbit_face",
+      "animal",
+      "nature",
+      "pet",
+      "spring",
+      "magic",
+      "bunny"
+    ]
+  },
+  {
+    "key": "rabbit",
+    "path": "Animals Neture/Rabbit.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["rabbit", "animal", "nature", "pet", "magic", "spring"]
+  },
+  {
+    "key": "raccoon",
+    "path": "Animals Neture/Raccoon.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["raccoon", "animal", "nature"]
+  },
+  {
+    "key": "ram",
+    "path": "Animals Neture/Ram.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["ram", "animal", "sheep", "nature"]
+  },
+  {
+    "key": "rat",
+    "path": "Animals Neture/Rat.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["rat", "animal", "mouse", "rodent"]
+  },
+  {
+    "key": "rhinoceros",
+    "path": "Animals Neture/Rhinoceros.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["rhinoceros", "animal", "nature", "horn"]
+  },
+  {
+    "key": "rock",
+    "path": "Animals Neture/Rock.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["rock", "stone"]
+  },
+  {
+    "key": "rooster",
+    "path": "Animals Neture/Rooster.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["rooster", "animal", "nature", "chicken"]
+  },
+  {
+    "key": "rose",
+    "path": "Animals Neture/Rose.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["rose", "flowers", "valentines", "love", "spring"]
+  },
+  {
+    "key": "rosette",
+    "path": "Animals Neture/Rosette.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["rosette", "flower", "decoration", "military"]
+  },
+  {
+    "key": "sauropod",
+    "path": "Animals Neture/Sauropod.png",
+    "categoryKey": "animals-nature",
+    "suggestions": [
+      "sauropod",
+      "animal",
+      "nature",
+      "dinosaur",
+      "brachiosaurus",
+      "brontosaurus",
+      "diplodocus",
+      "extinct"
+    ]
+  },
+  {
+    "key": "scorpion",
+    "path": "Animals Neture/Scorpion.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["scorpion", "animal", "arachnid"]
+  },
+  {
+    "key": "seal",
+    "path": "Animals Neture/Seal.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["seal", "animal", "creature", "sea"]
+  },
+  {
+    "key": "see_no_evil_monkey",
+    "path": "Animals Neture/See No Evil Monkey.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["see_no_evil_monkey", "monkey", "animal", "nature", "haha"]
+  },
+  {
+    "key": "seedling",
+    "path": "Animals Neture/Seedling.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["seedling", "plant", "nature", "grass", "lawn", "spring"]
+  },
+  {
+    "key": "service_dog",
+    "path": "Animals Neture/Service Dog.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["service_dog", "blind", "animal"]
+  },
+  {
+    "key": "shamrock",
+    "path": "Animals Neture/Shamrock.png",
+    "categoryKey": "animals-nature",
+    "suggestions": [
+      "shamrock",
+      "vegetable",
+      "plant",
+      "nature",
+      "irish",
+      "clover"
+    ]
+  },
+  {
+    "key": "shark",
+    "path": "Animals Neture/Shark.png",
+    "categoryKey": "animals-nature",
+    "suggestions": [
+      "shark",
+      "animal",
+      "nature",
+      "fish",
+      "sea",
+      "ocean",
+      "jaws",
+      "fins",
+      "beach"
+    ]
+  },
+  {
+    "key": "sheaf_of_rice",
+    "path": "Animals Neture/Sheaf Of Rice.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["sheaf_of_rice", "nature", "plant"]
+  },
+  {
+    "key": "shooting_star",
+    "path": "Animals Neture/Shooting Star.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["shooting_star", "night", "photo"]
+  },
+  {
+    "key": "shrimp",
+    "path": "Animals Neture/Shrimp.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["shrimp", "animal", "ocean", "nature", "seafood"]
+  },
+  {
+    "key": "skunk",
+    "path": "Animals Neture/Skunk.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["skunk", "animal"]
+  },
+  {
+    "key": "sloth",
+    "path": "Animals Neture/Sloth.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["sloth", "animal"]
+  },
+  {
+    "key": "snail",
+    "path": "Animals Neture/Snail.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["snail", "slow", "animal", "shell"]
+  },
+  {
+    "key": "snake",
+    "path": "Animals Neture/Snake.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["snake", "animal", "evil", "nature", "hiss", "python"]
+  },
+  {
+    "key": "speak_no_evil_monkey",
+    "path": "Animals Neture/Speak No Evil Monkey.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["speak_no_evil_monkey", "monkey", "animal", "nature", "omg"]
+  },
+  {
+    "key": "spider_web",
+    "path": "Animals Neture/Spider Web.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["spider_web", "animal", "insect", "arachnid", "silk"]
+  },
+  {
+    "key": "spider",
+    "path": "Animals Neture/Spider.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["spider", "animal", "arachnid"]
+  },
+  {
+    "key": "spiral_shell",
+    "path": "Animals Neture/Spiral Shell.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["spiral_shell", "nature", "sea", "beach"]
+  },
+  {
+    "key": "spouting_whale",
+    "path": "Animals Neture/Spouting Whale.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["spouting_whale", "animal", "nature", "sea", "ocean"]
+  },
+  {
+    "key": "squid",
+    "path": "Animals Neture/Squid.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["squid", "animal", "nature", "ocean", "sea"]
+  },
+  {
+    "key": "star",
+    "path": "Animals Neture/Star.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["star", "night", "yellow"]
+  },
+  {
+    "key": "sun_behind_cloud",
+    "path": "Animals Neture/Sun Behind Cloud.png",
+    "categoryKey": "animals-nature",
+    "suggestions": [
+      "sun_behind_cloud",
+      "weather",
+      "nature",
+      "cloudy",
+      "morning",
+      "fall",
+      "spring"
+    ]
+  },
+  {
+    "key": "sun_behind_large_cloud",
+    "path": "Animals Neture/Sun Behind Large Cloud.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["sun_behind_large_cloud", "weather"]
+  },
+  {
+    "key": "sun_behind_rain_cloud",
+    "path": "Animals Neture/Sun Behind Rain Cloud.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["sun_behind_rain_cloud", "weather"]
+  },
+  {
+    "key": "sun_behind_small_cloud",
+    "path": "Animals Neture/Sun Behind Small Cloud.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["sun_behind_small_cloud", "weather"]
+  },
+  {
+    "key": "sun_with_face",
+    "path": "Animals Neture/Sun With Face.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["sun_with_face", "nature", "morning", "sky"]
+  },
+  {
+    "key": "sun",
+    "path": "Animals Neture/Sun.png",
+    "categoryKey": "animals-nature",
+    "suggestions": [
+      "sun",
+      "weather",
+      "nature",
+      "brightness",
+      "summer",
+      "beach",
+      "spring"
+    ]
+  },
+  {
+    "key": "sunflower",
+    "path": "Animals Neture/Sunflower.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["sunflower", "nature", "plant", "fall"]
+  },
+  {
+    "key": "swan",
+    "path": "Animals Neture/Swan.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["swan", "animal", "nature", "bird"]
+  },
+  {
+    "key": "t_rex",
+    "path": "Animals Neture/T Rex.png",
+    "categoryKey": "animals-nature",
+    "suggestions": [
+      "t_rex",
+      "animal",
+      "nature",
+      "dinosaur",
+      "tyrannosaurus",
+      "extinct"
+    ]
+  },
+  {
+    "key": "tanabata_tree",
+    "path": "Animals Neture/Tanabata Tree.png",
+    "categoryKey": "animals-nature",
+    "suggestions": [
+      "tanabata_tree",
+      "plant",
+      "nature",
+      "branch",
+      "summer",
+      "bamboo",
+      "wish",
+      "star_festival",
+      "tanzaku"
+    ]
+  },
+  {
+    "key": "tiger_face",
+    "path": "Animals Neture/Tiger Face.png",
+    "categoryKey": "animals-nature",
+    "suggestions": [
+      "tiger_face",
+      "animal",
+      "cat",
+      "danger",
+      "wild",
+      "nature",
+      "roar"
+    ]
+  },
+  {
+    "key": "tiger",
+    "path": "Animals Neture/Tiger.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["tiger", "animal", "nature", "roar"]
+  },
+  {
+    "key": "tropical_fish",
+    "path": "Animals Neture/Tropical Fish.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["tropical_fish", "animal", "swim", "ocean", "beach", "nemo"]
+  },
+  {
+    "key": "tulip",
+    "path": "Animals Neture/Tulip.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["tulip", "flowers", "plant", "nature", "summer", "spring"]
+  },
+  {
+    "key": "turkey",
+    "path": "Animals Neture/Turkey.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["turkey", "animal", "bird"]
+  },
+  {
+    "key": "turtle",
+    "path": "Animals Neture/Turtle.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["turtle", "animal", "slow", "nature", "tortoise"]
+  },
+  {
+    "key": "two_hump_camel",
+    "path": "Animals Neture/Two Hump Camel.png",
+    "categoryKey": "animals-nature",
+    "suggestions": [
+      "two_hump_camel",
+      "animal",
+      "nature",
+      "hot",
+      "desert",
+      "hump"
+    ]
+  },
+  {
+    "key": "umbrella_with_rain_drops",
+    "path": "Animals Neture/Umbrella With Rain Drops.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["umbrella_with_rain_drops", "rainy", "weather", "spring"]
+  },
+  {
+    "key": "umbrella",
+    "path": "Animals Neture/Umbrella.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["umbrella", "weather", "spring"]
+  },
+  {
+    "key": "unicorn",
+    "path": "Animals Neture/Unicorn.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["unicorn", "animal", "nature", "mystical"]
+  },
+  {
+    "key": "waning_crescent_moon",
+    "path": "Animals Neture/Waning Crescent Moon.png",
+    "categoryKey": "animals-nature",
+    "suggestions": [
+      "waning_crescent_moon",
+      "nature",
+      "twilight",
+      "planet",
+      "space",
+      "night",
+      "evening",
+      "sleep"
+    ]
+  },
+  {
+    "key": "waning_gibbous_moon",
+    "path": "Animals Neture/Waning Gibbous Moon.png",
+    "categoryKey": "animals-nature",
+    "suggestions": [
+      "waning_gibbous_moon",
+      "nature",
+      "twilight",
+      "planet",
+      "space",
+      "night",
+      "evening",
+      "sleep",
+      "waxing_gibbous_moon"
+    ]
+  },
+  {
+    "key": "water_buffalo",
+    "path": "Animals Neture/Water Buffalo.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["water_buffalo", "animal", "nature", "ox", "cow"]
+  },
+  {
+    "key": "water_wave",
+    "path": "Animals Neture/Water Wave.png",
+    "categoryKey": "animals-nature",
+    "suggestions": [
+      "water_wave",
+      "sea",
+      "water",
+      "wave",
+      "nature",
+      "tsunami",
+      "disaster"
+    ]
+  },
+  {
+    "key": "waxing_crescent_moon",
+    "path": "Animals Neture/Waxing Crescent Moon.png",
+    "categoryKey": "animals-nature",
+    "suggestions": [
+      "waxing_crescent_moon",
+      "nature",
+      "twilight",
+      "planet",
+      "space",
+      "night",
+      "evening",
+      "sleep"
+    ]
+  },
+  {
+    "key": "waxing_gibbous_moon",
+    "path": "Animals Neture/Waxing Gibbous Moon.png",
+    "categoryKey": "animals-nature",
+    "suggestions": [
+      "waxing_gibbous_moon",
+      "nature",
+      "night",
+      "sky",
+      "gray",
+      "twilight",
+      "planet",
+      "space",
+      "evening",
+      "sleep"
+    ]
+  },
+  {
+    "key": "whale",
+    "path": "Animals Neture/Whale.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["whale", "animal", "nature", "sea", "ocean"]
+  },
+  {
+    "key": "wilted_flower",
+    "path": "Animals Neture/Wilted Flower.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["wilted_flower", "plant", "nature", "flower", "rose"]
+  },
+  {
+    "key": "wind_face",
+    "path": "Animals Neture/Wind Face.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["wind_face", "gust", "air"]
+  },
+  {
+    "key": "wolf",
+    "path": "Animals Neture/Wolf.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["wolf", "animal", "nature", "wild"]
+  },
+  {
+    "key": "worm",
+    "path": "Animals Neture/Worm.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["worm", "animal"]
+  },
+  {
+    "key": "zebra",
+    "path": "Animals Neture/Zebra.png",
+    "categoryKey": "animals-nature",
+    "suggestions": ["zebra", "animal", "nature", "stripes", "safari"]
+  }
+]

@@ -1,0 +1,10 @@
+# Dependency directories
+node_modules/
+**/node_modules/
+
+# Build files
+dist
+
+.DS_Store
+**/.vscode
+.idea

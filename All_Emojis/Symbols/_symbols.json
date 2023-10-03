@@ -1,0 +1,2689 @@
+[
+  {
+    "key": "a_button_blood_type",
+    "path": "Symbols/A Button Blood Type.png",
+    "categoryKey": "symbols",
+    "suggestions": ["a_button_blood_type", "red-square", "alphabet", "letter"]
+  },
+  {
+    "key": "ab_button_blood_type",
+    "path": "Symbols/Ab Button Blood Type.png",
+    "categoryKey": "symbols",
+    "suggestions": ["ab_button_blood_type", "red-square", "alphabet"]
+  },
+  {
+    "key": "anger_symbol",
+    "path": "Symbols/Anger Symbol.png",
+    "categoryKey": "symbols",
+    "suggestions": ["anger_symbol", "angry", "mad"]
+  },
+  {
+    "key": "antenna_bars",
+    "path": "Symbols/Antenna Bars.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "antenna_bars",
+      "blue-square",
+      "reception",
+      "phone",
+      "internet",
+      "connection",
+      "wifi",
+      "bluetooth",
+      "bars"
+    ]
+  },
+  {
+    "key": "aquarius",
+    "path": "Symbols/Aquarius.png",
+    "categoryKey": "symbols",
+    "suggestions": ["aquarius", "sign", "purple-square", "zodiac", "astrology"]
+  },
+  {
+    "key": "aries",
+    "path": "Symbols/Aries.png",
+    "categoryKey": "symbols",
+    "suggestions": ["aries", "sign", "purple-square", "zodiac", "astrology"]
+  },
+  {
+    "key": "atm_sign",
+    "path": "Symbols/Atm Sign.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "atm_sign",
+      "money",
+      "sales",
+      "cash",
+      "blue-square",
+      "payment",
+      "bank"
+    ]
+  },
+  {
+    "key": "atom_symbol",
+    "path": "Symbols/Atom Symbol.png",
+    "categoryKey": "symbols",
+    "suggestions": ["atom_symbol", "science", "physics", "chemistry"]
+  },
+  {
+    "key": "b_button_blood_type",
+    "path": "Symbols/B Button Blood Type.png",
+    "categoryKey": "symbols",
+    "suggestions": ["b_button_blood_type", "red-square", "alphabet", "letter"]
+  },
+  {
+    "key": "baby_symbol",
+    "path": "Symbols/Baby Symbol.png",
+    "categoryKey": "symbols",
+    "suggestions": ["baby_symbol", "orange-square", "child"]
+  },
+  {
+    "key": "back_arrow",
+    "path": "Symbols/Back Arrow.png",
+    "categoryKey": "symbols",
+    "suggestions": ["back_arrow", "arrow", "words", "return"]
+  },
+  {
+    "key": "barber_pole",
+    "path": "Symbols/Barber Pole.png",
+    "categoryKey": "symbols",
+    "suggestions": ["barber_pole", "hair", "salon", "style"]
+  },
+  {
+    "key": "beating_heart",
+    "path": "Symbols/Beating Heart.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "beating_heart",
+      "love",
+      "like",
+      "affection",
+      "valentines",
+      "pink",
+      "heart"
+    ]
+  },
+  {
+    "key": "bell_with_slash",
+    "path": "Symbols/Bell With Slash.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "bell_with_slash",
+      "sound",
+      "volume",
+      "mute",
+      "quiet",
+      "silent"
+    ]
+  },
+  {
+    "key": "bell",
+    "path": "Symbols/Bell.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "bell",
+      "sound",
+      "notification",
+      "christmas",
+      "xmas",
+      "chime"
+    ]
+  },
+  {
+    "key": "biohazard",
+    "path": "Symbols/Biohazard.png",
+    "categoryKey": "symbols",
+    "suggestions": ["biohazard", "danger"]
+  },
+  {
+    "key": "black_circle",
+    "path": "Symbols/Black Circle.png",
+    "categoryKey": "symbols",
+    "suggestions": ["black_circle", "shape", "button", "round"]
+  },
+  {
+    "key": "black_heart",
+    "path": "Symbols/Black Heart.png",
+    "categoryKey": "symbols",
+    "suggestions": ["black_heart", "evil"]
+  },
+  {
+    "key": "black_large_square",
+    "path": "Symbols/Black Large Square.png",
+    "categoryKey": "symbols",
+    "suggestions": ["black_large_square", "shape", "icon", "button"]
+  },
+  {
+    "key": "black_medium_small_square",
+    "path": "Symbols/Black Medium Small Square.png",
+    "categoryKey": "symbols",
+    "suggestions": ["black_medium_small_square", "icon", "shape", "button"]
+  },
+  {
+    "key": "black_medium_square",
+    "path": "Symbols/Black Medium Square.png",
+    "categoryKey": "symbols",
+    "suggestions": ["black_medium_square", "shape", "button", "icon"]
+  },
+  {
+    "key": "black_small_square",
+    "path": "Symbols/Black Small Square.png",
+    "categoryKey": "symbols",
+    "suggestions": ["black_small_square", "shape", "icon"]
+  },
+  {
+    "key": "black_square_button",
+    "path": "Symbols/Black Square Button.png",
+    "categoryKey": "symbols",
+    "suggestions": ["black_square_button", "shape", "input", "frame"]
+  },
+  {
+    "key": "blue_heart",
+    "path": "Symbols/Blue Heart.png",
+    "categoryKey": "symbols",
+    "suggestions": ["blue_heart", "love", "like", "affection", "valentines"]
+  },
+  {
+    "key": "bright_button",
+    "path": "Symbols/Bright Button.png",
+    "categoryKey": "symbols",
+    "suggestions": ["bright_button", "sun", "light"]
+  },
+  {
+    "key": "broken_heart",
+    "path": "Symbols/Broken Heart.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "broken_heart",
+      "sad",
+      "sorry",
+      "break",
+      "heart",
+      "heartbreak"
+    ]
+  },
+  {
+    "key": "brown_heart",
+    "path": "Symbols/Brown Heart.png",
+    "categoryKey": "symbols",
+    "suggestions": ["brown_heart", "coffee"]
+  },
+  {
+    "key": "cancer",
+    "path": "Symbols/Cancer.png",
+    "categoryKey": "symbols",
+    "suggestions": ["cancer", "sign", "zodiac", "purple-square", "astrology"]
+  },
+  {
+    "key": "capricorn",
+    "path": "Symbols/Capricorn.png",
+    "categoryKey": "symbols",
+    "suggestions": ["capricorn", "sign", "zodiac", "purple-square", "astrology"]
+  },
+  {
+    "key": "chart_increasing_with_yen",
+    "path": "Symbols/Chart Increasing With Yen.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "chart_increasing_with_yen",
+      "green-square",
+      "graph",
+      "presentation",
+      "stats"
+    ]
+  },
+  {
+    "key": "check_box_with_check",
+    "path": "Symbols/Check Box With Check.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "check_box_with_check",
+      "ok",
+      "agree",
+      "confirm",
+      "black-square",
+      "vote",
+      "election",
+      "yes",
+      "tick"
+    ]
+  },
+  {
+    "key": "check_mark_button",
+    "path": "Symbols/Check Mark Button.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "check_mark_button",
+      "green-square",
+      "ok",
+      "agree",
+      "vote",
+      "election",
+      "answer",
+      "tick"
+    ]
+  },
+  {
+    "key": "check_mark",
+    "path": "Symbols/Check Mark.png",
+    "categoryKey": "symbols",
+    "suggestions": ["check_mark", "ok", "nike", "answer", "yes", "tick"]
+  },
+  {
+    "key": "children_crossing",
+    "path": "Symbols/Children Crossing.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "children_crossing",
+      "school",
+      "warning",
+      "danger",
+      "sign",
+      "driving",
+      "yellow-diamond"
+    ]
+  },
+  {
+    "key": "cinema",
+    "path": "Symbols/Cinema.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "cinema",
+      "blue-square",
+      "record",
+      "film",
+      "movie",
+      "curtain",
+      "stage",
+      "theater"
+    ]
+  },
+  {
+    "key": "circled_m",
+    "path": "Symbols/Circled M.png",
+    "categoryKey": "symbols",
+    "suggestions": ["circled_m", "alphabet", "blue-circle", "letter"]
+  },
+  {
+    "key": "cl_button",
+    "path": "Symbols/Cl Button.png",
+    "categoryKey": "symbols",
+    "suggestions": ["cl_button", "alphabet", "words", "red-square"]
+  },
+  {
+    "key": "clockwise_vertical_arrows",
+    "path": "Symbols/Clockwise Vertical Arrows.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "clockwise_vertical_arrows",
+      "sync",
+      "cycle",
+      "round",
+      "repeat"
+    ]
+  },
+  {
+    "key": "club_suit",
+    "path": "Symbols/Club Suit.png",
+    "categoryKey": "symbols",
+    "suggestions": ["club_suit", "poker", "cards", "magic", "suits"]
+  },
+  {
+    "key": "cool_button",
+    "path": "Symbols/Cool Button.png",
+    "categoryKey": "symbols",
+    "suggestions": ["cool_button", "words", "blue-square"]
+  },
+  {
+    "key": "copyright",
+    "path": "Symbols/Copyright.png",
+    "categoryKey": "symbols",
+    "suggestions": ["copyright", "ip", "license", "circle", "law", "legal"]
+  },
+  {
+    "key": "counterclockwise_arrows_button",
+    "path": "Symbols/Counterclockwise Arrows Button.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "counterclockwise_arrows_button",
+      "blue-square",
+      "sync",
+      "cycle"
+    ]
+  },
+  {
+    "key": "cross_mark_button",
+    "path": "Symbols/Cross Mark Button.png",
+    "categoryKey": "symbols",
+    "suggestions": ["cross_mark_button", "x", "green-square", "no", "deny"]
+  },
+  {
+    "key": "cross_mark",
+    "path": "Symbols/Cross Mark.png",
+    "categoryKey": "symbols",
+    "suggestions": ["cross_mark", "no", "delete", "remove", "cancel", "red"]
+  },
+  {
+    "key": "curly_loop",
+    "path": "Symbols/Curly Loop.png",
+    "categoryKey": "symbols",
+    "suggestions": ["curly_loop", "scribble", "draw", "shape", "squiggle"]
+  },
+  {
+    "key": "currency_exchange",
+    "path": "Symbols/Currency Exchange.png",
+    "categoryKey": "symbols",
+    "suggestions": ["currency_exchange", "money", "sales", "dollar", "travel"]
+  },
+  {
+    "key": "cyclone",
+    "path": "Symbols/Cyclone.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "cyclone",
+      "weather",
+      "swirl",
+      "blue",
+      "cloud",
+      "vortex",
+      "spiral",
+      "whirlpool",
+      "spin",
+      "tornado",
+      "hurricane",
+      "typhoon"
+    ]
+  },
+  {
+    "key": "diamond_suit",
+    "path": "Symbols/Diamond Suit.png",
+    "categoryKey": "symbols",
+    "suggestions": ["diamond_suit", "poker", "cards", "magic", "suits"]
+  },
+  {
+    "key": "diamond_with_a_dot",
+    "path": "Symbols/Diamond With A Dot.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "diamond_with_a_dot",
+      "jewel",
+      "blue",
+      "gem",
+      "crystal",
+      "fancy"
+    ]
+  },
+  {
+    "key": "dim_button",
+    "path": "Symbols/Dim Button.png",
+    "categoryKey": "symbols",
+    "suggestions": ["dim_button", "sun", "afternoon", "warm", "summer"]
+  },
+  {
+    "key": "divide",
+    "path": "Symbols/Divide.png",
+    "categoryKey": "symbols",
+    "suggestions": ["divide", "divide", "math", "calculation"]
+  },
+  {
+    "key": "dotted_six_pointed_star",
+    "path": "Symbols/Dotted Six Pointed Star.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "dotted_six_pointed_star",
+      "purple-square",
+      "religion",
+      "jewish",
+      "hexagram"
+    ]
+  },
+  {
+    "key": "double_curly_loop",
+    "path": "Symbols/Double Curly Loop.png",
+    "categoryKey": "symbols",
+    "suggestions": ["double_curly_loop", "tape", "cassette"]
+  },
+  {
+    "key": "double_exclamation_mark",
+    "path": "Symbols/Double Exclamation Mark.png",
+    "categoryKey": "symbols",
+    "suggestions": ["double_exclamation_mark", "exclamation", "surprise"]
+  },
+  {
+    "key": "down_arrow",
+    "path": "Symbols/Down Arrow.png",
+    "categoryKey": "symbols",
+    "suggestions": ["down_arrow", "blue-square", "direction", "bottom"]
+  },
+  {
+    "key": "down_left_arrow",
+    "path": "Symbols/Down Left Arrow.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "down_left_arrow",
+      "blue-square",
+      "direction",
+      "diagonal",
+      "southwest"
+    ]
+  },
+  {
+    "key": "down_right_arrow",
+    "path": "Symbols/Down Right Arrow.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "down_right_arrow",
+      "blue-square",
+      "direction",
+      "diagonal",
+      "southeast"
+    ]
+  },
+  {
+    "key": "downwards_button",
+    "path": "Symbols/Downwards Button.png",
+    "categoryKey": "symbols",
+    "suggestions": ["downwards_button", "blue-square", "direction", "bottom"]
+  },
+  {
+    "key": "eight_oclock",
+    "path": "Symbols/Eight Oclock.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "eight_oclock",
+      "8",
+      "8:00",
+      "800",
+      "20:00",
+      "2000",
+      "time",
+      "late",
+      "early",
+      "schedule"
+    ]
+  },
+  {
+    "key": "eight_pointed_star",
+    "path": "Symbols/Eight Pointed Star.png",
+    "categoryKey": "symbols",
+    "suggestions": ["eight_pointed_star", "orange-square", "shape", "polygon"]
+  },
+  {
+    "key": "eight_spoked_asterisk",
+    "path": "Symbols/Eight Spoked Asterisk.png",
+    "categoryKey": "symbols",
+    "suggestions": ["eight_spoked_asterisk", "star", "sparkle", "green-square"]
+  },
+  {
+    "key": "eight_thirty",
+    "path": "Symbols/Eight Thirty.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "eight_thirty",
+      "8:30",
+      "830",
+      "20:30",
+      "2030",
+      "time",
+      "late",
+      "early",
+      "schedule"
+    ]
+  },
+  {
+    "key": "eject_button",
+    "path": "Symbols/Eject Button.png",
+    "categoryKey": "symbols",
+    "suggestions": ["eject_button", "blue-square"]
+  },
+  {
+    "key": "elevator",
+    "path": "Symbols/Elevator.png",
+    "categoryKey": "symbols",
+    "suggestions": ["elevator", "lift"]
+  },
+  {
+    "key": "eleven_oclock",
+    "path": "Symbols/Eleven Oclock.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "eleven_oclock",
+      "11",
+      "11:00",
+      "1100",
+      "23:00",
+      "2300",
+      "time",
+      "late",
+      "early",
+      "schedule"
+    ]
+  },
+  {
+    "key": "eleven_thirty",
+    "path": "Symbols/Eleven Thirty.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "eleven_thirty",
+      "11:30",
+      "1130",
+      "23:30",
+      "2330",
+      "time",
+      "late",
+      "early",
+      "schedule"
+    ]
+  },
+  {
+    "key": "end_arrow",
+    "path": "Symbols/End Arrow.png",
+    "categoryKey": "symbols",
+    "suggestions": ["end_arrow", "words", "arrow"]
+  },
+  {
+    "key": "exclamation_mark",
+    "path": "Symbols/Exclamation Mark.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "exclamation_mark",
+      "heavy_exclamation_mark",
+      "danger",
+      "surprise",
+      "punctuation",
+      "wow",
+      "warning"
+    ]
+  },
+  {
+    "key": "exclamation_question_mark",
+    "path": "Symbols/Exclamation Question Mark.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "exclamation_question_mark",
+      "wat",
+      "punctuation",
+      "surprise"
+    ]
+  },
+  {
+    "key": "eye_in_speech_bubble",
+    "path": "Symbols/Eye In Speech Bubble.png",
+    "categoryKey": "symbols",
+    "suggestions": ["eye_in_speech_bubble", "info"]
+  },
+  {
+    "key": "fast_down_button",
+    "path": "Symbols/Fast Down Button.png",
+    "categoryKey": "symbols",
+    "suggestions": ["fast_down_button", "blue-square", "direction", "bottom"]
+  },
+  {
+    "key": "fast_forward_button",
+    "path": "Symbols/Fast Forward Button.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "fast_forward_button",
+      "blue-square",
+      "play",
+      "speed",
+      "continue"
+    ]
+  },
+  {
+    "key": "fast_reverse_button",
+    "path": "Symbols/Fast Reverse Button.png",
+    "categoryKey": "symbols",
+    "suggestions": ["fast_reverse_button", "play", "blue-square"]
+  },
+  {
+    "key": "fast_up_button",
+    "path": "Symbols/Fast Up Button.png",
+    "categoryKey": "symbols",
+    "suggestions": ["fast_up_button", "blue-square", "direction", "top"]
+  },
+  {
+    "key": "five_oclock",
+    "path": "Symbols/Five Oclock.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "five_oclock",
+      "5",
+      "5:00",
+      "500",
+      "17:00",
+      "1700",
+      "time",
+      "late",
+      "early",
+      "schedule"
+    ]
+  },
+  {
+    "key": "five_thirty",
+    "path": "Symbols/Five Thirty.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "five_thirty",
+      "5:30",
+      "530",
+      "17:30",
+      "1730",
+      "time",
+      "late",
+      "early",
+      "schedule"
+    ]
+  },
+  {
+    "key": "fleur_de_lis",
+    "path": "Symbols/Fleur De Lis.png",
+    "categoryKey": "symbols",
+    "suggestions": ["fleur_de_lis", "decorative", "scout"]
+  },
+  {
+    "key": "flower_playing_cards",
+    "path": "Symbols/Flower Playing Cards.png",
+    "categoryKey": "symbols",
+    "suggestions": ["flower_playing_cards", "game", "sunset", "red"]
+  },
+  {
+    "key": "four_oclock",
+    "path": "Symbols/Four Oclock.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "four_oclock",
+      "4",
+      "4:00",
+      "400",
+      "16:00",
+      "1600",
+      "time",
+      "late",
+      "early",
+      "schedule"
+    ]
+  },
+  {
+    "key": "four_thirty",
+    "path": "Symbols/Four Thirty.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "four_thirty",
+      "4:30",
+      "430",
+      "16:30",
+      "1630",
+      "time",
+      "late",
+      "early",
+      "schedule"
+    ]
+  },
+  {
+    "key": "free_button",
+    "path": "Symbols/Free Button.png",
+    "categoryKey": "symbols",
+    "suggestions": ["free_button", "blue-square", "words"]
+  },
+  {
+    "key": "gemini",
+    "path": "Symbols/Gemini.png",
+    "categoryKey": "symbols",
+    "suggestions": ["gemini", "sign", "zodiac", "purple-square", "astrology"]
+  },
+  {
+    "key": "green_heart",
+    "path": "Symbols/Green Heart.png",
+    "categoryKey": "symbols",
+    "suggestions": ["green_heart", "love", "like", "affection", "valentines"]
+  },
+  {
+    "key": "growing_heart",
+    "path": "Symbols/Growing Heart.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "growing_heart",
+      "like",
+      "love",
+      "affection",
+      "valentines",
+      "pink"
+    ]
+  },
+  {
+    "key": "heart_decoration",
+    "path": "Symbols/Heart Decoration.png",
+    "categoryKey": "symbols",
+    "suggestions": ["heart_decoration", "purple-square", "love", "like"]
+  },
+  {
+    "key": "heart_exclamation",
+    "path": "Symbols/Heart Exclamation.png",
+    "categoryKey": "symbols",
+    "suggestions": ["heart_exclamation", "decoration", "love"]
+  },
+  {
+    "key": "heart_on_fire",
+    "path": "Symbols/Heart On Fire.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "heart_on_fire",
+      "heart on fire",
+      "passionate",
+      "enthusiastic"
+    ]
+  },
+  {
+    "key": "heart_suit",
+    "path": "Symbols/Heart Suit.png",
+    "categoryKey": "symbols",
+    "suggestions": ["heart_suit", "poker", "cards", "magic", "suits"]
+  },
+  {
+    "key": "heart_with_arrow",
+    "path": "Symbols/Heart With Arrow.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "heart_with_arrow",
+      "love",
+      "like",
+      "heart",
+      "affection",
+      "valentines"
+    ]
+  },
+  {
+    "key": "heart_with_ribbon",
+    "path": "Symbols/Heart With Ribbon.png",
+    "categoryKey": "symbols",
+    "suggestions": ["heart_with_ribbon", "love", "valentines"]
+  },
+  {
+    "key": "heavy_dollar_sign",
+    "path": "Symbols/Heavy Dollar Sign.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "heavy_dollar_sign",
+      "money",
+      "sales",
+      "payment",
+      "currency",
+      "buck"
+    ]
+  },
+  {
+    "key": "hollow_red_circle",
+    "path": "Symbols/Hollow Red Circle.png",
+    "categoryKey": "symbols",
+    "suggestions": ["hollow_red_circle", "circle", "round"]
+  },
+  {
+    "key": "hot_springs",
+    "path": "Symbols/Hot Springs.png",
+    "categoryKey": "symbols",
+    "suggestions": ["hot_springs", "bath", "warm", "relax"]
+  },
+  {
+    "key": "hundred_points",
+    "path": "Symbols/Hundred Points.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "hundred_points",
+      "score",
+      "perfect",
+      "numbers",
+      "century",
+      "exam",
+      "quiz",
+      "test",
+      "pass",
+      "hundred"
+    ]
+  },
+  {
+    "key": "id_button",
+    "path": "Symbols/Id Button.png",
+    "categoryKey": "symbols",
+    "suggestions": ["id_button", "purple-square", "words"]
+  },
+  {
+    "key": "infinity",
+    "path": "Symbols/Infinity.png",
+    "categoryKey": "symbols",
+    "suggestions": ["infinity", "forever"]
+  },
+  {
+    "key": "information",
+    "path": "Symbols/Information.png",
+    "categoryKey": "symbols",
+    "suggestions": ["information", "blue-square", "alphabet", "letter"]
+  },
+  {
+    "key": "input_latin_letters",
+    "path": "Symbols/Input Latin Letters.png",
+    "categoryKey": "symbols",
+    "suggestions": ["input_latin_letters", "blue-square", "alphabet"]
+  },
+  {
+    "key": "input_latin_lowercase",
+    "path": "Symbols/Input Latin Lowercase.png",
+    "categoryKey": "symbols",
+    "suggestions": ["input_latin_lowercase", "blue-square", "alphabet"]
+  },
+  {
+    "key": "input_latin_uppercase",
+    "path": "Symbols/Input Latin Uppercase.png",
+    "categoryKey": "symbols",
+    "suggestions": ["input_latin_uppercase", "alphabet", "words", "blue-square"]
+  },
+  {
+    "key": "input_numbers",
+    "path": "Symbols/Input Numbers.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "input_numbers",
+      "numbers",
+      "blue-square",
+      "1234",
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "key": "input_symbols",
+    "path": "Symbols/Input Symbols.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "input_symbols",
+      "blue-square",
+      "music",
+      "note",
+      "ampersand",
+      "percent",
+      "glyphs",
+      "characters"
+    ]
+  },
+  {
+    "key": "japanese_acceptable_button",
+    "path": "Symbols/Japanese Acceptable Button.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "japanese_acceptable_button",
+      "ok",
+      "good",
+      "chinese",
+      "kanji",
+      "agree",
+      "yes",
+      "orange-circle"
+    ]
+  },
+  {
+    "key": "japanese_application_button",
+    "path": "Symbols/Japanese Application Button.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "japanese_application_button",
+      "chinese",
+      "japanese",
+      "kanji",
+      "orange-square"
+    ]
+  },
+  {
+    "key": "japanese_bargain_button",
+    "path": "Symbols/Japanese Bargain Button.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "japanese_bargain_button",
+      "chinese",
+      "kanji",
+      "obtain",
+      "get",
+      "circle"
+    ]
+  },
+  {
+    "key": "japanese_congratulations_button",
+    "path": "Symbols/Japanese Congratulations Button.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "japanese_congratulations_button",
+      "chinese",
+      "kanji",
+      "japanese",
+      "red-circle"
+    ]
+  },
+  {
+    "key": "japanese_discount_button",
+    "path": "Symbols/Japanese Discount Button.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "japanese_discount_button",
+      "cut",
+      "divide",
+      "chinese",
+      "kanji",
+      "pink-square"
+    ]
+  },
+  {
+    "key": "japanese_free_of_charge_button",
+    "path": "Symbols/Japanese Free Of Charge Button.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "japanese_free_of_charge_button",
+      "nothing",
+      "chinese",
+      "kanji",
+      "japanese",
+      "orange-square"
+    ]
+  },
+  {
+    "key": "japanese_here_button",
+    "path": "Symbols/Japanese Here Button.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "japanese_here_button",
+      "blue-square",
+      "here",
+      "katakana",
+      "japanese",
+      "destination"
+    ]
+  },
+  {
+    "key": "japanese_monthly_amount_button",
+    "path": "Symbols/Japanese Monthly Amount Button.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "japanese_monthly_amount_button",
+      "chinese",
+      "month",
+      "moon",
+      "japanese",
+      "orange-square",
+      "kanji"
+    ]
+  },
+  {
+    "key": "japanese_no_vacancy_button",
+    "path": "Symbols/Japanese No Vacancy Button.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "japanese_no_vacancy_button",
+      "full",
+      "chinese",
+      "japanese",
+      "red-square",
+      "kanji"
+    ]
+  },
+  {
+    "key": "japanese_not_free_of_charge_button",
+    "path": "Symbols/Japanese Not Free Of Charge Button.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "japanese_not_free_of_charge_button",
+      "orange-square",
+      "chinese",
+      "have",
+      "kanji"
+    ]
+  },
+  {
+    "key": "japanese_open_for_business_button",
+    "path": "Symbols/Japanese Open For Business Button.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "japanese_open_for_business_button",
+      "japanese",
+      "opening hours",
+      "orange-square"
+    ]
+  },
+  {
+    "key": "japanese_passing_grade_button",
+    "path": "Symbols/Japanese Passing Grade Button.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "japanese_passing_grade_button",
+      "japanese",
+      "chinese",
+      "join",
+      "kanji",
+      "red-square"
+    ]
+  },
+  {
+    "key": "japanese_prohibited_button",
+    "path": "Symbols/Japanese Prohibited Button.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "japanese_prohibited_button",
+      "kanji",
+      "japanese",
+      "chinese",
+      "forbidden",
+      "limit",
+      "restricted",
+      "red-square"
+    ]
+  },
+  {
+    "key": "japanese_reserved_button",
+    "path": "Symbols/Japanese Reserved Button.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "japanese_reserved_button",
+      "chinese",
+      "point",
+      "green-square",
+      "kanji"
+    ]
+  },
+  {
+    "key": "japanese_secret_button",
+    "path": "Symbols/Japanese Secret Button.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "japanese_secret_button",
+      "privacy",
+      "chinese",
+      "sshh",
+      "kanji",
+      "red-circle"
+    ]
+  },
+  {
+    "key": "japanese_service_charge_button",
+    "path": "Symbols/Japanese Service Charge Button.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "japanese_service_charge_button",
+      "japanese",
+      "blue-square",
+      "katakana"
+    ]
+  },
+  {
+    "key": "japanese_symbol_for_beginner",
+    "path": "Symbols/Japanese Symbol For Beginner.png",
+    "categoryKey": "symbols",
+    "suggestions": ["japanese_symbol_for_beginner", "badge", "shield"]
+  },
+  {
+    "key": "japanese_vacancy_button",
+    "path": "Symbols/Japanese Vacancy Button.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "japanese_vacancy_button",
+      "kanji",
+      "japanese",
+      "chinese",
+      "empty",
+      "sky",
+      "blue-square"
+    ]
+  },
+  {
+    "key": "joker",
+    "path": "Symbols/Joker.png",
+    "categoryKey": "symbols",
+    "suggestions": ["joker", "poker", "cards", "game", "play", "magic"]
+  },
+  {
+    "key": "keycap_10",
+    "path": "Symbols/Keycap 10.png",
+    "categoryKey": "symbols",
+    "suggestions": ["keycap_10", "keycap 10", "numbers", "10", "blue-square"]
+  },
+  {
+    "key": "keycap_asterisk",
+    "path": "Symbols/Keycap Asterisk.png",
+    "categoryKey": "symbols",
+    "suggestions": ["keycap_asterisk", "star", "blue-square"]
+  },
+  {
+    "key": "keycap_digit_eight",
+    "path": "Symbols/Keycap Digit Eight.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "keycap_digit_eight",
+      "keycap 8",
+      "8",
+      "blue-square",
+      "numbers"
+    ]
+  },
+  {
+    "key": "keycap_digit_five",
+    "path": "Symbols/Keycap Digit Five.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "keycap_digit_five",
+      "keycap 5",
+      "5",
+      "numbers",
+      "blue-square",
+      "prime"
+    ]
+  },
+  {
+    "key": "keycap_digit_four",
+    "path": "Symbols/Keycap Digit Four.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "keycap_digit_four",
+      "keycap 4",
+      "4",
+      "numbers",
+      "blue-square"
+    ]
+  },
+  {
+    "key": "keycap_digit_nine",
+    "path": "Symbols/Keycap Digit Nine.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "keycap_digit_nine",
+      "keycap 9",
+      "blue-square",
+      "numbers",
+      "9"
+    ]
+  },
+  {
+    "key": "keycap_digit_one",
+    "path": "Symbols/Keycap Digit One.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "keycap_digit_one",
+      "keycap 1",
+      "blue-square",
+      "numbers",
+      "1"
+    ]
+  },
+  {
+    "key": "keycap_digit_seven",
+    "path": "Symbols/Keycap Digit Seven.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "keycap_digit_seven",
+      "keycap 7",
+      "7",
+      "numbers",
+      "blue-square",
+      "prime"
+    ]
+  },
+  {
+    "key": "keycap_digit_six",
+    "path": "Symbols/Keycap Digit Six.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "keycap_digit_six",
+      "keycap 6",
+      "6",
+      "numbers",
+      "blue-square"
+    ]
+  },
+  {
+    "key": "keycap_digit_three",
+    "path": "Symbols/Keycap Digit Three.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "keycap_digit_three",
+      "keycap 3",
+      "3",
+      "numbers",
+      "prime",
+      "blue-square"
+    ]
+  },
+  {
+    "key": "keycap_digit_two",
+    "path": "Symbols/Keycap Digit Two.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "keycap_digit_two",
+      "keycap 2",
+      "numbers",
+      "2",
+      "prime",
+      "blue-square"
+    ]
+  },
+  {
+    "key": "keycap_digit_zero",
+    "path": "Symbols/Keycap Digit Zero.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "keycap_digit_zero",
+      "keycap 0",
+      "0",
+      "numbers",
+      "blue-square",
+      "null"
+    ]
+  },
+  {
+    "key": "keycap_number_sign",
+    "path": "Symbols/Keycap Number Sign.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "keycap_number_sign",
+      "keycap hash",
+      "symbol",
+      "blue-square",
+      "twitter"
+    ]
+  },
+  {
+    "key": "large_blue_circle",
+    "path": "Symbols/Large Blue Circle.png",
+    "categoryKey": "symbols",
+    "suggestions": ["large_blue_circle", "shape", "icon", "button"]
+  },
+  {
+    "key": "large_blue_diamond",
+    "path": "Symbols/Large Blue Diamond.png",
+    "categoryKey": "symbols",
+    "suggestions": ["large_blue_diamond", "shape", "jewel", "gem"]
+  },
+  {
+    "key": "large_blue_square",
+    "path": "Symbols/Large Blue Square.png",
+    "categoryKey": "symbols",
+    "suggestions": ["large_blue_square", "large blue square"]
+  },
+  {
+    "key": "large_brown_circle",
+    "path": "Symbols/Large Brown Circle.png",
+    "categoryKey": "symbols",
+    "suggestions": ["large_brown_circle", "round"]
+  },
+  {
+    "key": "large_brown_square",
+    "path": "Symbols/Large Brown Square.png",
+    "categoryKey": "symbols",
+    "suggestions": ["large_brown_square", "large brown square"]
+  },
+  {
+    "key": "large_green_circle",
+    "path": "Symbols/Large Green Circle.png",
+    "categoryKey": "symbols",
+    "suggestions": ["large_green_circle", "round"]
+  },
+  {
+    "key": "large_green_square",
+    "path": "Symbols/Large Green Square.png",
+    "categoryKey": "symbols",
+    "suggestions": ["large_green_square", "large green square"]
+  },
+  {
+    "key": "large_orange_circle",
+    "path": "Symbols/Large Orange Circle.png",
+    "categoryKey": "symbols",
+    "suggestions": ["large_orange_circle", "round"]
+  },
+  {
+    "key": "large_orange_diamond",
+    "path": "Symbols/Large Orange Diamond.png",
+    "categoryKey": "symbols",
+    "suggestions": ["large_orange_diamond", "shape", "jewel", "gem"]
+  },
+  {
+    "key": "large_orange_square",
+    "path": "Symbols/Large Orange Square.png",
+    "categoryKey": "symbols",
+    "suggestions": ["large_orange_square", "large orange square"]
+  },
+  {
+    "key": "large_purple_circle",
+    "path": "Symbols/Large Purple Circle.png",
+    "categoryKey": "symbols",
+    "suggestions": ["large_purple_circle", "round"]
+  },
+  {
+    "key": "large_purple_square",
+    "path": "Symbols/Large Purple Square.png",
+    "categoryKey": "symbols",
+    "suggestions": ["large_purple_square", "large purple square"]
+  },
+  {
+    "key": "large_red_circle",
+    "path": "Symbols/Large Red Circle.png",
+    "categoryKey": "symbols",
+    "suggestions": ["large_red_circle", "shape", "error", "danger"]
+  },
+  {
+    "key": "large_red_square",
+    "path": "Symbols/Large Red Square.png",
+    "categoryKey": "symbols",
+    "suggestions": ["large_red_square", "large red square"]
+  },
+  {
+    "key": "large_yellow_circle",
+    "path": "Symbols/Large Yellow Circle.png",
+    "categoryKey": "symbols",
+    "suggestions": ["large_yellow_circle", "round"]
+  },
+  {
+    "key": "large_yellow_square",
+    "path": "Symbols/Large Yellow Square.png",
+    "categoryKey": "symbols",
+    "suggestions": ["large_yellow_square", "large yellow square"]
+  },
+  {
+    "key": "last_track_button",
+    "path": "Symbols/Last Track Button.png",
+    "categoryKey": "symbols",
+    "suggestions": ["last_track_button", "backward"]
+  },
+  {
+    "key": "latin_cross",
+    "path": "Symbols/Latin Cross.png",
+    "categoryKey": "symbols",
+    "suggestions": ["latin_cross", "christianity"]
+  },
+  {
+    "key": "left_arrow_curving_right",
+    "path": "Symbols/Left Arrow Curving Right.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "left_arrow_curving_right",
+      "blue-square",
+      "return",
+      "rotate",
+      "direction"
+    ]
+  },
+  {
+    "key": "left_arrow",
+    "path": "Symbols/Left Arrow.png",
+    "categoryKey": "symbols",
+    "suggestions": ["left_arrow", "blue-square", "previous", "back"]
+  },
+  {
+    "key": "left_right_arrow",
+    "path": "Symbols/Left Right Arrow.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "left_right_arrow",
+      "shape",
+      "direction",
+      "horizontal",
+      "sideways"
+    ]
+  },
+  {
+    "key": "left_speech_bubble",
+    "path": "Symbols/Left Speech Bubble.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "left_speech_bubble",
+      "words",
+      "message",
+      "talk",
+      "chatting"
+    ]
+  },
+  {
+    "key": "leo",
+    "path": "Symbols/Leo.png",
+    "categoryKey": "symbols",
+    "suggestions": ["leo", "sign", "purple-square", "zodiac", "astrology"]
+  },
+  {
+    "key": "libra",
+    "path": "Symbols/Libra.png",
+    "categoryKey": "symbols",
+    "suggestions": ["libra", "sign", "purple-square", "zodiac", "astrology"]
+  },
+  {
+    "key": "litter_in_bin_sign",
+    "path": "Symbols/Litter In Bin Sign.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "litter_in_bin_sign",
+      "blue-square",
+      "sign",
+      "human",
+      "info"
+    ]
+  },
+  {
+    "key": "loudspeaker",
+    "path": "Symbols/Loudspeaker.png",
+    "categoryKey": "symbols",
+    "suggestions": ["loudspeaker", "volume", "sound"]
+  },
+  {
+    "key": "mahjong_red_dragon",
+    "path": "Symbols/Mahjong Red Dragon.png",
+    "categoryKey": "symbols",
+    "suggestions": ["mahjong_red_dragon", "game", "play", "chinese", "kanji"]
+  },
+  {
+    "key": "megaphone",
+    "path": "Symbols/Megaphone.png",
+    "categoryKey": "symbols",
+    "suggestions": ["megaphone", "sound", "speaker", "volume"]
+  },
+  {
+    "key": "mending_heart",
+    "path": "Symbols/Mending Heart.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "mending_heart",
+      "mending heart",
+      "broken heart",
+      "bandage",
+      "wounded"
+    ]
+  },
+  {
+    "key": "menorah",
+    "path": "Symbols/Menorah.png",
+    "categoryKey": "symbols",
+    "suggestions": ["menorah", "hanukkah", "candles", "jewish"]
+  },
+  {
+    "key": "mens_room",
+    "path": "Symbols/Mens Room.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "mens_room",
+      "toilet",
+      "restroom",
+      "wc",
+      "blue-square",
+      "gender",
+      "male"
+    ]
+  },
+  {
+    "key": "minus",
+    "path": "Symbols/Minus.png",
+    "categoryKey": "symbols",
+    "suggestions": ["minus", "math", "calculation", "subtract", "less"]
+  },
+  {
+    "key": "mobile_phone_off",
+    "path": "Symbols/Mobile Phone Off.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "mobile_phone_off",
+      "mute",
+      "orange-square",
+      "silence",
+      "quiet"
+    ]
+  },
+  {
+    "key": "multiply",
+    "path": "Symbols/Multiply.png",
+    "categoryKey": "symbols",
+    "suggestions": ["multiply", "math", "calculation"]
+  },
+  {
+    "key": "musical_note",
+    "path": "Symbols/Musical Note.png",
+    "categoryKey": "symbols",
+    "suggestions": ["musical_note", "score", "tone", "sound"]
+  },
+  {
+    "key": "musical_notes",
+    "path": "Symbols/Musical Notes.png",
+    "categoryKey": "symbols",
+    "suggestions": ["musical_notes", "music", "score"]
+  },
+  {
+    "key": "muted_speaker",
+    "path": "Symbols/Muted Speaker.png",
+    "categoryKey": "symbols",
+    "suggestions": ["muted_speaker", "sound", "volume", "silence", "quiet"]
+  },
+  {
+    "key": "name_badge",
+    "path": "Symbols/Name Badge.png",
+    "categoryKey": "symbols",
+    "suggestions": ["name_badge", "fire", "forbid"]
+  },
+  {
+    "key": "new_button",
+    "path": "Symbols/New Button.png",
+    "categoryKey": "symbols",
+    "suggestions": ["new_button", "blue-square", "words", "start"]
+  },
+  {
+    "key": "next_track_button",
+    "path": "Symbols/Next Track Button.png",
+    "categoryKey": "symbols",
+    "suggestions": ["next_track_button", "forward", "next", "blue-square"]
+  },
+  {
+    "key": "ng_button",
+    "path": "Symbols/Ng Button.png",
+    "categoryKey": "symbols",
+    "suggestions": ["ng_button", "blue-square", "words", "shape", "icon"]
+  },
+  {
+    "key": "nine_oclock",
+    "path": "Symbols/Nine Oclock.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "nine_oclock",
+      "9",
+      "9:00",
+      "900",
+      "21:00",
+      "2100",
+      "time",
+      "late",
+      "early",
+      "schedule"
+    ]
+  },
+  {
+    "key": "nine_thirty",
+    "path": "Symbols/Nine Thirty.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "nine_thirty",
+      "9:30",
+      "930",
+      "21:30",
+      "2130",
+      "time",
+      "late",
+      "early",
+      "schedule"
+    ]
+  },
+  {
+    "key": "no_bicycles",
+    "path": "Symbols/No Bicycles.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "no_bicycles",
+      "no_bikes",
+      "bicycle",
+      "bike",
+      "cyclist",
+      "prohibited",
+      "circle"
+    ]
+  },
+  {
+    "key": "no_entry",
+    "path": "Symbols/No Entry.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "no_entry",
+      "limit",
+      "security",
+      "privacy",
+      "bad",
+      "denied",
+      "stop",
+      "circle"
+    ]
+  },
+  {
+    "key": "no_littering",
+    "path": "Symbols/No Littering.png",
+    "categoryKey": "symbols",
+    "suggestions": ["no_littering", "trash", "bin", "garbage", "circle"]
+  },
+  {
+    "key": "no_mobile_phones",
+    "path": "Symbols/No Mobile Phones.png",
+    "categoryKey": "symbols",
+    "suggestions": ["no_mobile_phones", "iphone", "mute", "circle"]
+  },
+  {
+    "key": "no_one_under_eighteen",
+    "path": "Symbols/No One Under Eighteen.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "no_one_under_eighteen",
+      "18",
+      "drink",
+      "pub",
+      "night",
+      "minor",
+      "circle"
+    ]
+  },
+  {
+    "key": "no_pedestrians",
+    "path": "Symbols/No Pedestrians.png",
+    "categoryKey": "symbols",
+    "suggestions": ["no_pedestrians", "rules", "crossing", "walking", "circle"]
+  },
+  {
+    "key": "no_smoking",
+    "path": "Symbols/No Smoking.png",
+    "categoryKey": "symbols",
+    "suggestions": ["no_smoking", "cigarette", "blue-square", "smell", "smoke"]
+  },
+  {
+    "key": "non_potable_water",
+    "path": "Symbols/Non Potable Water.png",
+    "categoryKey": "symbols",
+    "suggestions": ["non_potable_water", "drink", "faucet", "tap", "circle"]
+  },
+  {
+    "key": "o_button_blood_type",
+    "path": "Symbols/O Button Blood Type.png",
+    "categoryKey": "symbols",
+    "suggestions": ["o_button_blood_type", "alphabet", "red-square", "letter"]
+  },
+  {
+    "key": "ok_button",
+    "path": "Symbols/Ok Button.png",
+    "categoryKey": "symbols",
+    "suggestions": ["ok_button", "good", "agree", "yes", "blue-square"]
+  },
+  {
+    "key": "om",
+    "path": "Symbols/Om.png",
+    "categoryKey": "symbols",
+    "suggestions": ["om", "hinduism", "buddhism", "sikhism", "jainism"]
+  },
+  {
+    "key": "on_arrow",
+    "path": "Symbols/On Arrow.png",
+    "categoryKey": "symbols",
+    "suggestions": ["on_arrow", "arrow", "words"]
+  },
+  {
+    "key": "one_oclock",
+    "path": "Symbols/One Oclock.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "one_oclock",
+      "1",
+      "1:00",
+      "100",
+      "13:00",
+      "1300",
+      "time",
+      "late",
+      "early",
+      "schedule"
+    ]
+  },
+  {
+    "key": "one_thirty",
+    "path": "Symbols/One Thirty.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "one_thirty",
+      "1:30",
+      "130",
+      "13:30",
+      "1330",
+      "time",
+      "late",
+      "early",
+      "schedule"
+    ]
+  },
+  {
+    "key": "ophiuchus",
+    "path": "Symbols/Ophiuchus.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "ophiuchus",
+      "sign",
+      "purple-square",
+      "constellation",
+      "astrology"
+    ]
+  },
+  {
+    "key": "orange_heart",
+    "path": "Symbols/Orange Heart.png",
+    "categoryKey": "symbols",
+    "suggestions": ["orange_heart", "love", "like", "affection", "valentines"]
+  },
+  {
+    "key": "orthodox_cross",
+    "path": "Symbols/Orthodox Cross.png",
+    "categoryKey": "symbols",
+    "suggestions": ["orthodox_cross", "suppedaneum", "religion"]
+  },
+  {
+    "key": "p_button",
+    "path": "Symbols/P Button.png",
+    "categoryKey": "symbols",
+    "suggestions": ["p_button", "cars", "blue-square", "alphabet", "letter"]
+  },
+  {
+    "key": "part_alternation_mark",
+    "path": "Symbols/Part Alternation Mark.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "part_alternation_mark",
+      "graph",
+      "presentation",
+      "stats",
+      "business",
+      "economics",
+      "bad"
+    ]
+  },
+  {
+    "key": "pause_button",
+    "path": "Symbols/Pause Button.png",
+    "categoryKey": "symbols",
+    "suggestions": ["pause_button", "pause", "blue-square"]
+  },
+  {
+    "key": "peace_symbol",
+    "path": "Symbols/Peace Symbol.png",
+    "categoryKey": "symbols",
+    "suggestions": ["peace_symbol", "hippie"]
+  },
+  {
+    "key": "pisces",
+    "path": "Symbols/Pisces.png",
+    "categoryKey": "symbols",
+    "suggestions": ["pisces", "purple-square", "sign", "zodiac", "astrology"]
+  },
+  {
+    "key": "place_of_worship",
+    "path": "Symbols/Place Of Worship.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "place_of_worship",
+      "religion",
+      "church",
+      "temple",
+      "prayer"
+    ]
+  },
+  {
+    "key": "play_button",
+    "path": "Symbols/Play Button.png",
+    "categoryKey": "symbols",
+    "suggestions": ["play_button", "blue-square", "right", "direction", "play"]
+  },
+  {
+    "key": "play_or_pause_button",
+    "path": "Symbols/Play Or Pause Button.png",
+    "categoryKey": "symbols",
+    "suggestions": ["play_or_pause_button", "blue-square", "play", "pause"]
+  },
+  {
+    "key": "plus",
+    "path": "Symbols/Plus.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "plus",
+      "math",
+      "calculation",
+      "addition",
+      "more",
+      "increase"
+    ]
+  },
+  {
+    "key": "postal_horn",
+    "path": "Symbols/Postal Horn.png",
+    "categoryKey": "symbols",
+    "suggestions": ["postal_horn", "instrument", "music"]
+  },
+  {
+    "key": "prohibited",
+    "path": "Symbols/Prohibited.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "prohibited",
+      "forbid",
+      "stop",
+      "limit",
+      "denied",
+      "disallow",
+      "circle"
+    ]
+  },
+  {
+    "key": "purple_heart",
+    "path": "Symbols/Purple Heart.png",
+    "categoryKey": "symbols",
+    "suggestions": ["purple_heart", "love", "like", "affection", "valentines"]
+  },
+  {
+    "key": "question_mark",
+    "path": "Symbols/Question Mark.png",
+    "categoryKey": "symbols",
+    "suggestions": ["question_mark", "doubt", "confused"]
+  },
+  {
+    "key": "radio_button",
+    "path": "Symbols/Radio Button.png",
+    "categoryKey": "symbols",
+    "suggestions": ["radio_button", "input", "old", "music", "circle"]
+  },
+  {
+    "key": "radioactive",
+    "path": "Symbols/Radioactive.png",
+    "categoryKey": "symbols",
+    "suggestions": ["radioactive", "nuclear", "danger"]
+  },
+  {
+    "key": "record_button",
+    "path": "Symbols/Record Button.png",
+    "categoryKey": "symbols",
+    "suggestions": ["record_button", "blue-square"]
+  },
+  {
+    "key": "recycling_symbol",
+    "path": "Symbols/Recycling Symbol.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "recycling_symbol",
+      "arrow",
+      "environment",
+      "garbage",
+      "trash"
+    ]
+  },
+  {
+    "key": "red_heart",
+    "path": "Symbols/Red Heart.png",
+    "categoryKey": "symbols",
+    "suggestions": ["red_heart", "love", "like", "valentines"]
+  },
+  {
+    "key": "red_triangle_pointed_down",
+    "path": "Symbols/Red Triangle Pointed Down.png",
+    "categoryKey": "symbols",
+    "suggestions": ["red_triangle_pointed_down", "shape", "direction", "bottom"]
+  },
+  {
+    "key": "red_triangle_pointed_up",
+    "path": "Symbols/Red Triangle Pointed Up.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "red_triangle_pointed_up",
+      "shape",
+      "direction",
+      "up",
+      "top"
+    ]
+  },
+  {
+    "key": "registered",
+    "path": "Symbols/Registered.png",
+    "categoryKey": "symbols",
+    "suggestions": ["registered", "alphabet", "circle"]
+  },
+  {
+    "key": "repeat_button",
+    "path": "Symbols/Repeat Button.png",
+    "categoryKey": "symbols",
+    "suggestions": ["repeat_button", "loop", "record"]
+  },
+  {
+    "key": "repeat_single_button",
+    "path": "Symbols/Repeat Single Button.png",
+    "categoryKey": "symbols",
+    "suggestions": ["repeat_single_button", "blue-square", "loop"]
+  },
+  {
+    "key": "restroom",
+    "path": "Symbols/Restroom.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "restroom",
+      "blue-square",
+      "toilet",
+      "refresh",
+      "wc",
+      "gender"
+    ]
+  },
+  {
+    "key": "reverse_button",
+    "path": "Symbols/Reverse Button.png",
+    "categoryKey": "symbols",
+    "suggestions": ["reverse_button", "blue-square", "left", "direction"]
+  },
+  {
+    "key": "revolving_hearts",
+    "path": "Symbols/Revolving Hearts.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "revolving_hearts",
+      "love",
+      "like",
+      "affection",
+      "valentines"
+    ]
+  },
+  {
+    "key": "right_anger_bubble",
+    "path": "Symbols/Right Anger Bubble.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "right_anger_bubble",
+      "caption",
+      "speech",
+      "thinking",
+      "mad"
+    ]
+  },
+  {
+    "key": "right_arrow_curving_down",
+    "path": "Symbols/Right Arrow Curving Down.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "right_arrow_curving_down",
+      "blue-square",
+      "direction",
+      "bottom"
+    ]
+  },
+  {
+    "key": "right_arrow_curving_left",
+    "path": "Symbols/Right Arrow Curving Left.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "right_arrow_curving_left",
+      "back",
+      "return",
+      "blue-square",
+      "undo",
+      "enter"
+    ]
+  },
+  {
+    "key": "right_arrow_curving_up",
+    "path": "Symbols/Right Arrow Curving Up.png",
+    "categoryKey": "symbols",
+    "suggestions": ["right_arrow_curving_up", "blue-square", "direction", "top"]
+  },
+  {
+    "key": "right_arrow",
+    "path": "Symbols/Right Arrow.png",
+    "categoryKey": "symbols",
+    "suggestions": ["right_arrow", "blue-square", "next"]
+  },
+  {
+    "key": "sagittarius",
+    "path": "Symbols/Sagittarius.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "sagittarius",
+      "sign",
+      "zodiac",
+      "purple-square",
+      "astrology"
+    ]
+  },
+  {
+    "key": "scorpio",
+    "path": "Symbols/Scorpio.png",
+    "categoryKey": "symbols",
+    "suggestions": ["scorpio", "sign", "zodiac", "purple-square", "astrology"]
+  },
+  {
+    "key": "seven_oclock",
+    "path": "Symbols/Seven Oclock.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "seven_oclock",
+      "7",
+      "7:00",
+      "700",
+      "19:00",
+      "1900",
+      "time",
+      "late",
+      "early",
+      "schedule"
+    ]
+  },
+  {
+    "key": "seven_thirty",
+    "path": "Symbols/Seven Thirty.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "seven_thirty",
+      "7:30",
+      "730",
+      "19:30",
+      "1930",
+      "time",
+      "late",
+      "early",
+      "schedule"
+    ]
+  },
+  {
+    "key": "shuffle_tracks_button",
+    "path": "Symbols/Shuffle Tracks Button.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "shuffle_tracks_button",
+      "blue-square",
+      "shuffle",
+      "music",
+      "random"
+    ]
+  },
+  {
+    "key": "six_oclock",
+    "path": "Symbols/Six Oclock.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "six_oclock",
+      "6",
+      "6:00",
+      "600",
+      "18:00",
+      "1800",
+      "time",
+      "late",
+      "early",
+      "schedule",
+      "dawn",
+      "dusk"
+    ]
+  },
+  {
+    "key": "six_thirty",
+    "path": "Symbols/Six Thirty.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "six_thirty",
+      "6:30",
+      "630",
+      "18:30",
+      "1830",
+      "time",
+      "late",
+      "early",
+      "schedule"
+    ]
+  },
+  {
+    "key": "small_blue_diamond",
+    "path": "Symbols/Small Blue Diamond.png",
+    "categoryKey": "symbols",
+    "suggestions": ["small_blue_diamond", "shape", "jewel", "gem"]
+  },
+  {
+    "key": "small_orange_diamond",
+    "path": "Symbols/Small Orange Diamond.png",
+    "categoryKey": "symbols",
+    "suggestions": ["small_orange_diamond", "shape", "jewel", "gem"]
+  },
+  {
+    "key": "soon_arrow",
+    "path": "Symbols/Soon Arrow.png",
+    "categoryKey": "symbols",
+    "suggestions": ["soon_arrow", "arrow", "words"]
+  },
+  {
+    "key": "sos_button",
+    "path": "Symbols/Sos Button.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "sos_button",
+      "help",
+      "red-square",
+      "words",
+      "emergency",
+      "911"
+    ]
+  },
+  {
+    "key": "spade_suit",
+    "path": "Symbols/Spade Suit.png",
+    "categoryKey": "symbols",
+    "suggestions": ["spade_suit", "poker", "cards", "suits", "magic"]
+  },
+  {
+    "key": "sparkle",
+    "path": "Symbols/Sparkle.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "sparkle",
+      "stars",
+      "green-square",
+      "awesome",
+      "good",
+      "fireworks"
+    ]
+  },
+  {
+    "key": "sparkling_heart",
+    "path": "Symbols/Sparkling Heart.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "sparkling_heart",
+      "love",
+      "like",
+      "affection",
+      "valentines"
+    ]
+  },
+  {
+    "key": "speaker_high_volume",
+    "path": "Symbols/Speaker High Volume.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "speaker_high_volume",
+      "volume",
+      "noise",
+      "noisy",
+      "speaker",
+      "broadcast"
+    ]
+  },
+  {
+    "key": "speaker_low_volume",
+    "path": "Symbols/Speaker Low Volume.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "speaker_low_volume",
+      "sound",
+      "volume",
+      "silence",
+      "broadcast"
+    ]
+  },
+  {
+    "key": "speaker_medium_volume",
+    "path": "Symbols/Speaker Medium Volume.png",
+    "categoryKey": "symbols",
+    "suggestions": ["speaker_medium_volume", "volume", "speaker", "broadcast"]
+  },
+  {
+    "key": "speech_balloon",
+    "path": "Symbols/Speech Balloon.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "speech_balloon",
+      "bubble",
+      "words",
+      "message",
+      "talk",
+      "chatting"
+    ]
+  },
+  {
+    "key": "star_and_crescent",
+    "path": "Symbols/Star And Crescent.png",
+    "categoryKey": "symbols",
+    "suggestions": ["star_and_crescent", "islam"]
+  },
+  {
+    "key": "star_of_david",
+    "path": "Symbols/Star Of David.png",
+    "categoryKey": "symbols",
+    "suggestions": ["star_of_david", "judaism"]
+  },
+  {
+    "key": "stop_button",
+    "path": "Symbols/Stop Button.png",
+    "categoryKey": "symbols",
+    "suggestions": ["stop_button", "blue-square"]
+  },
+  {
+    "key": "stop_sign",
+    "path": "Symbols/Stop Sign.png",
+    "categoryKey": "symbols",
+    "suggestions": ["stop_sign", "stop"]
+  },
+  {
+    "key": "taurus",
+    "path": "Symbols/Taurus.png",
+    "categoryKey": "symbols",
+    "suggestions": ["taurus", "purple-square", "sign", "zodiac", "astrology"]
+  },
+  {
+    "key": "ten_oclock",
+    "path": "Symbols/Ten Oclock.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "ten_oclock",
+      "10",
+      "10:00",
+      "1000",
+      "22:00",
+      "2200",
+      "time",
+      "late",
+      "early",
+      "schedule"
+    ]
+  },
+  {
+    "key": "ten_thirty",
+    "path": "Symbols/Ten Thirty.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "ten_thirty",
+      "10:30",
+      "1030",
+      "22:30",
+      "2230",
+      "time",
+      "late",
+      "early",
+      "schedule"
+    ]
+  },
+  {
+    "key": "thought_balloon",
+    "path": "Symbols/Thought Balloon.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "thought_balloon",
+      "bubble",
+      "cloud",
+      "speech",
+      "thinking",
+      "dream"
+    ]
+  },
+  {
+    "key": "three_oclock",
+    "path": "Symbols/Three Oclock.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "three_oclock",
+      "3",
+      "3:00",
+      "300",
+      "15:00",
+      "1500",
+      "time",
+      "late",
+      "early",
+      "schedule"
+    ]
+  },
+  {
+    "key": "three_thirty",
+    "path": "Symbols/Three Thirty.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "three_thirty",
+      "3:30",
+      "330",
+      "15:30",
+      "1530",
+      "time",
+      "late",
+      "early",
+      "schedule"
+    ]
+  },
+  {
+    "key": "top_arrow",
+    "path": "Symbols/Top Arrow.png",
+    "categoryKey": "symbols",
+    "suggestions": ["top_arrow", "words", "blue-square"]
+  },
+  {
+    "key": "trade_mark",
+    "path": "Symbols/Trade Mark.png",
+    "categoryKey": "symbols",
+    "suggestions": ["trade_mark", "trademark", "brand", "law", "legal"]
+  },
+  {
+    "key": "transgender_symbol",
+    "path": "Symbols/Transgender Symbol.png",
+    "categoryKey": "symbols",
+    "suggestions": ["transgender_symbol", "transgender symbol", "lgbtq"]
+  },
+  {
+    "key": "trident_emblem",
+    "path": "Symbols/Trident Emblem.png",
+    "categoryKey": "symbols",
+    "suggestions": ["trident_emblem", "weapon", "spear"]
+  },
+  {
+    "key": "twelve_oclock",
+    "path": "Symbols/Twelve Oclock.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "twelve_oclock",
+      "12",
+      "00:00",
+      "0000",
+      "12:00",
+      "1200",
+      "time",
+      "noon",
+      "midnight",
+      "midday",
+      "late",
+      "early",
+      "schedule"
+    ]
+  },
+  {
+    "key": "twelve_thirty",
+    "path": "Symbols/Twelve Thirty.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "twelve_thirty",
+      "00:30",
+      "0030",
+      "12:30",
+      "1230",
+      "time",
+      "late",
+      "early",
+      "schedule"
+    ]
+  },
+  {
+    "key": "two_hearts",
+    "path": "Symbols/Two Hearts.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "two_hearts",
+      "love",
+      "like",
+      "affection",
+      "valentines",
+      "heart"
+    ]
+  },
+  {
+    "key": "two_oclock",
+    "path": "Symbols/Two Oclock.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "two_oclock",
+      "2",
+      "2:00",
+      "200",
+      "14:00",
+      "1400",
+      "time",
+      "late",
+      "early",
+      "schedule"
+    ]
+  },
+  {
+    "key": "two_thirty",
+    "path": "Symbols/Two Thirty.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "two_thirty",
+      "2:30",
+      "230",
+      "14:30",
+      "1430",
+      "time",
+      "late",
+      "early",
+      "schedule"
+    ]
+  },
+  {
+    "key": "up_arrow",
+    "path": "Symbols/Up Arrow.png",
+    "categoryKey": "symbols",
+    "suggestions": ["up_arrow", "blue-square", "continue", "top", "direction"]
+  },
+  {
+    "key": "up_button",
+    "path": "Symbols/Up Button.png",
+    "categoryKey": "symbols",
+    "suggestions": ["up_button", "blue-square", "above", "high"]
+  },
+  {
+    "key": "up_down_arrow",
+    "path": "Symbols/Up Down Arrow.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "up_down_arrow",
+      "blue-square",
+      "direction",
+      "way",
+      "vertical"
+    ]
+  },
+  {
+    "key": "up_left_arrow",
+    "path": "Symbols/Up Left Arrow.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "up_left_arrow",
+      "blue-square",
+      "point",
+      "direction",
+      "diagonal",
+      "northwest"
+    ]
+  },
+  {
+    "key": "up_right_arrow",
+    "path": "Symbols/Up Right Arrow.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "up_right_arrow",
+      "blue-square",
+      "point",
+      "direction",
+      "diagonal",
+      "northeast"
+    ]
+  },
+  {
+    "key": "upwards_button",
+    "path": "Symbols/Upwards Button.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "upwards_button",
+      "blue-square",
+      "triangle",
+      "direction",
+      "point",
+      "forward",
+      "top"
+    ]
+  },
+  {
+    "key": "vibration_mode",
+    "path": "Symbols/Vibration Mode.png",
+    "categoryKey": "symbols",
+    "suggestions": ["vibration_mode", "orange-square", "phone"]
+  },
+  {
+    "key": "virgo",
+    "path": "Symbols/Virgo.png",
+    "categoryKey": "symbols",
+    "suggestions": ["virgo", "sign", "zodiac", "purple-square", "astrology"]
+  },
+  {
+    "key": "vs_button",
+    "path": "Symbols/Vs Button.png",
+    "categoryKey": "symbols",
+    "suggestions": ["vs_button", "words", "orange-square"]
+  },
+  {
+    "key": "warning",
+    "path": "Symbols/Warning.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "warning",
+      "exclamation",
+      "wip",
+      "alert",
+      "error",
+      "problem",
+      "issue"
+    ]
+  },
+  {
+    "key": "water_closet",
+    "path": "Symbols/Water Closet.png",
+    "categoryKey": "symbols",
+    "suggestions": ["water_closet", "toilet", "restroom", "blue-square"]
+  },
+  {
+    "key": "wavy_dash",
+    "path": "Symbols/Wavy Dash.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "wavy_dash",
+      "draw",
+      "line",
+      "moustache",
+      "mustache",
+      "squiggle",
+      "scribble"
+    ]
+  },
+  {
+    "key": "wheel_of_dharma",
+    "path": "Symbols/Wheel Of Dharma.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "wheel_of_dharma",
+      "hinduism",
+      "buddhism",
+      "sikhism",
+      "jainism"
+    ]
+  },
+  {
+    "key": "wheelchair_symbol",
+    "path": "Symbols/Wheelchair Symbol.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "wheelchair_symbol",
+      "blue-square",
+      "disabled",
+      "accessibility"
+    ]
+  },
+  {
+    "key": "white_circle",
+    "path": "Symbols/White Circle.png",
+    "categoryKey": "symbols",
+    "suggestions": ["white_circle", "shape", "round"]
+  },
+  {
+    "key": "white_exclamation_mark",
+    "path": "Symbols/White Exclamation Mark.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "white_exclamation_mark",
+      "surprise",
+      "punctuation",
+      "gray",
+      "wow",
+      "warning"
+    ]
+  },
+  {
+    "key": "white_flower",
+    "path": "Symbols/White Flower.png",
+    "categoryKey": "symbols",
+    "suggestions": ["white_flower", "japanese", "spring"]
+  },
+  {
+    "key": "white_heart",
+    "path": "Symbols/White Heart.png",
+    "categoryKey": "symbols",
+    "suggestions": ["white_heart", "pure"]
+  },
+  {
+    "key": "white_large_square",
+    "path": "Symbols/White Large Square.png",
+    "categoryKey": "symbols",
+    "suggestions": ["white_large_square", "shape", "icon", "stone", "button"]
+  },
+  {
+    "key": "white_medium_small_square",
+    "path": "Symbols/White Medium Small Square.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "white_medium_small_square",
+      "shape",
+      "stone",
+      "icon",
+      "button"
+    ]
+  },
+  {
+    "key": "white_medium_square",
+    "path": "Symbols/White Medium Square.png",
+    "categoryKey": "symbols",
+    "suggestions": ["white_medium_square", "shape", "stone", "icon"]
+  },
+  {
+    "key": "white_question_mark",
+    "path": "Symbols/White Question Mark.png",
+    "categoryKey": "symbols",
+    "suggestions": ["white_question_mark", "doubts", "gray", "huh", "confused"]
+  },
+  {
+    "key": "white_small_square",
+    "path": "Symbols/White Small Square.png",
+    "categoryKey": "symbols",
+    "suggestions": ["white_small_square", "shape", "icon"]
+  },
+  {
+    "key": "white_square_button",
+    "path": "Symbols/White Square Button.png",
+    "categoryKey": "symbols",
+    "suggestions": ["white_square_button", "shape", "input"]
+  },
+  {
+    "key": "womens_room",
+    "path": "Symbols/Womens Room.png",
+    "categoryKey": "symbols",
+    "suggestions": [
+      "womens_room",
+      "purple-square",
+      "woman",
+      "female",
+      "toilet",
+      "loo",
+      "restroom",
+      "gender"
+    ]
+  },
+  {
+    "key": "yellow_heart",
+    "path": "Symbols/Yellow Heart.png",
+    "categoryKey": "symbols",
+    "suggestions": ["yellow_heart", "love", "like", "affection", "valentines"]
+  },
+  {
+    "key": "yin_yang",
+    "path": "Symbols/Yin Yang.png",
+    "categoryKey": "symbols",
+    "suggestions": ["yin_yang", "balance"]
+  },
+  {
+    "key": "zzz",
+    "path": "Symbols/Zzz.png",
+    "categoryKey": "symbols",
+    "suggestions": ["zzz", "sleepy", "tired", "dream"]
+  }
+]
