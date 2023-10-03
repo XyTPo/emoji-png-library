@@ -2,39 +2,39 @@ const dataSourceMap = [
   {
     key: "smileys-people",
     name: "Smileys & People",
-    jsonPath: "All_Emojis/Smileys people/_smileys-people.json",
+    jsonPath: "./All_Emojis/Smileys people/_smileys-people.json",
   },
   {
     key: "animals-nature",
     name: "Animals & Nature",
-    jsonPath: "All_Emojis/Animals Neture/_animals-nature.json",
+    jsonPath: "./All_Emojis/Animals Neture/_animals-nature.json",
   },
   {
     key: "food-drinks",
     name: "Food & Drink",
-    jsonPath: "All_Emojis/Food Drink/_food-drink.json",
+    jsonPath: "./All_Emojis/Food Drink/_food-drink.json",
   },
   {
     key: "activity",
     name: "Activity",
-    jsonPath: "All_Emojis/Activity/_activity.json",
+    jsonPath: "./All_Emojis/Activity/_activity.json",
   },
   {
     key: "travel-places",
     name: "Travel & Places",
-    jsonPath: "All_Emojis/Travel Places/_travel-places.json",
+    jsonPath: "./All_Emojis/Travel Places/_travel-places.json",
   },
   {
     key: "objects",
     name: "Objects",
-    jsonPath: "All_Emojis/Objects/_objects.json",
+    jsonPath: "./All_Emojis/Objects/_objects.json",
   },
   {
     key: "symbols",
     name: "Symbols",
-    jsonPath: "All_Emojis/Symbols/_symbols.json",
+    jsonPath: "./All_Emojis/Symbols/_symbols.json",
   },
-  { key: "flags", name: "Flags", jsonPath: "All_Emojis/Flags/_flags.json" },
+  { key: "flags", name: "Flags", jsonPath: "./All_Emojis/Flags/_flags.json" },
 ];
 
 function getEmojisImgs(categoryJsonPath) {
