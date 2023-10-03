@@ -1,0 +1,1442 @@
+[
+  {
+    "key": "avocado",
+    "path": "Food Drink/Avocado.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "avocado",
+      "fruit",
+      "food"
+    ]
+  },
+  {
+    "key": "baby_bottle",
+    "path": "Food Drink/Baby Bottle.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "baby_bottle",
+      "food",
+      "container",
+      "milk"
+    ]
+  },
+  {
+    "key": "bacon",
+    "path": "Food Drink/Bacon.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "bacon",
+      "food",
+      "breakfast",
+      "pork",
+      "pig",
+      "meat",
+      "brunch"
+    ]
+  },
+  {
+    "key": "bagel",
+    "path": "Food Drink/Bagel.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "bagel",
+      "food",
+      "bread",
+      "bakery",
+      "schmear",
+      "jewish_bakery"
+    ]
+  },
+  {
+    "key": "baguette_bread",
+    "path": "Food Drink/Baguette Bread.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "baguette_bread",
+      "food",
+      "bread",
+      "french",
+      "france",
+      "bakery"
+    ]
+  },
+  {
+    "key": "banana",
+    "path": "Food Drink/Banana.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "banana",
+      "fruit",
+      "food",
+      "monkey"
+    ]
+  },
+  {
+    "key": "beer_mug",
+    "path": "Food Drink/Beer Mug.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "beer_mug",
+      "relax",
+      "beverage",
+      "drink",
+      "drunk",
+      "party",
+      "pub",
+      "summer",
+      "alcohol",
+      "booze"
+    ]
+  },
+  {
+    "key": "bell_pepper",
+    "path": "Food Drink/Bell Pepper.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "bell_pepper",
+      "bell pepper",
+      "fruit",
+      "plant"
+    ]
+  },
+  {
+    "key": "bento_box",
+    "path": "Food Drink/Bento Box.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "bento_box",
+      "food",
+      "japanese",
+      "box",
+      "lunch"
+    ]
+  },
+  {
+    "key": "beverage_box",
+    "path": "Food Drink/Beverage Box.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "beverage_box",
+      "drink"
+    ]
+  },
+  {
+    "key": "birthday_cake",
+    "path": "Food Drink/Birthday Cake.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "birthday_cake",
+      "food",
+      "dessert",
+      "cake"
+    ]
+  },
+  {
+    "key": "blueberries",
+    "path": "Food Drink/Blueberries.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "blueberries",
+      "fruit"
+    ]
+  },
+  {
+    "key": "bone",
+    "path": "Food Drink/Bone.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "bone",
+      "skeleton"
+    ]
+  },
+  {
+    "key": "bottle_with_popping_cork",
+    "path": "Food Drink/Bottle With Popping Cork.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "bottle_with_popping_cork",
+      "drink",
+      "wine",
+      "bottle",
+      "celebration"
+    ]
+  },
+  {
+    "key": "bowl_with_spoon",
+    "path": "Food Drink/Bowl With Spoon.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "bowl_with_spoon",
+      "food",
+      "breakfast",
+      "cereal",
+      "oatmeal",
+      "porridge"
+    ]
+  },
+  {
+    "key": "bread",
+    "path": "Food Drink/Bread.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "bread",
+      "food",
+      "wheat",
+      "breakfast",
+      "toast"
+    ]
+  },
+  {
+    "key": "broccoli",
+    "path": "Food Drink/Broccoli.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "broccoli",
+      "fruit",
+      "food",
+      "vegetable"
+    ]
+  },
+  {
+    "key": "bubble_tea",
+    "path": "Food Drink/Bubble Tea.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "bubble_tea",
+      "bubble tea",
+      "taiwan",
+      "boba",
+      "milk tea",
+      "straw"
+    ]
+  },
+  {
+    "key": "burrito",
+    "path": "Food Drink/Burrito.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "burrito",
+      "food",
+      "mexican"
+    ]
+  },
+  {
+    "key": "butter",
+    "path": "Food Drink/Butter.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "butter",
+      "food",
+      "cook"
+    ]
+  },
+  {
+    "key": "candy",
+    "path": "Food Drink/Candy.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "candy",
+      "snack",
+      "dessert",
+      "sweet",
+      "lolly"
+    ]
+  },
+  {
+    "key": "canned_food",
+    "path": "Food Drink/Canned Food.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "canned_food",
+      "food",
+      "soup",
+      "tomatoes"
+    ]
+  },
+  {
+    "key": "carrot",
+    "path": "Food Drink/Carrot.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "carrot",
+      "vegetable",
+      "food",
+      "orange"
+    ]
+  },
+  {
+    "key": "cheese_wedge",
+    "path": "Food Drink/Cheese Wedge.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "cheese_wedge",
+      "food",
+      "chadder",
+      "swiss"
+    ]
+  },
+  {
+    "key": "cherries",
+    "path": "Food Drink/Cherries.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "cherries",
+      "food",
+      "fruit"
+    ]
+  },
+  {
+    "key": "chestnut",
+    "path": "Food Drink/Chestnut.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "chestnut",
+      "food",
+      "squirrel"
+    ]
+  },
+  {
+    "key": "chocolate_bar",
+    "path": "Food Drink/Chocolate Bar.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "chocolate_bar",
+      "food",
+      "snack",
+      "dessert",
+      "sweet"
+    ]
+  },
+  {
+    "key": "chopsticks",
+    "path": "Food Drink/Chopsticks.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "chopsticks",
+      "food"
+    ]
+  },
+  {
+    "key": "clinking_beer_mugs",
+    "path": "Food Drink/Clinking Beer Mugs.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "clinking_beer_mugs",
+      "relax",
+      "beverage",
+      "drink",
+      "drunk",
+      "party",
+      "pub",
+      "summer",
+      "alcohol",
+      "booze"
+    ]
+  },
+  {
+    "key": "clinking_glasses",
+    "path": "Food Drink/Clinking Glasses.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "clinking_glasses",
+      "beverage",
+      "drink",
+      "party",
+      "alcohol",
+      "celebrate",
+      "cheers",
+      "wine",
+      "champagne",
+      "toast"
+    ]
+  },
+  {
+    "key": "cocktail_glass",
+    "path": "Food Drink/Cocktail Glass.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "cocktail_glass",
+      "drink",
+      "drunk",
+      "alcohol",
+      "beverage",
+      "booze",
+      "mojito"
+    ]
+  },
+  {
+    "key": "coconut",
+    "path": "Food Drink/Coconut.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "coconut",
+      "fruit",
+      "nature",
+      "food",
+      "palm"
+    ]
+  },
+  {
+    "key": "cooked_rice",
+    "path": "Food Drink/Cooked Rice.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "cooked_rice",
+      "food",
+      "asian"
+    ]
+  },
+  {
+    "key": "cookie",
+    "path": "Food Drink/Cookie.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "cookie",
+      "food",
+      "snack",
+      "oreo",
+      "chocolate",
+      "sweet",
+      "dessert"
+    ]
+  },
+  {
+    "key": "cooking",
+    "path": "Food Drink/Cooking.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "cooking",
+      "food",
+      "breakfast",
+      "kitchen",
+      "egg",
+      "skillet"
+    ]
+  },
+  {
+    "key": "croissant",
+    "path": "Food Drink/Croissant.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "croissant",
+      "food",
+      "bread",
+      "french"
+    ]
+  },
+  {
+    "key": "cucumber",
+    "path": "Food Drink/Cucumber.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "cucumber",
+      "fruit",
+      "food",
+      "pickle"
+    ]
+  },
+  {
+    "key": "cup_with_straw",
+    "path": "Food Drink/Cup With Straw.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "cup_with_straw",
+      "drink",
+      "soda"
+    ]
+  },
+  {
+    "key": "cupcake",
+    "path": "Food Drink/Cupcake.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "cupcake",
+      "food",
+      "dessert",
+      "bakery",
+      "sweet"
+    ]
+  },
+  {
+    "key": "curry_rice",
+    "path": "Food Drink/Curry Rice.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "curry_rice",
+      "food",
+      "spicy",
+      "hot",
+      "indian"
+    ]
+  },
+  {
+    "key": "custard",
+    "path": "Food Drink/Custard.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "custard",
+      "dessert",
+      "food"
+    ]
+  },
+  {
+    "key": "cut_of_meat",
+    "path": "Food Drink/Cut Of Meat.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "cut_of_meat",
+      "food",
+      "cow",
+      "meat",
+      "cut",
+      "chop",
+      "lambchop",
+      "porkchop"
+    ]
+  },
+  {
+    "key": "dango",
+    "path": "Food Drink/Dango.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "dango",
+      "food",
+      "dessert",
+      "sweet",
+      "japanese",
+      "barbecue",
+      "meat"
+    ]
+  },
+  {
+    "key": "doughnut",
+    "path": "Food Drink/Doughnut.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "doughnut",
+      "food",
+      "dessert",
+      "snack",
+      "sweet",
+      "donut"
+    ]
+  },
+  {
+    "key": "dumpling",
+    "path": "Food Drink/Dumpling.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "dumpling",
+      "food",
+      "empanada",
+      "pierogi",
+      "potsticker",
+      "gyoza"
+    ]
+  },
+  {
+    "key": "ear_of_corn",
+    "path": "Food Drink/Ear Of Corn.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "ear_of_corn",
+      "food",
+      "vegetable",
+      "plant"
+    ]
+  },
+  {
+    "key": "egg",
+    "path": "Food Drink/Egg.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "egg",
+      "food",
+      "chicken",
+      "breakfast"
+    ]
+  },
+  {
+    "key": "eggplant",
+    "path": "Food Drink/Eggplant.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "eggplant",
+      "vegetable",
+      "nature",
+      "food",
+      "aubergine"
+    ]
+  },
+  {
+    "key": "falafel",
+    "path": "Food Drink/Falafel.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "falafel",
+      "food",
+      "mediterranean"
+    ]
+  },
+  {
+    "key": "flatbread",
+    "path": "Food Drink/Flatbread.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "flatbread",
+      "flour",
+      "food",
+      "bakery"
+    ]
+  },
+  {
+    "key": "fondue",
+    "path": "Food Drink/Fondue.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "fondue",
+      "cheese",
+      "pot",
+      "food"
+    ]
+  },
+  {
+    "key": "fork_and_knife_with_plate",
+    "path": "Food Drink/Fork And Knife With Plate.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "fork_and_knife_with_plate",
+      "food",
+      "eat",
+      "meal",
+      "lunch",
+      "dinner",
+      "restaurant"
+    ]
+  },
+  {
+    "key": "fork_and_knife",
+    "path": "Food Drink/Fork And Knife.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "fork_and_knife",
+      "cutlery",
+      "kitchen"
+    ]
+  },
+  {
+    "key": "fortune_cookie",
+    "path": "Food Drink/Fortune Cookie.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "fortune_cookie",
+      "food",
+      "prophecy",
+      "dessert"
+    ]
+  },
+  {
+    "key": "french_fries",
+    "path": "Food Drink/French Fries.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "french_fries",
+      "chips",
+      "snack",
+      "fast food",
+      "potato"
+    ]
+  },
+  {
+    "key": "fried_shrimp",
+    "path": "Food Drink/Fried Shrimp.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "fried_shrimp",
+      "food",
+      "animal",
+      "appetizer",
+      "summer"
+    ]
+  },
+  {
+    "key": "garlic",
+    "path": "Food Drink/Garlic.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "garlic",
+      "food",
+      "spice",
+      "cook"
+    ]
+  },
+  {
+    "key": "glass_of_milk",
+    "path": "Food Drink/Glass Of Milk.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "glass_of_milk",
+      "beverage",
+      "drink",
+      "cow"
+    ]
+  },
+  {
+    "key": "grapes",
+    "path": "Food Drink/Grapes.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "grapes",
+      "fruit",
+      "food",
+      "wine"
+    ]
+  },
+  {
+    "key": "green_apple",
+    "path": "Food Drink/Green Apple.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "green_apple",
+      "fruit",
+      "nature"
+    ]
+  },
+  {
+    "key": "green_salad",
+    "path": "Food Drink/Green Salad.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "green_salad",
+      "food",
+      "healthy",
+      "lettuce",
+      "vegetable"
+    ]
+  },
+  {
+    "key": "hamburger",
+    "path": "Food Drink/Hamburger.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "hamburger",
+      "meat",
+      "fast food",
+      "beef",
+      "cheeseburger",
+      "mcdonalds",
+      "burger king"
+    ]
+  },
+  {
+    "key": "honey_pot",
+    "path": "Food Drink/Honey Pot.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "honey_pot",
+      "bees",
+      "sweet",
+      "kitchen"
+    ]
+  },
+  {
+    "key": "hot_beverage",
+    "path": "Food Drink/Hot Beverage.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "hot_beverage",
+      "beverage",
+      "caffeine",
+      "latte",
+      "espresso",
+      "coffee",
+      "mug"
+    ]
+  },
+  {
+    "key": "hot_dog",
+    "path": "Food Drink/Hot Dog.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "hot_dog",
+      "food",
+      "frankfurter",
+      "america"
+    ]
+  },
+  {
+    "key": "hot_pepper",
+    "path": "Food Drink/Hot Pepper.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "hot_pepper",
+      "food",
+      "spicy",
+      "chilli",
+      "chili"
+    ]
+  },
+  {
+    "key": "ice_cream",
+    "path": "Food Drink/Ice Cream.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "ice_cream",
+      "food",
+      "hot",
+      "dessert"
+    ]
+  },
+  {
+    "key": "ice",
+    "path": "Food Drink/Ice.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "ice",
+      "water",
+      "cold"
+    ]
+  },
+  {
+    "key": "kitchen_knife",
+    "path": "Food Drink/Kitchen Knife.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "kitchen_knife",
+      "knife",
+      "blade",
+      "cutlery",
+      "kitchen",
+      "weapon"
+    ]
+  },
+  {
+    "key": "kiwi_fruit",
+    "path": "Food Drink/Kiwi Fruit.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "kiwi_fruit",
+      "fruit",
+      "food"
+    ]
+  },
+  {
+    "key": "leafy_green",
+    "path": "Food Drink/Leafy Green.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "leafy_green",
+      "food",
+      "vegetable",
+      "plant",
+      "bok choy",
+      "cabbage",
+      "kale",
+      "lettuce"
+    ]
+  },
+  {
+    "key": "lemon",
+    "path": "Food Drink/Lemon.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "lemon",
+      "fruit",
+      "nature"
+    ]
+  },
+  {
+    "key": "lollipop",
+    "path": "Food Drink/Lollipop.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "lollipop",
+      "food",
+      "snack",
+      "candy",
+      "sweet"
+    ]
+  },
+  {
+    "key": "mango",
+    "path": "Food Drink/Mango.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "mango",
+      "fruit",
+      "food",
+      "tropical"
+    ]
+  },
+  {
+    "key": "mate",
+    "path": "Food Drink/Mate.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "mate",
+      "drink",
+      "tea",
+      "beverage"
+    ]
+  },
+  {
+    "key": "meat_on_bone",
+    "path": "Food Drink/Meat On Bone.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "meat_on_bone",
+      "good",
+      "food",
+      "drumstick"
+    ]
+  },
+  {
+    "key": "melon",
+    "path": "Food Drink/Melon.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "melon",
+      "fruit",
+      "nature",
+      "food"
+    ]
+  },
+  {
+    "key": "moon_cake",
+    "path": "Food Drink/Moon Cake.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "moon_cake",
+      "food",
+      "autumn",
+      "dessert"
+    ]
+  },
+  {
+    "key": "mushroom",
+    "path": "Food Drink/Mushroom.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "mushroom",
+      "plant",
+      "vegetable"
+    ]
+  },
+  {
+    "key": "oden",
+    "path": "Food Drink/Oden.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "oden",
+      "food",
+      "japanese"
+    ]
+  },
+  {
+    "key": "olive",
+    "path": "Food Drink/Olive.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "olive",
+      "fruit"
+    ]
+  },
+  {
+    "key": "onion",
+    "path": "Food Drink/Onion.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "onion",
+      "cook",
+      "food",
+      "spice"
+    ]
+  },
+  {
+    "key": "oyster",
+    "path": "Food Drink/Oyster.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "oyster",
+      "food"
+    ]
+  },
+  {
+    "key": "pancakes",
+    "path": "Food Drink/Pancakes.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "pancakes",
+      "food",
+      "breakfast",
+      "flapjacks",
+      "hotcakes",
+      "brunch"
+    ]
+  },
+  {
+    "key": "peach",
+    "path": "Food Drink/Peach.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "peach",
+      "fruit",
+      "nature",
+      "food"
+    ]
+  },
+  {
+    "key": "peanuts",
+    "path": "Food Drink/Peanuts.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "peanuts",
+      "food",
+      "nut"
+    ]
+  },
+  {
+    "key": "pear",
+    "path": "Food Drink/Pear.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "pear",
+      "fruit",
+      "nature",
+      "food"
+    ]
+  },
+  {
+    "key": "pie",
+    "path": "Food Drink/Pie.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "pie",
+      "food",
+      "dessert",
+      "pastry"
+    ]
+  },
+  {
+    "key": "pineapple",
+    "path": "Food Drink/Pineapple.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "pineapple",
+      "fruit",
+      "nature",
+      "food"
+    ]
+  },
+  {
+    "key": "pizza",
+    "path": "Food Drink/Pizza.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "pizza",
+      "food",
+      "party",
+      "italy"
+    ]
+  },
+  {
+    "key": "popcorn",
+    "path": "Food Drink/Popcorn.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "popcorn",
+      "food",
+      "movie theater",
+      "films",
+      "snack",
+      "drama"
+    ]
+  },
+  {
+    "key": "pot_of_food",
+    "path": "Food Drink/Pot Of Food.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "pot_of_food",
+      "food",
+      "meat",
+      "soup",
+      "hot pot"
+    ]
+  },
+  {
+    "key": "potato",
+    "path": "Food Drink/Potato.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "potato",
+      "food",
+      "tuber",
+      "vegatable",
+      "starch"
+    ]
+  },
+  {
+    "key": "poultry_leg",
+    "path": "Food Drink/Poultry Leg.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "poultry_leg",
+      "food",
+      "meat",
+      "drumstick",
+      "bird",
+      "chicken",
+      "turkey"
+    ]
+  },
+  {
+    "key": "pretzel",
+    "path": "Food Drink/Pretzel.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "pretzel",
+      "food",
+      "bread",
+      "twisted",
+      "germany",
+      "bakery"
+    ]
+  },
+  {
+    "key": "red_apple",
+    "path": "Food Drink/Red Apple.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "red_apple",
+      "fruit",
+      "mac",
+      "school"
+    ]
+  },
+  {
+    "key": "rice_ball",
+    "path": "Food Drink/Rice Ball.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "rice_ball",
+      "food",
+      "japanese"
+    ]
+  },
+  {
+    "key": "rice_cracker",
+    "path": "Food Drink/Rice Cracker.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "rice_cracker",
+      "food",
+      "japanese",
+      "snack"
+    ]
+  },
+  {
+    "key": "roasted_sweet_potato",
+    "path": "Food Drink/Roasted Sweet Potato.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "roasted_sweet_potato",
+      "food",
+      "nature",
+      "plant"
+    ]
+  },
+  {
+    "key": "sake",
+    "path": "Food Drink/Sake.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "sake",
+      "wine",
+      "drink",
+      "drunk",
+      "beverage",
+      "japanese",
+      "alcohol",
+      "booze"
+    ]
+  },
+  {
+    "key": "salt",
+    "path": "Food Drink/Salt.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "salt",
+      "condiment",
+      "shaker"
+    ]
+  },
+  {
+    "key": "sandwich",
+    "path": "Food Drink/Sandwich.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "sandwich",
+      "food",
+      "lunch",
+      "bread",
+      "toast",
+      "bakery"
+    ]
+  },
+  {
+    "key": "shallow_pan_of_food",
+    "path": "Food Drink/Shallow Pan Of Food.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "shallow_pan_of_food",
+      "food",
+      "cooking",
+      "casserole",
+      "paella",
+      "skillet"
+    ]
+  },
+  {
+    "key": "shaved_ice",
+    "path": "Food Drink/Shaved Ice.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "shaved_ice",
+      "hot",
+      "dessert",
+      "summer"
+    ]
+  },
+  {
+    "key": "shortcake",
+    "path": "Food Drink/Shortcake.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "shortcake",
+      "food",
+      "dessert"
+    ]
+  },
+  {
+    "key": "soft_ice_cream",
+    "path": "Food Drink/Soft Ice Cream.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "soft_ice_cream",
+      "food",
+      "hot",
+      "dessert",
+      "summer"
+    ]
+  },
+  {
+    "key": "spaghetti",
+    "path": "Food Drink/Spaghetti.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "spaghetti",
+      "food",
+      "italian",
+      "pasta",
+      "noodle"
+    ]
+  },
+  {
+    "key": "spoon",
+    "path": "Food Drink/Spoon.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "spoon",
+      "cutlery",
+      "kitchen",
+      "tableware"
+    ]
+  },
+  {
+    "key": "steaming_bowl",
+    "path": "Food Drink/Steaming Bowl.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "steaming_bowl",
+      "food",
+      "japanese",
+      "noodle",
+      "chopsticks",
+      "ramen"
+    ]
+  },
+  {
+    "key": "strawberry",
+    "path": "Food Drink/Strawberry.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "strawberry",
+      "fruit",
+      "food",
+      "nature"
+    ]
+  },
+  {
+    "key": "stuffed_flatbread",
+    "path": "Food Drink/Stuffed Flatbread.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "stuffed_flatbread",
+      "food",
+      "flatbread",
+      "stuffed",
+      "gyro",
+      "mediterranean"
+    ]
+  },
+  {
+    "key": "sushi",
+    "path": "Food Drink/Sushi.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "sushi",
+      "food",
+      "fish",
+      "japanese",
+      "rice"
+    ]
+  },
+  {
+    "key": "taco",
+    "path": "Food Drink/Taco.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "taco",
+      "food",
+      "mexican"
+    ]
+  },
+  {
+    "key": "takeout_box",
+    "path": "Food Drink/Takeout Box.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "takeout_box",
+      "food",
+      "leftovers"
+    ]
+  },
+  {
+    "key": "tamale",
+    "path": "Food Drink/Tamale.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "tamale",
+      "food",
+      "masa"
+    ]
+  },
+  {
+    "key": "tangerine",
+    "path": "Food Drink/Tangerine.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "tangerine",
+      "food",
+      "fruit",
+      "nature",
+      "orange"
+    ]
+  },
+  {
+    "key": "teacup_without_handle",
+    "path": "Food Drink/Teacup Without Handle.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "teacup_without_handle",
+      "drink",
+      "bowl",
+      "breakfast",
+      "green",
+      "british"
+    ]
+  },
+  {
+    "key": "tomato",
+    "path": "Food Drink/Tomato.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "tomato",
+      "fruit",
+      "vegetable",
+      "nature",
+      "food"
+    ]
+  },
+  {
+    "key": "tropical_drink",
+    "path": "Food Drink/Tropical Drink.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "tropical_drink",
+      "beverage",
+      "cocktail",
+      "summer",
+      "beach",
+      "alcohol",
+      "booze",
+      "mojito"
+    ]
+  },
+  {
+    "key": "tumbler_glass",
+    "path": "Food Drink/Tumbler Glass.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "tumbler_glass",
+      "drink",
+      "beverage",
+      "drunk",
+      "alcohol",
+      "liquor",
+      "booze",
+      "bourbon",
+      "scotch",
+      "whisky",
+      "glass",
+      "shot"
+    ]
+  },
+  {
+    "key": "waffle",
+    "path": "Food Drink/Waffle.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "waffle",
+      "food",
+      "breakfast",
+      "brunch"
+    ]
+  },
+  {
+    "key": "watermelon",
+    "path": "Food Drink/Watermelon.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "watermelon",
+      "fruit",
+      "food",
+      "picnic",
+      "summer"
+    ]
+  },
+  {
+    "key": "wine_glass",
+    "path": "Food Drink/Wine Glass.png",
+    "categoryKey": "food-drinks",
+    "suggestions": [
+      "wine_glass",
+      "drink",
+      "beverage",
+      "drunk",
+      "alcohol",
+      "booze"
+    ]
+  }
+]

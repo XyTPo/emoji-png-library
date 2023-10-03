@@ -1,0 +1,1419 @@
+[
+  {
+    "key": "aerial_tramway",
+    "path": "Travel Places/Aerial Tramway.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "aerial_tramway",
+      "transportation",
+      "vehicle",
+      "ski"
+    ]
+  },
+  {
+    "key": "airplane_arrival",
+    "path": "Travel Places/Airplane Arrival.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "airplane_arrival",
+      "airport",
+      "flight",
+      "boarding"
+    ]
+  },
+  {
+    "key": "airplane_departure",
+    "path": "Travel Places/Airplane Departure.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "airplane_departure",
+      "airport",
+      "flight",
+      "landing"
+    ]
+  },
+  {
+    "key": "airplane",
+    "path": "Travel Places/Airplane.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "airplane",
+      "vehicle",
+      "transportation",
+      "flight",
+      "fly"
+    ]
+  },
+  {
+    "key": "ambulance",
+    "path": "Travel Places/Ambulance.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "ambulance",
+      "health",
+      "911",
+      "hospital"
+    ]
+  },
+  {
+    "key": "anchor",
+    "path": "Travel Places/Anchor.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "anchor",
+      "ship",
+      "ferry",
+      "sea",
+      "boat"
+    ]
+  },
+  {
+    "key": "articulated_lorry",
+    "path": "Travel Places/Articulated Lorry.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "articulated_lorry",
+      "vehicle",
+      "cars",
+      "transportation",
+      "express"
+    ]
+  },
+  {
+    "key": "auto_rickshaw",
+    "path": "Travel Places/Auto Rickshaw.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "auto_rickshaw",
+      "move",
+      "transportation"
+    ]
+  },
+  {
+    "key": "automobile",
+    "path": "Travel Places/Automobile.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "automobile",
+      "red",
+      "transportation",
+      "vehicle"
+    ]
+  },
+  {
+    "key": "baggage_claim",
+    "path": "Travel Places/Baggage Claim.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "baggage_claim",
+      "blue-square",
+      "airport",
+      "transport"
+    ]
+  },
+  {
+    "key": "bank",
+    "path": "Travel Places/Bank.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "bank",
+      "building",
+      "money",
+      "sales",
+      "cash",
+      "business",
+      "enterprise"
+    ]
+  },
+  {
+    "key": "beach_with_umbrella",
+    "path": "Travel Places/Beach With Umbrella.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "beach_with_umbrella",
+      "weather",
+      "summer",
+      "sunny",
+      "sand",
+      "mojito"
+    ]
+  },
+  {
+    "key": "bicycle",
+    "path": "Travel Places/Bicycle.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "bicycle",
+      "bike",
+      "sports",
+      "exercise",
+      "hipster"
+    ]
+  },
+  {
+    "key": "bridge_at_night",
+    "path": "Travel Places/Bridge At Night.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "bridge_at_night",
+      "photo",
+      "sanfrancisco"
+    ]
+  },
+  {
+    "key": "building_construction",
+    "path": "Travel Places/Building Construction.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "building_construction",
+      "wip",
+      "working",
+      "progress"
+    ]
+  },
+  {
+    "key": "bullet_train",
+    "path": "Travel Places/Bullet Train.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "bullet_train",
+      "transportation",
+      "vehicle",
+      "speed",
+      "fast",
+      "public",
+      "travel"
+    ]
+  },
+  {
+    "key": "bus_stop",
+    "path": "Travel Places/Bus Stop.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "bus_stop",
+      "transportation",
+      "wait"
+    ]
+  },
+  {
+    "key": "bus",
+    "path": "Travel Places/Bus.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "bus",
+      "car",
+      "vehicle",
+      "transportation"
+    ]
+  },
+  {
+    "key": "camping",
+    "path": "Travel Places/Camping.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "camping",
+      "photo",
+      "outdoors",
+      "tent"
+    ]
+  },
+  {
+    "key": "carousel_horse",
+    "path": "Travel Places/Carousel Horse.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "carousel_horse",
+      "photo",
+      "carnival"
+    ]
+  },
+  {
+    "key": "castle",
+    "path": "Travel Places/Castle.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "castle",
+      "building",
+      "royalty",
+      "history"
+    ]
+  },
+  {
+    "key": "church",
+    "path": "Travel Places/Church.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "church",
+      "building",
+      "religion",
+      "christ"
+    ]
+  },
+  {
+    "key": "cityscape_at_dusk",
+    "path": "Travel Places/Cityscape At Dusk.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "cityscape_at_dusk",
+      "photo",
+      "evening",
+      "sky",
+      "buildings"
+    ]
+  },
+  {
+    "key": "cityscape",
+    "path": "Travel Places/Cityscape.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "cityscape",
+      "photo",
+      "night life",
+      "urban"
+    ]
+  },
+  {
+    "key": "classical_building",
+    "path": "Travel Places/Classical Building.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "classical_building",
+      "art",
+      "culture",
+      "history"
+    ]
+  },
+  {
+    "key": "construction",
+    "path": "Travel Places/Construction.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "construction",
+      "wip",
+      "progress",
+      "caution",
+      "warning"
+    ]
+  },
+  {
+    "key": "convenience_store",
+    "path": "Travel Places/Convenience Store.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "convenience_store",
+      "building",
+      "shopping",
+      "groceries"
+    ]
+  },
+  {
+    "key": "customs",
+    "path": "Travel Places/Customs.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "customs",
+      "passport",
+      "border",
+      "blue-square"
+    ]
+  },
+  {
+    "key": "delivery_truck",
+    "path": "Travel Places/Delivery Truck.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "delivery_truck",
+      "cars",
+      "transportation"
+    ]
+  },
+  {
+    "key": "department_store",
+    "path": "Travel Places/Department Store.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "department_store",
+      "building",
+      "shopping",
+      "mall"
+    ]
+  },
+  {
+    "key": "derelict_house",
+    "path": "Travel Places/Derelict House.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "derelict_house",
+      "abandon",
+      "evict",
+      "broken",
+      "building"
+    ]
+  },
+  {
+    "key": "desert_island",
+    "path": "Travel Places/Desert Island.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "desert_island",
+      "photo",
+      "tropical",
+      "mojito"
+    ]
+  },
+  {
+    "key": "desert",
+    "path": "Travel Places/Desert.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "desert",
+      "photo",
+      "warm",
+      "saharah"
+    ]
+  },
+  {
+    "key": "dollar_banknote",
+    "path": "Travel Places/Dollar Banknote.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "dollar_banknote",
+      "money",
+      "sales",
+      "bill",
+      "currency"
+    ]
+  },
+  {
+    "key": "euro_banknote",
+    "path": "Travel Places/Euro Banknote.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "euro_banknote",
+      "money",
+      "sales",
+      "dollar",
+      "currency"
+    ]
+  },
+  {
+    "key": "factory",
+    "path": "Travel Places/Factory.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "factory",
+      "building",
+      "industry",
+      "pollution",
+      "smoke"
+    ]
+  },
+  {
+    "key": "ferry",
+    "path": "Travel Places/Ferry.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "ferry",
+      "boat",
+      "ship",
+      "yacht"
+    ]
+  },
+  {
+    "key": "fire_engine",
+    "path": "Travel Places/Fire Engine.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "fire_engine",
+      "transportation",
+      "cars",
+      "vehicle"
+    ]
+  },
+  {
+    "key": "fireworks",
+    "path": "Travel Places/Fireworks.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "fireworks",
+      "photo",
+      "festival",
+      "carnival",
+      "congratulations"
+    ]
+  },
+  {
+    "key": "flying_saucer",
+    "path": "Travel Places/Flying Saucer.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "flying_saucer",
+      "transportation",
+      "vehicle",
+      "ufo"
+    ]
+  },
+  {
+    "key": "foggy",
+    "path": "Travel Places/Foggy.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "foggy",
+      "photo",
+      "mountain"
+    ]
+  },
+  {
+    "key": "helicopter",
+    "path": "Travel Places/Helicopter.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "helicopter",
+      "transportation",
+      "vehicle",
+      "fly"
+    ]
+  },
+  {
+    "key": "high_speed_train",
+    "path": "Travel Places/High Speed Train.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "high_speed_train",
+      "transportation",
+      "vehicle"
+    ]
+  },
+  {
+    "key": "hindu_temple",
+    "path": "Travel Places/Hindu Temple.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "hindu_temple",
+      "religion"
+    ]
+  },
+  {
+    "key": "horizontal_traffic_light",
+    "path": "Travel Places/Horizontal Traffic Light.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "horizontal_traffic_light",
+      "transportation",
+      "signal"
+    ]
+  },
+  {
+    "key": "hospital",
+    "path": "Travel Places/Hospital.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "hospital",
+      "building",
+      "health",
+      "surgery",
+      "doctor"
+    ]
+  },
+  {
+    "key": "hotel",
+    "path": "Travel Places/Hotel.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "hotel",
+      "building",
+      "accomodation",
+      "checkin"
+    ]
+  },
+  {
+    "key": "house_with_garden",
+    "path": "Travel Places/House With Garden.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "house_with_garden",
+      "home",
+      "plant",
+      "nature"
+    ]
+  },
+  {
+    "key": "house",
+    "path": "Travel Places/House.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "house",
+      "building",
+      "home"
+    ]
+  },
+  {
+    "key": "houses",
+    "path": "Travel Places/Houses.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "houses",
+      "buildings",
+      "photo"
+    ]
+  },
+  {
+    "key": "hut",
+    "path": "Travel Places/Hut.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "hut",
+      "house",
+      "structure"
+    ]
+  },
+  {
+    "key": "japanese_castle",
+    "path": "Travel Places/Japanese Castle.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "japanese_castle",
+      "photo",
+      "building"
+    ]
+  },
+  {
+    "key": "japanese_post_office",
+    "path": "Travel Places/Japanese Post Office.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "japanese_post_office",
+      "building",
+      "envelope",
+      "communication"
+    ]
+  },
+  {
+    "key": "kaaba",
+    "path": "Travel Places/Kaaba.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "kaaba",
+      "mecca",
+      "mosque",
+      "islam"
+    ]
+  },
+  {
+    "key": "left_luggage",
+    "path": "Travel Places/Left Luggage.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "left_luggage",
+      "blue-square",
+      "travel"
+    ]
+  },
+  {
+    "key": "light_rail",
+    "path": "Travel Places/Light Rail.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "light_rail",
+      "transportation",
+      "vehicle"
+    ]
+  },
+  {
+    "key": "locomotive",
+    "path": "Travel Places/Locomotive.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "locomotive",
+      "transportation",
+      "vehicle",
+      "train"
+    ]
+  },
+  {
+    "key": "love_hotel",
+    "path": "Travel Places/Love Hotel.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "love_hotel",
+      "like",
+      "affection",
+      "dating"
+    ]
+  },
+  {
+    "key": "map_of_japan",
+    "path": "Travel Places/Map Of Japan.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "map_of_japan",
+      "nation",
+      "country",
+      "japanese",
+      "asia"
+    ]
+  },
+  {
+    "key": "metro",
+    "path": "Travel Places/Metro.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "metro",
+      "transportation",
+      "blue-square",
+      "mrt",
+      "underground",
+      "tube"
+    ]
+  },
+  {
+    "key": "milky_way",
+    "path": "Travel Places/Milky Way.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "milky_way",
+      "photo",
+      "space",
+      "stars"
+    ]
+  },
+  {
+    "key": "minibus",
+    "path": "Travel Places/Minibus.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "minibus",
+      "vehicle",
+      "car",
+      "transportation"
+    ]
+  },
+  {
+    "key": "moai",
+    "path": "Travel Places/Moai.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "moai",
+      "rock",
+      "easter island"
+    ]
+  },
+  {
+    "key": "monorail",
+    "path": "Travel Places/Monorail.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "monorail",
+      "transportation",
+      "vehicle"
+    ]
+  },
+  {
+    "key": "moon_viewing_ceremony",
+    "path": "Travel Places/Moon Viewing Ceremony.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "moon_viewing_ceremony",
+      "photo",
+      "japan",
+      "asia",
+      "tsukimi"
+    ]
+  },
+  {
+    "key": "mosque",
+    "path": "Travel Places/Mosque.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "mosque",
+      "islam",
+      "worship",
+      "minaret"
+    ]
+  },
+  {
+    "key": "motor_boat",
+    "path": "Travel Places/Motor Boat.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "motor_boat",
+      "ship"
+    ]
+  },
+  {
+    "key": "motor_scooter",
+    "path": "Travel Places/Motor Scooter.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "motor_scooter",
+      "vehicle",
+      "vespa",
+      "sasha"
+    ]
+  },
+  {
+    "key": "motorcycle",
+    "path": "Travel Places/Motorcycle.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "motorcycle",
+      "race",
+      "sports",
+      "fast"
+    ]
+  },
+  {
+    "key": "motorway",
+    "path": "Travel Places/Motorway.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "motorway",
+      "road",
+      "cupertino",
+      "interstate",
+      "highway"
+    ]
+  },
+  {
+    "key": "mount_fuji",
+    "path": "Travel Places/Mount Fuji.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "mount_fuji",
+      "photo",
+      "mountain",
+      "nature",
+      "japanese"
+    ]
+  },
+  {
+    "key": "mountain_cableway",
+    "path": "Travel Places/Mountain Cableway.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "mountain_cableway",
+      "transportation",
+      "vehicle",
+      "ski"
+    ]
+  },
+  {
+    "key": "mountain_railway",
+    "path": "Travel Places/Mountain Railway.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "mountain_railway",
+      "transportation",
+      "vehicle"
+    ]
+  },
+  {
+    "key": "mountain",
+    "path": "Travel Places/Mountain.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "mountain",
+      "photo",
+      "nature",
+      "environment"
+    ]
+  },
+  {
+    "key": "national_park",
+    "path": "Travel Places/National Park.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "national_park",
+      "photo",
+      "environment",
+      "nature"
+    ]
+  },
+  {
+    "key": "night_with_stars",
+    "path": "Travel Places/Night With Stars.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "night_with_stars",
+      "evening",
+      "city",
+      "downtown"
+    ]
+  },
+  {
+    "key": "office_building",
+    "path": "Travel Places/Office Building.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "office_building",
+      "building",
+      "bureau",
+      "work"
+    ]
+  },
+  {
+    "key": "oncoming_automobile",
+    "path": "Travel Places/Oncoming Automobile.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "oncoming_automobile",
+      "car",
+      "vehicle",
+      "transportation"
+    ]
+  },
+  {
+    "key": "oncoming_bus",
+    "path": "Travel Places/Oncoming Bus.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "oncoming_bus",
+      "vehicle",
+      "transportation"
+    ]
+  },
+  {
+    "key": "oncoming_police_car",
+    "path": "Travel Places/Oncoming Police Car.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "oncoming_police_car",
+      "vehicle",
+      "law",
+      "legal",
+      "enforcement",
+      "911"
+    ]
+  },
+  {
+    "key": "oncoming_taxi",
+    "path": "Travel Places/Oncoming Taxi.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "oncoming_taxi",
+      "vehicle",
+      "cars",
+      "uber"
+    ]
+  },
+  {
+    "key": "parachute",
+    "path": "Travel Places/Parachute.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "parachute",
+      "fly",
+      "glide"
+    ]
+  },
+  {
+    "key": "passenger_ship",
+    "path": "Travel Places/Passenger Ship.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "passenger_ship",
+      "yacht",
+      "cruise",
+      "ferry"
+    ]
+  },
+  {
+    "key": "passport_control",
+    "path": "Travel Places/Passport Control.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "passport_control",
+      "custom",
+      "blue-square"
+    ]
+  },
+  {
+    "key": "pickup_truck",
+    "path": "Travel Places/Pickup Truck.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "pickup_truck",
+      "pickup truck",
+      "car",
+      "transportation"
+    ]
+  },
+  {
+    "key": "police_car_light",
+    "path": "Travel Places/Police Car Light.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "police_car_light",
+      "police",
+      "ambulance",
+      "911",
+      "emergency",
+      "alert",
+      "error",
+      "pinged",
+      "law",
+      "legal"
+    ]
+  },
+  {
+    "key": "police_car",
+    "path": "Travel Places/Police Car.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "police_car",
+      "vehicle",
+      "cars",
+      "transportation",
+      "law",
+      "legal",
+      "enforcement"
+    ]
+  },
+  {
+    "key": "post_office",
+    "path": "Travel Places/Post Office.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "post_office",
+      "building",
+      "email"
+    ]
+  },
+  {
+    "key": "pound_banknote",
+    "path": "Travel Places/Pound Banknote.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "pound_banknote",
+      "british",
+      "sterling",
+      "money",
+      "sales",
+      "bills",
+      "uk",
+      "england",
+      "currency"
+    ]
+  },
+  {
+    "key": "racing_car",
+    "path": "Travel Places/Racing Car.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "racing_car",
+      "sports",
+      "race",
+      "fast",
+      "formula",
+      "f1"
+    ]
+  },
+  {
+    "key": "railway_car",
+    "path": "Travel Places/Railway Car.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "railway_car",
+      "transportation",
+      "vehicle"
+    ]
+  },
+  {
+    "key": "railway_track",
+    "path": "Travel Places/Railway Track.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "railway_track",
+      "train",
+      "transportation"
+    ]
+  },
+  {
+    "key": "ringed_planet",
+    "path": "Travel Places/Ringed Planet.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "ringed_planet",
+      "outerspace"
+    ]
+  },
+  {
+    "key": "rocket",
+    "path": "Travel Places/Rocket.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "rocket",
+      "launch",
+      "ship",
+      "staffmode",
+      "NASA",
+      "outer space",
+      "outer_space",
+      "fly"
+    ]
+  },
+  {
+    "key": "roller_coaster",
+    "path": "Travel Places/Roller Coaster.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "roller_coaster",
+      "carnival",
+      "playground",
+      "photo",
+      "fun"
+    ]
+  },
+  {
+    "key": "sailboat",
+    "path": "Travel Places/Sailboat.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "sailboat",
+      "ship",
+      "summer",
+      "transportation",
+      "water",
+      "sailing"
+    ]
+  },
+  {
+    "key": "satellite",
+    "path": "Travel Places/Satellite.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "satellite",
+      "communication",
+      "gps",
+      "orbit",
+      "spaceflight",
+      "NASA",
+      "ISS"
+    ]
+  },
+  {
+    "key": "school",
+    "path": "Travel Places/School.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "school",
+      "building",
+      "student",
+      "education",
+      "learn",
+      "teach"
+    ]
+  },
+  {
+    "key": "seat",
+    "path": "Travel Places/Seat.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "seat",
+      "sit",
+      "airplane",
+      "transport",
+      "bus",
+      "flight",
+      "fly"
+    ]
+  },
+  {
+    "key": "shinto_shrine",
+    "path": "Travel Places/Shinto Shrine.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "shinto_shrine",
+      "temple",
+      "japan",
+      "kyoto"
+    ]
+  },
+  {
+    "key": "ship",
+    "path": "Travel Places/Ship.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "ship",
+      "transportation",
+      "titanic",
+      "deploy"
+    ]
+  },
+  {
+    "key": "small_airplane",
+    "path": "Travel Places/Small Airplane.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "small_airplane",
+      "flight",
+      "transportation",
+      "fly",
+      "vehicle"
+    ]
+  },
+  {
+    "key": "snow_capped_mountain",
+    "path": "Travel Places/Snow Capped Mountain.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "snow_capped_mountain",
+      "photo",
+      "nature",
+      "environment",
+      "winter",
+      "cold"
+    ]
+  },
+  {
+    "key": "sparkler",
+    "path": "Travel Places/Sparkler.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "sparkler",
+      "stars",
+      "night",
+      "shine"
+    ]
+  },
+  {
+    "key": "speedboat",
+    "path": "Travel Places/Speedboat.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "speedboat",
+      "ship",
+      "transportation",
+      "vehicle",
+      "summer"
+    ]
+  },
+  {
+    "key": "sport_utility_vehicle",
+    "path": "Travel Places/Sport Utility Vehicle.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "sport_utility_vehicle",
+      "transportation",
+      "vehicle"
+    ]
+  },
+  {
+    "key": "stadium",
+    "path": "Travel Places/Stadium.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "stadium",
+      "photo",
+      "place",
+      "sports",
+      "concert",
+      "venue"
+    ]
+  },
+  {
+    "key": "station",
+    "path": "Travel Places/Station.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "station",
+      "transportation",
+      "vehicle",
+      "public"
+    ]
+  },
+  {
+    "key": "sunrise_over_mountains",
+    "path": "Travel Places/Sunrise Over Mountains.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "sunrise_over_mountains",
+      "view",
+      "vacation",
+      "photo"
+    ]
+  },
+  {
+    "key": "sunrise",
+    "path": "Travel Places/Sunrise.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "sunrise",
+      "morning",
+      "view",
+      "vacation",
+      "photo"
+    ]
+  },
+  {
+    "key": "sunset",
+    "path": "Travel Places/Sunset.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "sunset",
+      "photo",
+      "good morning",
+      "dawn"
+    ]
+  },
+  {
+    "key": "suspension_railway",
+    "path": "Travel Places/Suspension Railway.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "suspension_railway",
+      "vehicle",
+      "transportation"
+    ]
+  },
+  {
+    "key": "synagogue",
+    "path": "Travel Places/Synagogue.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "synagogue",
+      "judaism",
+      "worship",
+      "temple",
+      "jewish"
+    ]
+  },
+  {
+    "key": "taxi",
+    "path": "Travel Places/Taxi.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "taxi",
+      "uber",
+      "vehicle",
+      "cars",
+      "transportation"
+    ]
+  },
+  {
+    "key": "tent",
+    "path": "Travel Places/Tent.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "tent",
+      "photo",
+      "camping",
+      "outdoors"
+    ]
+  },
+  {
+    "key": "tokyo_tower",
+    "path": "Travel Places/Tokyo Tower.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "tokyo_tower",
+      "photo",
+      "japanese"
+    ]
+  },
+  {
+    "key": "tractor",
+    "path": "Travel Places/Tractor.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "tractor",
+      "vehicle",
+      "car",
+      "farming",
+      "agriculture"
+    ]
+  },
+  {
+    "key": "train",
+    "path": "Travel Places/Train.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "train",
+      "transportation",
+      "vehicle"
+    ]
+  },
+  {
+    "key": "tram_car",
+    "path": "Travel Places/Tram Car.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "tram_car",
+      "transportation",
+      "vehicle",
+      "carriage",
+      "public",
+      "travel"
+    ]
+  },
+  {
+    "key": "tram",
+    "path": "Travel Places/Tram.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "tram",
+      "transportation",
+      "vehicle"
+    ]
+  },
+  {
+    "key": "trolleybus",
+    "path": "Travel Places/Trolleybus.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "trolleybus",
+      "bart",
+      "transportation",
+      "vehicle"
+    ]
+  },
+  {
+    "key": "vertical_traffic_light",
+    "path": "Travel Places/Vertical Traffic Light.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "vertical_traffic_light",
+      "transportation",
+      "driving"
+    ]
+  },
+  {
+    "key": "volcano",
+    "path": "Travel Places/Volcano.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "volcano",
+      "photo",
+      "nature",
+      "disaster"
+    ]
+  },
+  {
+    "key": "wedding",
+    "path": "Travel Places/Wedding.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "wedding",
+      "love",
+      "like",
+      "affection",
+      "couple",
+      "marriage",
+      "bride",
+      "groom"
+    ]
+  },
+  {
+    "key": "yen_banknote",
+    "path": "Travel Places/Yen Banknote.png",
+    "categoryKey": "travel-places",
+    "suggestions": [
+      "yen_banknote",
+      "money",
+      "sales",
+      "japanese",
+      "dollar",
+      "currency"
+    ]
+  }
+]

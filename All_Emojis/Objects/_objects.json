@@ -1,0 +1,3201 @@
+[
+  {
+    "key": "abacus",
+    "path": "Objects/Abacus.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "abacus",
+      "calculation"
+    ]
+  },
+  {
+    "key": "adhesive_bandage",
+    "path": "Objects/Adhesive Bandage.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "adhesive_bandage",
+      "heal"
+    ]
+  },
+  {
+    "key": "alarm_clock",
+    "path": "Objects/Alarm Clock.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "alarm_clock",
+      "time",
+      "wake"
+    ]
+  },
+  {
+    "key": "alembic",
+    "path": "Objects/Alembic.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "alembic",
+      "distilling",
+      "science",
+      "experiment",
+      "chemistry"
+    ]
+  },
+  {
+    "key": "amphora",
+    "path": "Objects/Amphora.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "amphora",
+      "vase",
+      "jar"
+    ]
+  },
+  {
+    "key": "axe",
+    "path": "Objects/Axe.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "axe",
+      "tool",
+      "chop",
+      "cut"
+    ]
+  },
+  {
+    "key": "backpack",
+    "path": "Objects/Backpack.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "backpack",
+      "student",
+      "education",
+      "bag"
+    ]
+  },
+  {
+    "key": "balance_scale",
+    "path": "Objects/Balance Scale.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "balance_scale",
+      "law",
+      "fairness",
+      "weight"
+    ]
+  },
+  {
+    "key": "ballet_shoes",
+    "path": "Objects/Ballet Shoes.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "ballet_shoes",
+      "dance"
+    ]
+  },
+  {
+    "key": "balloon",
+    "path": "Objects/Balloon.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "balloon",
+      "party",
+      "celebration",
+      "birthday",
+      "circus"
+    ]
+  },
+  {
+    "key": "ballot_box_with_ballot",
+    "path": "Objects/Ballot Box With Ballot.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "ballot_box_with_ballot",
+      "election",
+      "vote"
+    ]
+  },
+  {
+    "key": "banjo",
+    "path": "Objects/Banjo.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "banjo",
+      "music",
+      "instructment"
+    ]
+  },
+  {
+    "key": "bar_chart",
+    "path": "Objects/Bar Chart.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "bar_chart",
+      "graph",
+      "presentation",
+      "stats"
+    ]
+  },
+  {
+    "key": "basket",
+    "path": "Objects/Basket.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "basket",
+      "laundry"
+    ]
+  },
+  {
+    "key": "bathtub",
+    "path": "Objects/Bathtub.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "bathtub",
+      "clean",
+      "shower",
+      "bathroom"
+    ]
+  },
+  {
+    "key": "battery",
+    "path": "Objects/Battery.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "battery",
+      "power",
+      "energy",
+      "sustain"
+    ]
+  },
+  {
+    "key": "bed",
+    "path": "Objects/Bed.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "bed",
+      "sleep",
+      "rest"
+    ]
+  },
+  {
+    "key": "bellhop_bell",
+    "path": "Objects/Bellhop Bell.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "bellhop_bell",
+      "service"
+    ]
+  },
+  {
+    "key": "bikini",
+    "path": "Objects/Bikini.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "bikini",
+      "swimming",
+      "female",
+      "woman",
+      "girl",
+      "fashion",
+      "beach",
+      "summer"
+    ]
+  },
+  {
+    "key": "billed_cap",
+    "path": "Objects/Billed Cap.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "billed_cap",
+      "cap",
+      "baseball"
+    ]
+  },
+  {
+    "key": "black_flag",
+    "path": "Objects/Black Flag.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "black_flag",
+      "pirate"
+    ]
+  },
+  {
+    "key": "black_nib",
+    "path": "Objects/Black Nib.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "black_nib",
+      "pen",
+      "stationery",
+      "writing",
+      "write"
+    ]
+  },
+  {
+    "key": "blue_book",
+    "path": "Objects/Blue Book.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "blue_book",
+      "read",
+      "library",
+      "knowledge",
+      "learn",
+      "study"
+    ]
+  },
+  {
+    "key": "bomb",
+    "path": "Objects/Bomb.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "bomb",
+      "boom",
+      "explode",
+      "explosion",
+      "terrorism"
+    ]
+  },
+  {
+    "key": "bookmark_tabs",
+    "path": "Objects/Bookmark Tabs.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "bookmark_tabs",
+      "favorite",
+      "save",
+      "order",
+      "tidy"
+    ]
+  },
+  {
+    "key": "bookmark",
+    "path": "Objects/Bookmark.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "bookmark",
+      "favorite",
+      "label",
+      "save"
+    ]
+  },
+  {
+    "key": "books",
+    "path": "Objects/Books.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "books",
+      "literature",
+      "library",
+      "study"
+    ]
+  },
+  {
+    "key": "boomerang",
+    "path": "Objects/Boomerang.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "boomerang",
+      "weapon"
+    ]
+  },
+  {
+    "key": "brick",
+    "path": "Objects/Brick.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "brick",
+      "bricks"
+    ]
+  },
+  {
+    "key": "briefcase",
+    "path": "Objects/Briefcase.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "briefcase",
+      "business",
+      "documents",
+      "work",
+      "law",
+      "legal",
+      "job",
+      "career"
+    ]
+  },
+  {
+    "key": "briefs",
+    "path": "Objects/Briefs.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "briefs",
+      "clothing"
+    ]
+  },
+  {
+    "key": "broom",
+    "path": "Objects/Broom.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "broom",
+      "cleaning",
+      "sweeping",
+      "witch"
+    ]
+  },
+  {
+    "key": "bucket",
+    "path": "Objects/Bucket.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "bucket",
+      "water",
+      "container"
+    ]
+  },
+  {
+    "key": "calendar",
+    "path": "Objects/Calendar.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "calendar",
+      "schedule"
+    ]
+  },
+  {
+    "key": "camera_with_flash",
+    "path": "Objects/Camera With Flash.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "camera_with_flash",
+      "photography",
+      "gadgets"
+    ]
+  },
+  {
+    "key": "camera",
+    "path": "Objects/Camera.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "camera",
+      "gadgets",
+      "photography"
+    ]
+  },
+  {
+    "key": "candle",
+    "path": "Objects/Candle.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "candle",
+      "fire",
+      "wax"
+    ]
+  },
+  {
+    "key": "card_file_box",
+    "path": "Objects/Card File Box.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "card_file_box",
+      "business",
+      "stationery"
+    ]
+  },
+  {
+    "key": "card_index_dividers",
+    "path": "Objects/Card Index Dividers.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "card_index_dividers",
+      "organizing",
+      "business",
+      "stationery"
+    ]
+  },
+  {
+    "key": "card_index",
+    "path": "Objects/Card Index.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "card_index",
+      "business",
+      "stationery"
+    ]
+  },
+  {
+    "key": "carpentry_saw",
+    "path": "Objects/Carpentry Saw.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "carpentry_saw",
+      "carpentry saw",
+      "cut",
+      "chop"
+    ]
+  },
+  {
+    "key": "chains",
+    "path": "Objects/Chains.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "chains",
+      "lock",
+      "arrest"
+    ]
+  },
+  {
+    "key": "chair",
+    "path": "Objects/Chair.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "chair",
+      "sit",
+      "furniture"
+    ]
+  },
+  {
+    "key": "chart_decreasing",
+    "path": "Objects/Chart Decreasing.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "chart_decreasing",
+      "graph",
+      "presentation",
+      "stats",
+      "recession",
+      "business",
+      "economics",
+      "money",
+      "sales",
+      "bad",
+      "failure"
+    ]
+  },
+  {
+    "key": "chart_increasing",
+    "path": "Objects/Chart Increasing.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "chart_increasing",
+      "graph",
+      "presentation",
+      "stats",
+      "recovery",
+      "business",
+      "economics",
+      "money",
+      "sales",
+      "good",
+      "success"
+    ]
+  },
+  {
+    "key": "chequered_flag",
+    "path": "Objects/Chequered Flag.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "chequered_flag",
+      "contest",
+      "finishline",
+      "race",
+      "gokart"
+    ]
+  },
+  {
+    "key": "cigarette",
+    "path": "Objects/Cigarette.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "cigarette",
+      "kills",
+      "tobacco",
+      "joint",
+      "smoke"
+    ]
+  },
+  {
+    "key": "clamp",
+    "path": "Objects/Clamp.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "clamp",
+      "tool"
+    ]
+  },
+  {
+    "key": "clipboard",
+    "path": "Objects/Clipboard.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "clipboard",
+      "stationery",
+      "documents"
+    ]
+  },
+  {
+    "key": "closed_book",
+    "path": "Objects/Closed Book.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "closed_book",
+      "read",
+      "library",
+      "knowledge",
+      "textbook",
+      "learn"
+    ]
+  },
+  {
+    "key": "closed_mailbox_with_lowered_flag",
+    "path": "Objects/Closed Mailbox With Lowered Flag.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "closed_mailbox_with_lowered_flag",
+      "email",
+      "communication",
+      "inbox"
+    ]
+  },
+  {
+    "key": "closed_mailbox_with_raised_flag",
+    "path": "Objects/Closed Mailbox With Raised Flag.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "closed_mailbox_with_raised_flag",
+      "email",
+      "inbox",
+      "communication"
+    ]
+  },
+  {
+    "key": "closed_umbrella",
+    "path": "Objects/Closed Umbrella.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "closed_umbrella",
+      "weather",
+      "rain",
+      "drizzle"
+    ]
+  },
+  {
+    "key": "clutch_bag",
+    "path": "Objects/Clutch Bag.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "clutch_bag",
+      "bag",
+      "accessories",
+      "shopping"
+    ]
+  },
+  {
+    "key": "coat",
+    "path": "Objects/Coat.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "coat",
+      "jacket"
+    ]
+  },
+  {
+    "key": "coffin",
+    "path": "Objects/Coffin.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "coffin",
+      "vampire",
+      "dead",
+      "die",
+      "death",
+      "rip",
+      "graveyard",
+      "cemetery",
+      "casket",
+      "funeral",
+      "box"
+    ]
+  },
+  {
+    "key": "coin",
+    "path": "Objects/Coin.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "coin",
+      "money",
+      "currency"
+    ]
+  },
+  {
+    "key": "compass",
+    "path": "Objects/Compass.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "compass",
+      "magnetic",
+      "navigation",
+      "orienteering"
+    ]
+  },
+  {
+    "key": "computer_disk",
+    "path": "Objects/Computer Disk.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "computer_disk",
+      "technology",
+      "record",
+      "data",
+      "disk",
+      "90s"
+    ]
+  },
+  {
+    "key": "computer_mouse",
+    "path": "Objects/Computer Mouse.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "computer_mouse",
+      "click"
+    ]
+  },
+  {
+    "key": "confetti_ball",
+    "path": "Objects/Confetti Ball.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "confetti_ball",
+      "festival",
+      "party",
+      "birthday",
+      "circus"
+    ]
+  },
+  {
+    "key": "control_knobs",
+    "path": "Objects/Control Knobs.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "control_knobs",
+      "dial"
+    ]
+  },
+  {
+    "key": "couch_and_lamp",
+    "path": "Objects/Couch And Lamp.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "couch_and_lamp",
+      "read",
+      "chill"
+    ]
+  },
+  {
+    "key": "crayon",
+    "path": "Objects/Crayon.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "crayon",
+      "drawing",
+      "creativity"
+    ]
+  },
+  {
+    "key": "credit_card",
+    "path": "Objects/Credit Card.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "credit_card",
+      "money",
+      "sales",
+      "dollar",
+      "bill",
+      "payment",
+      "shopping"
+    ]
+  },
+  {
+    "key": "crossed_flags",
+    "path": "Objects/Crossed Flags.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "crossed_flags",
+      "japanese",
+      "nation",
+      "country",
+      "border"
+    ]
+  },
+  {
+    "key": "crossed_swords",
+    "path": "Objects/Crossed Swords.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "crossed_swords",
+      "weapon"
+    ]
+  },
+  {
+    "key": "crown",
+    "path": "Objects/Crown.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "crown",
+      "king",
+      "kod",
+      "leader",
+      "royalty",
+      "lord"
+    ]
+  },
+  {
+    "key": "crystal_ball",
+    "path": "Objects/Crystal Ball.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "crystal_ball",
+      "disco",
+      "party",
+      "magic",
+      "circus",
+      "fortune_teller"
+    ]
+  },
+  {
+    "key": "dagger",
+    "path": "Objects/Dagger.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "dagger",
+      "weapon"
+    ]
+  },
+  {
+    "key": "desktop_computer",
+    "path": "Objects/Desktop Computer.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "desktop_computer",
+      "technology",
+      "computing",
+      "screen"
+    ]
+  },
+  {
+    "key": "diya_lamp",
+    "path": "Objects/Diya Lamp.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "diya_lamp",
+      "lighting"
+    ]
+  },
+  {
+    "key": "dna",
+    "path": "Objects/Dna.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "dna",
+      "biologist",
+      "genetics",
+      "life"
+    ]
+  },
+  {
+    "key": "door",
+    "path": "Objects/Door.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "door",
+      "house",
+      "entry",
+      "exit"
+    ]
+  },
+  {
+    "key": "dress",
+    "path": "Objects/Dress.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "dress",
+      "clothes",
+      "fashion",
+      "shopping"
+    ]
+  },
+  {
+    "key": "drop_of_blood",
+    "path": "Objects/Drop Of Blood.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "drop_of_blood",
+      "period",
+      "hurt",
+      "harm",
+      "wound"
+    ]
+  },
+  {
+    "key": "droplet",
+    "path": "Objects/Droplet.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "droplet",
+      "water",
+      "drip",
+      "faucet",
+      "spring"
+    ]
+  },
+  {
+    "key": "dvd",
+    "path": "Objects/Dvd.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "dvd",
+      "cd",
+      "disk",
+      "disc"
+    ]
+  },
+  {
+    "key": "e_mail",
+    "path": "Objects/E Mail.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "e_mail",
+      "communication",
+      "inbox"
+    ]
+  },
+  {
+    "key": "electric_plug",
+    "path": "Objects/Electric Plug.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "electric_plug",
+      "charger",
+      "power"
+    ]
+  },
+  {
+    "key": "envelope_with_arrow",
+    "path": "Objects/Envelope With Arrow.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "envelope_with_arrow",
+      "email",
+      "communication"
+    ]
+  },
+  {
+    "key": "envelope",
+    "path": "Objects/Envelope.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "envelope",
+      "letter",
+      "postal",
+      "inbox",
+      "communication"
+    ]
+  },
+  {
+    "key": "fax_machine",
+    "path": "Objects/Fax Machine.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "fax_machine",
+      "communication",
+      "technology"
+    ]
+  },
+  {
+    "key": "file_cabinet",
+    "path": "Objects/File Cabinet.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "file_cabinet",
+      "filing",
+      "organizing"
+    ]
+  },
+  {
+    "key": "file_folder",
+    "path": "Objects/File Folder.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "file_folder",
+      "documents",
+      "business",
+      "office"
+    ]
+  },
+  {
+    "key": "film_frames",
+    "path": "Objects/Film Frames.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "film_frames",
+      "movie"
+    ]
+  },
+  {
+    "key": "film_projector",
+    "path": "Objects/Film Projector.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "film_projector",
+      "video",
+      "tape",
+      "record",
+      "movie"
+    ]
+  },
+  {
+    "key": "fire_extinguisher",
+    "path": "Objects/Fire Extinguisher.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "fire_extinguisher",
+      "quench"
+    ]
+  },
+  {
+    "key": "firecracker",
+    "path": "Objects/Firecracker.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "firecracker",
+      "dynamite",
+      "boom",
+      "explode",
+      "explosion",
+      "explosive"
+    ]
+  },
+  {
+    "key": "fish_cake_with_swirl",
+    "path": "Objects/Fish Cake With Swirl.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "fish_cake_with_swirl",
+      "food",
+      "japan",
+      "sea",
+      "beach",
+      "narutomaki",
+      "pink",
+      "swirl",
+      "kamaboko",
+      "surimi",
+      "ramen"
+    ]
+  },
+  {
+    "key": "flashlight",
+    "path": "Objects/Flashlight.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "flashlight",
+      "dark",
+      "camping",
+      "sight",
+      "night"
+    ]
+  },
+  {
+    "key": "flat_shoe",
+    "path": "Objects/Flat Shoe.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "flat_shoe",
+      "ballet",
+      "slip-on",
+      "slipper"
+    ]
+  },
+  {
+    "key": "floppy_disk",
+    "path": "Objects/Floppy Disk.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "floppy_disk",
+      "oldschool",
+      "technology",
+      "save",
+      "90s",
+      "80s"
+    ]
+  },
+  {
+    "key": "fountain_pen",
+    "path": "Objects/Fountain Pen.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "fountain_pen",
+      "stationery",
+      "writing",
+      "write"
+    ]
+  },
+  {
+    "key": "fountain",
+    "path": "Objects/Fountain.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "fountain",
+      "photo",
+      "summer",
+      "water",
+      "fresh"
+    ]
+  },
+  {
+    "key": "framed_picture",
+    "path": "Objects/Framed Picture.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "framed_picture",
+      "photography"
+    ]
+  },
+  {
+    "key": "fuel_pump",
+    "path": "Objects/Fuel Pump.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "fuel_pump",
+      "gas station",
+      "petroleum"
+    ]
+  },
+  {
+    "key": "funeral_urn",
+    "path": "Objects/Funeral Urn.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "funeral_urn",
+      "dead",
+      "die",
+      "death",
+      "rip",
+      "ashes"
+    ]
+  },
+  {
+    "key": "gear",
+    "path": "Objects/Gear.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "gear",
+      "cog"
+    ]
+  },
+  {
+    "key": "gem_stone",
+    "path": "Objects/Gem Stone.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "gem_stone",
+      "blue",
+      "ruby",
+      "diamond",
+      "jewelry"
+    ]
+  },
+  {
+    "key": "glasses",
+    "path": "Objects/Glasses.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "glasses",
+      "fashion",
+      "accessories",
+      "eyesight",
+      "nerdy",
+      "dork",
+      "geek"
+    ]
+  },
+  {
+    "key": "gloves",
+    "path": "Objects/Gloves.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "gloves",
+      "hands",
+      "winter",
+      "clothes"
+    ]
+  },
+  {
+    "key": "goggles",
+    "path": "Objects/Goggles.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "goggles",
+      "eyes",
+      "protection",
+      "safety"
+    ]
+  },
+  {
+    "key": "graduation_cap",
+    "path": "Objects/Graduation Cap.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "graduation_cap",
+      "school",
+      "college",
+      "degree",
+      "university",
+      "graduation",
+      "cap",
+      "hat",
+      "legal",
+      "learn",
+      "education"
+    ]
+  },
+  {
+    "key": "green_book",
+    "path": "Objects/Green Book.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "green_book",
+      "read",
+      "library",
+      "knowledge",
+      "study"
+    ]
+  },
+  {
+    "key": "hammer_and_pick",
+    "path": "Objects/Hammer And Pick.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "hammer_and_pick",
+      "tools",
+      "build",
+      "create"
+    ]
+  },
+  {
+    "key": "hammer_and_wrench",
+    "path": "Objects/Hammer And Wrench.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "hammer_and_wrench",
+      "tools",
+      "build",
+      "create"
+    ]
+  },
+  {
+    "key": "hammer",
+    "path": "Objects/Hammer.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "hammer",
+      "tools",
+      "build",
+      "create"
+    ]
+  },
+  {
+    "key": "handbag",
+    "path": "Objects/Handbag.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "handbag",
+      "fashion",
+      "accessory",
+      "accessories",
+      "shopping"
+    ]
+  },
+  {
+    "key": "headstone",
+    "path": "Objects/Headstone.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "headstone",
+      "death",
+      "rip",
+      "grave"
+    ]
+  },
+  {
+    "key": "high_heeled_shoe",
+    "path": "Objects/High Heeled Shoe.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "high_heeled_shoe",
+      "fashion",
+      "shoes",
+      "female",
+      "pumps",
+      "stiletto"
+    ]
+  },
+  {
+    "key": "hiking_boot",
+    "path": "Objects/Hiking Boot.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "hiking_boot",
+      "backpacking",
+      "camping",
+      "hiking"
+    ]
+  },
+  {
+    "key": "hole",
+    "path": "Objects/Hole.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "hole",
+      "embarrassing"
+    ]
+  },
+  {
+    "key": "hook",
+    "path": "Objects/Hook.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "hook",
+      "tools"
+    ]
+  },
+  {
+    "key": "hourglass_done",
+    "path": "Objects/Hourglass Done.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "hourglass_done",
+      "time",
+      "clock",
+      "oldschool",
+      "limit",
+      "exam",
+      "quiz",
+      "test"
+    ]
+  },
+  {
+    "key": "hourglass_not_done",
+    "path": "Objects/Hourglass Not Done.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "hourglass_not_done",
+      "oldschool",
+      "time",
+      "countdown"
+    ]
+  },
+  {
+    "key": "inbox_tray",
+    "path": "Objects/Inbox Tray.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "inbox_tray",
+      "email",
+      "documents"
+    ]
+  },
+  {
+    "key": "incoming_envelope",
+    "path": "Objects/Incoming Envelope.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "incoming_envelope",
+      "email",
+      "inbox"
+    ]
+  },
+  {
+    "key": "jack_o_lantern",
+    "path": "Objects/Jack O Lantern.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "jack_o_lantern",
+      "halloween",
+      "light",
+      "pumpkin",
+      "creepy",
+      "fall"
+    ]
+  },
+  {
+    "key": "japanese_dolls",
+    "path": "Objects/Japanese Dolls.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "japanese_dolls",
+      "japanese",
+      "toy",
+      "kimono"
+    ]
+  },
+  {
+    "key": "jeans",
+    "path": "Objects/Jeans.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "jeans",
+      "fashion",
+      "shopping"
+    ]
+  },
+  {
+    "key": "joystick",
+    "path": "Objects/Joystick.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "joystick",
+      "game",
+      "play"
+    ]
+  },
+  {
+    "key": "key",
+    "path": "Objects/Key.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "key",
+      "lock",
+      "door",
+      "password"
+    ]
+  },
+  {
+    "key": "keyboard",
+    "path": "Objects/Keyboard.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "keyboard",
+      "technology",
+      "computer",
+      "type",
+      "input",
+      "text"
+    ]
+  },
+  {
+    "key": "kimono",
+    "path": "Objects/Kimono.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "kimono",
+      "dress",
+      "fashion",
+      "women",
+      "female",
+      "japanese"
+    ]
+  },
+  {
+    "key": "kite",
+    "path": "Objects/Kite.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "kite",
+      "wind",
+      "fly"
+    ]
+  },
+  {
+    "key": "knot",
+    "path": "Objects/Knot.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "knot",
+      "rope",
+      "scout"
+    ]
+  },
+  {
+    "key": "lab_coat",
+    "path": "Objects/Lab Coat.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "lab_coat",
+      "doctor",
+      "experiment",
+      "scientist",
+      "chemist"
+    ]
+  },
+  {
+    "key": "label",
+    "path": "Objects/Label.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "label",
+      "sale",
+      "tag"
+    ]
+  },
+  {
+    "key": "ladder",
+    "path": "Objects/Ladder.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "ladder",
+      "tools"
+    ]
+  },
+  {
+    "key": "laptop",
+    "path": "Objects/Laptop.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "laptop",
+      "technology",
+      "screen",
+      "display",
+      "monitor"
+    ]
+  },
+  {
+    "key": "ledger",
+    "path": "Objects/Ledger.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "ledger",
+      "notes",
+      "paper"
+    ]
+  },
+  {
+    "key": "level_slider",
+    "path": "Objects/Level Slider.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "level_slider",
+      "scale"
+    ]
+  },
+  {
+    "key": "light_bulb",
+    "path": "Objects/Light Bulb.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "light_bulb",
+      "light",
+      "electricity",
+      "idea"
+    ]
+  },
+  {
+    "key": "link",
+    "path": "Objects/Link.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "link",
+      "rings",
+      "url"
+    ]
+  },
+  {
+    "key": "linked_paperclips",
+    "path": "Objects/Linked Paperclips.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "linked_paperclips",
+      "documents",
+      "stationery"
+    ]
+  },
+  {
+    "key": "lipstick",
+    "path": "Objects/Lipstick.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "lipstick",
+      "female",
+      "girl",
+      "fashion",
+      "woman"
+    ]
+  },
+  {
+    "key": "locked_with_key",
+    "path": "Objects/Locked With Key.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "locked_with_key",
+      "security",
+      "privacy"
+    ]
+  },
+  {
+    "key": "locked_with_pen",
+    "path": "Objects/Locked With Pen.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "locked_with_pen",
+      "security",
+      "secret"
+    ]
+  },
+  {
+    "key": "locked",
+    "path": "Objects/Locked.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "locked",
+      "security",
+      "password",
+      "padlock"
+    ]
+  },
+  {
+    "key": "lotion_bottle",
+    "path": "Objects/Lotion Bottle.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "lotion_bottle",
+      "moisturizer",
+      "sunscreen"
+    ]
+  },
+  {
+    "key": "love_letter",
+    "path": "Objects/Love Letter.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "love_letter",
+      "email",
+      "like",
+      "affection",
+      "envelope",
+      "valentines"
+    ]
+  },
+  {
+    "key": "luggage",
+    "path": "Objects/Luggage.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "luggage",
+      "packing",
+      "travel"
+    ]
+  },
+  {
+    "key": "magic_wand",
+    "path": "Objects/Magic Wand.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "magic_wand",
+      "magic wand",
+      "supernature",
+      "power"
+    ]
+  },
+  {
+    "key": "magnet",
+    "path": "Objects/Magnet.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "magnet",
+      "attraction",
+      "magnetic"
+    ]
+  },
+  {
+    "key": "magnifying_glass_tilted_left",
+    "path": "Objects/Magnifying Glass Tilted Left.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "magnifying_glass_tilted_left",
+      "search",
+      "zoom",
+      "find",
+      "detective"
+    ]
+  },
+  {
+    "key": "magnifying_glass_tilted_right",
+    "path": "Objects/Magnifying Glass Tilted Right.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "magnifying_glass_tilted_right",
+      "search",
+      "zoom",
+      "find",
+      "detective"
+    ]
+  },
+  {
+    "key": "mans_shoe",
+    "path": "Objects/Mans Shoe.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "mans_shoe",
+      "fashion",
+      "male"
+    ]
+  },
+  {
+    "key": "mantelpiece_clock",
+    "path": "Objects/Mantelpiece Clock.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "mantelpiece_clock",
+      "time"
+    ]
+  },
+  {
+    "key": "manual_wheelchair",
+    "path": "Objects/Manual Wheelchair.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "manual_wheelchair",
+      "accessibility"
+    ]
+  },
+  {
+    "key": "memo",
+    "path": "Objects/Memo.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "memo",
+      "write",
+      "documents",
+      "stationery",
+      "pencil",
+      "paper",
+      "writing",
+      "legal",
+      "exam",
+      "quiz",
+      "test",
+      "study",
+      "compose"
+    ]
+  },
+  {
+    "key": "microscope",
+    "path": "Objects/Microscope.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "microscope",
+      "laboratory",
+      "experiment",
+      "zoomin",
+      "science",
+      "study"
+    ]
+  },
+  {
+    "key": "military_helmet",
+    "path": "Objects/Military Helmet.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "military_helmet",
+      "military helmet",
+      "army",
+      "protection"
+    ]
+  },
+  {
+    "key": "mirror",
+    "path": "Objects/Mirror.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "mirror",
+      "reflection"
+    ]
+  },
+  {
+    "key": "mobile_phone_with_arrow",
+    "path": "Objects/Mobile Phone With Arrow.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "mobile_phone_with_arrow",
+      "iphone",
+      "incoming"
+    ]
+  },
+  {
+    "key": "mobile_phone",
+    "path": "Objects/Mobile Phone.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "mobile_phone",
+      "technology",
+      "apple",
+      "gadgets",
+      "dial"
+    ]
+  },
+  {
+    "key": "money_bag",
+    "path": "Objects/Money Bag.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "money_bag",
+      "dollar",
+      "payment",
+      "coins",
+      "sale"
+    ]
+  },
+  {
+    "key": "money_with_wings",
+    "path": "Objects/Money With Wings.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "money_with_wings",
+      "dollar",
+      "bills",
+      "payment",
+      "sale"
+    ]
+  },
+  {
+    "key": "motorized_wheelchair",
+    "path": "Objects/Motorized Wheelchair.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "motorized_wheelchair",
+      "accessibility"
+    ]
+  },
+  {
+    "key": "mouse_trap",
+    "path": "Objects/Mouse Trap.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "mouse_trap",
+      "mouse trap",
+      "cheese"
+    ]
+  },
+  {
+    "key": "movie_camera",
+    "path": "Objects/Movie Camera.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "movie_camera",
+      "film",
+      "record"
+    ]
+  },
+  {
+    "key": "nazar_amulet",
+    "path": "Objects/Nazar Amulet.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "nazar_amulet",
+      "bead",
+      "charm"
+    ]
+  },
+  {
+    "key": "necktie",
+    "path": "Objects/Necktie.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "necktie",
+      "shirt",
+      "suitup",
+      "formal",
+      "fashion",
+      "cloth",
+      "business"
+    ]
+  },
+  {
+    "key": "nesting_dolls",
+    "path": "Objects/Nesting Dolls.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "nesting_dolls",
+      "nesting dolls",
+      "matryoshka",
+      "toy"
+    ]
+  },
+  {
+    "key": "newspaper",
+    "path": "Objects/Newspaper.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "newspaper",
+      "press",
+      "headline"
+    ]
+  },
+  {
+    "key": "notebook_with_decorative_cover",
+    "path": "Objects/Notebook With Decorative Cover.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "notebook_with_decorative_cover",
+      "classroom",
+      "notes",
+      "record",
+      "paper",
+      "study"
+    ]
+  },
+  {
+    "key": "notebook",
+    "path": "Objects/Notebook.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "notebook",
+      "stationery",
+      "record",
+      "notes",
+      "paper",
+      "study"
+    ]
+  },
+  {
+    "key": "nut_and_bolt",
+    "path": "Objects/Nut And Bolt.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "nut_and_bolt",
+      "handy",
+      "tools",
+      "fix"
+    ]
+  },
+  {
+    "key": "oil_drum",
+    "path": "Objects/Oil Drum.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "oil_drum",
+      "barrell"
+    ]
+  },
+  {
+    "key": "old_key",
+    "path": "Objects/Old Key.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "old_key",
+      "lock",
+      "door",
+      "password"
+    ]
+  },
+  {
+    "key": "open_book",
+    "path": "Objects/Open Book.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "open_book",
+      "book",
+      "read",
+      "library",
+      "knowledge",
+      "literature",
+      "learn",
+      "study"
+    ]
+  },
+  {
+    "key": "open_file_folder",
+    "path": "Objects/Open File Folder.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "open_file_folder",
+      "documents",
+      "load"
+    ]
+  },
+  {
+    "key": "open_mailbox_with_lowered_flag",
+    "path": "Objects/Open Mailbox With Lowered Flag.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "open_mailbox_with_lowered_flag",
+      "email",
+      "inbox"
+    ]
+  },
+  {
+    "key": "open_mailbox_with_raised_flag",
+    "path": "Objects/Open Mailbox With Raised Flag.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "open_mailbox_with_raised_flag",
+      "email",
+      "inbox",
+      "communication"
+    ]
+  },
+  {
+    "key": "optical_disk",
+    "path": "Objects/Optical Disk.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "optical_disk",
+      "technology",
+      "dvd",
+      "disk",
+      "disc",
+      "90s"
+    ]
+  },
+  {
+    "key": "orange_book",
+    "path": "Objects/Orange Book.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "orange_book",
+      "read",
+      "library",
+      "knowledge",
+      "textbook",
+      "study"
+    ]
+  },
+  {
+    "key": "outbox_tray",
+    "path": "Objects/Outbox Tray.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "outbox_tray",
+      "inbox",
+      "email"
+    ]
+  },
+  {
+    "key": "package",
+    "path": "Objects/Package.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "package",
+      "mail",
+      "gift",
+      "cardboard",
+      "box",
+      "moving"
+    ]
+  },
+  {
+    "key": "page_facing_up",
+    "path": "Objects/Page Facing Up.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "page_facing_up",
+      "documents",
+      "office",
+      "paper",
+      "information"
+    ]
+  },
+  {
+    "key": "page_with_curl",
+    "path": "Objects/Page With Curl.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "page_with_curl",
+      "documents",
+      "office",
+      "paper"
+    ]
+  },
+  {
+    "key": "pager",
+    "path": "Objects/Pager.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "pager",
+      "bbcall",
+      "oldschool",
+      "90s"
+    ]
+  },
+  {
+    "key": "paintbrush",
+    "path": "Objects/Paintbrush.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "paintbrush",
+      "drawing",
+      "creativity",
+      "art"
+    ]
+  },
+  {
+    "key": "paperclip",
+    "path": "Objects/Paperclip.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "paperclip",
+      "documents",
+      "stationery"
+    ]
+  },
+  {
+    "key": "party_popper",
+    "path": "Objects/Party Popper.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "party_popper",
+      "party",
+      "congratulations",
+      "birthday",
+      "magic",
+      "circus",
+      "celebration",
+      "tada"
+    ]
+  },
+  {
+    "key": "pen",
+    "path": "Objects/Pen.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "pen",
+      "stationery",
+      "writing",
+      "write"
+    ]
+  },
+  {
+    "key": "pencil",
+    "path": "Objects/Pencil.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "pencil",
+      "stationery",
+      "write",
+      "paper",
+      "writing",
+      "school",
+      "study"
+    ]
+  },
+  {
+    "key": "petri_dish",
+    "path": "Objects/Petri Dish.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "petri_dish",
+      "bacteria",
+      "biology",
+      "culture",
+      "lab"
+    ]
+  },
+  {
+    "key": "pick",
+    "path": "Objects/Pick.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "pick",
+      "tools",
+      "dig"
+    ]
+  },
+  {
+    "key": "pill",
+    "path": "Objects/Pill.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "pill",
+      "health",
+      "medicine",
+      "doctor",
+      "pharmacy",
+      "drug"
+    ]
+  },
+  {
+    "key": "pinata",
+    "path": "Objects/Pinata.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "pinata",
+      "mexico",
+      "candy",
+      "celebration"
+    ]
+  },
+  {
+    "key": "pirate_flag",
+    "path": "Objects/Pirate Flag.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "pirate_flag",
+      "skull",
+      "crossbones",
+      "flag",
+      "banner"
+    ]
+  },
+  {
+    "key": "pistol",
+    "path": "Objects/Pistol.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "pistol",
+      "violence",
+      "weapon",
+      "revolver"
+    ]
+  },
+  {
+    "key": "placard",
+    "path": "Objects/Placard.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "placard",
+      "announcement"
+    ]
+  },
+  {
+    "key": "plunger",
+    "path": "Objects/Plunger.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "plunger",
+      "toilet"
+    ]
+  },
+  {
+    "key": "postbox",
+    "path": "Objects/Postbox.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "postbox",
+      "email",
+      "letter",
+      "envelope"
+    ]
+  },
+  {
+    "key": "potable_water",
+    "path": "Objects/Potable Water.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "potable_water",
+      "blue-square",
+      "liquid",
+      "restroom",
+      "cleaning",
+      "faucet"
+    ]
+  },
+  {
+    "key": "prayer_beads",
+    "path": "Objects/Prayer Beads.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "prayer_beads",
+      "dhikr",
+      "religious"
+    ]
+  },
+  {
+    "key": "printer",
+    "path": "Objects/Printer.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "printer",
+      "paper",
+      "ink"
+    ]
+  },
+  {
+    "key": "purse",
+    "path": "Objects/Purse.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "purse",
+      "fashion",
+      "accessories",
+      "money",
+      "sales",
+      "shopping"
+    ]
+  },
+  {
+    "key": "pushpin",
+    "path": "Objects/Pushpin.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "pushpin",
+      "stationery",
+      "mark",
+      "here"
+    ]
+  },
+  {
+    "key": "radio",
+    "path": "Objects/Radio.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "radio",
+      "communication",
+      "music",
+      "podcast",
+      "program"
+    ]
+  },
+  {
+    "key": "rainbow_flag",
+    "path": "Objects/Rainbow Flag.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "rainbow_flag",
+      "flag",
+      "rainbow",
+      "pride",
+      "gay",
+      "lgbt",
+      "glbt",
+      "queer",
+      "homosexual",
+      "lesbian",
+      "bisexual",
+      "transgender"
+    ]
+  },
+  {
+    "key": "rainbow",
+    "path": "Objects/Rainbow.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "rainbow",
+      "nature",
+      "happy",
+      "unicorn_face",
+      "photo",
+      "sky",
+      "spring"
+    ]
+  },
+  {
+    "key": "razor",
+    "path": "Objects/Razor.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "razor",
+      "cut"
+    ]
+  },
+  {
+    "key": "receipt",
+    "path": "Objects/Receipt.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "receipt",
+      "accounting",
+      "expenses"
+    ]
+  },
+  {
+    "key": "red_envelope",
+    "path": "Objects/Red Envelope.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "red_envelope",
+      "gift"
+    ]
+  },
+  {
+    "key": "red_hair",
+    "path": "Objects/Red Hair.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "red_hair",
+      "red hair"
+    ]
+  },
+  {
+    "key": "red_paper_lantern",
+    "path": "Objects/Red Paper Lantern.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "red_paper_lantern",
+      "light",
+      "paper",
+      "halloween",
+      "spooky"
+    ]
+  },
+  {
+    "key": "rescue_workers_helmet",
+    "path": "Objects/Rescue Workers Helmet.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "rescue_workers_helmet",
+      "construction",
+      "build"
+    ]
+  },
+  {
+    "key": "ribbon",
+    "path": "Objects/Ribbon.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "ribbon",
+      "decoration",
+      "pink",
+      "girl",
+      "bowtie"
+    ]
+  },
+  {
+    "key": "ring",
+    "path": "Objects/Ring.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "ring",
+      "wedding",
+      "propose",
+      "marriage",
+      "valentines",
+      "diamond",
+      "fashion",
+      "jewelry",
+      "gem",
+      "engagement"
+    ]
+  },
+  {
+    "key": "robot",
+    "path": "Objects/Robot.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "robot",
+      "computer",
+      "machine",
+      "bot"
+    ]
+  },
+  {
+    "key": "roll_of_paper",
+    "path": "Objects/Roll Of Paper.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "roll_of_paper",
+      "roll"
+    ]
+  },
+  {
+    "key": "rolled_up_newspaper",
+    "path": "Objects/Rolled Up Newspaper.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "rolled_up_newspaper",
+      "press",
+      "headline"
+    ]
+  },
+  {
+    "key": "round_pushpin",
+    "path": "Objects/Round Pushpin.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "round_pushpin",
+      "stationery",
+      "location",
+      "map",
+      "here"
+    ]
+  },
+  {
+    "key": "running_shoe",
+    "path": "Objects/Running Shoe.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "running_shoe",
+      "shoes",
+      "sports",
+      "sneakers"
+    ]
+  },
+  {
+    "key": "safety_pin",
+    "path": "Objects/Safety Pin.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "safety_pin",
+      "diaper"
+    ]
+  },
+  {
+    "key": "safety_vest",
+    "path": "Objects/Safety Vest.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "safety_vest",
+      "protection"
+    ]
+  },
+  {
+    "key": "sari",
+    "path": "Objects/Sari.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "sari",
+      "dress"
+    ]
+  },
+  {
+    "key": "satellite_antenna",
+    "path": "Objects/Satellite Antenna.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "satellite_antenna",
+      "communication",
+      "future",
+      "radio",
+      "space"
+    ]
+  },
+  {
+    "key": "scarf",
+    "path": "Objects/Scarf.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "scarf",
+      "neck",
+      "winter",
+      "clothes"
+    ]
+  },
+  {
+    "key": "scissors",
+    "path": "Objects/Scissors.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "scissors",
+      "stationery",
+      "cut"
+    ]
+  },
+  {
+    "key": "screwdriver",
+    "path": "Objects/Screwdriver.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "screwdriver",
+      "tools"
+    ]
+  },
+  {
+    "key": "scroll",
+    "path": "Objects/Scroll.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "scroll",
+      "documents",
+      "ancient",
+      "history",
+      "paper"
+    ]
+  },
+  {
+    "key": "sewing_needle",
+    "path": "Objects/Sewing Needle.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "sewing_needle",
+      "sewing needle",
+      "stitches"
+    ]
+  },
+  {
+    "key": "shield",
+    "path": "Objects/Shield.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "shield",
+      "protection",
+      "security"
+    ]
+  },
+  {
+    "key": "shopping_bags",
+    "path": "Objects/Shopping Bags.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "shopping_bags",
+      "mall",
+      "buy",
+      "purchase"
+    ]
+  },
+  {
+    "key": "shopping_cart",
+    "path": "Objects/Shopping Cart.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "shopping_cart",
+      "trolley"
+    ]
+  },
+  {
+    "key": "shorts",
+    "path": "Objects/Shorts.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "shorts",
+      "clothing"
+    ]
+  },
+  {
+    "key": "shower",
+    "path": "Objects/Shower.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "shower",
+      "clean",
+      "water",
+      "bathroom"
+    ]
+  },
+  {
+    "key": "snowflake",
+    "path": "Objects/Snowflake.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "snowflake",
+      "winter",
+      "season",
+      "cold",
+      "weather",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "key": "snowman_without_snow",
+    "path": "Objects/Snowman Without Snow.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "snowman_without_snow",
+      "winter",
+      "season",
+      "cold",
+      "weather",
+      "christmas",
+      "xmas",
+      "frozen",
+      "without_snow"
+    ]
+  },
+  {
+    "key": "snowman",
+    "path": "Objects/Snowman.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "snowman",
+      "winter",
+      "season",
+      "cold",
+      "weather",
+      "christmas",
+      "xmas",
+      "frozen"
+    ]
+  },
+  {
+    "key": "soap",
+    "path": "Objects/Soap.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "soap",
+      "bar",
+      "bathing",
+      "cleaning",
+      "lather"
+    ]
+  },
+  {
+    "key": "socks",
+    "path": "Objects/Socks.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "socks",
+      "stockings",
+      "clothes"
+    ]
+  },
+  {
+    "key": "sparkles",
+    "path": "Objects/Sparkles.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "sparkles",
+      "stars",
+      "shine",
+      "shiny",
+      "cool",
+      "awesome",
+      "good",
+      "magic"
+    ]
+  },
+  {
+    "key": "spiral_calendar",
+    "path": "Objects/Spiral Calendar.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "spiral_calendar",
+      "date",
+      "schedule",
+      "planning"
+    ]
+  },
+  {
+    "key": "spiral_notepad",
+    "path": "Objects/Spiral Notepad.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "spiral_notepad",
+      "memo",
+      "stationery"
+    ]
+  },
+  {
+    "key": "sponge",
+    "path": "Objects/Sponge.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "sponge",
+      "absorbing",
+      "cleaning",
+      "porous"
+    ]
+  },
+  {
+    "key": "statue_of_liberty",
+    "path": "Objects/Statue Of Liberty.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "statue_of_liberty",
+      "american",
+      "newyork"
+    ]
+  },
+  {
+    "key": "stethoscope",
+    "path": "Objects/Stethoscope.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "stethoscope",
+      "health"
+    ]
+  },
+  {
+    "key": "stopwatch",
+    "path": "Objects/Stopwatch.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "stopwatch",
+      "time",
+      "deadline"
+    ]
+  },
+  {
+    "key": "straight_ruler",
+    "path": "Objects/Straight Ruler.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "straight_ruler",
+      "stationery",
+      "calculate",
+      "length",
+      "math",
+      "school",
+      "drawing",
+      "architect",
+      "sketch"
+    ]
+  },
+  {
+    "key": "studio_microphone",
+    "path": "Objects/Studio Microphone.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "studio_microphone",
+      "sing",
+      "recording",
+      "artist",
+      "talkshow"
+    ]
+  },
+  {
+    "key": "sunglasses",
+    "path": "Objects/Sunglasses.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "sunglasses",
+      "face",
+      "cool",
+      "accessories"
+    ]
+  },
+  {
+    "key": "sweat_droplets",
+    "path": "Objects/Sweat Droplets.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "sweat_droplets",
+      "water",
+      "drip",
+      "oops"
+    ]
+  },
+  {
+    "key": "syringe",
+    "path": "Objects/Syringe.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "syringe",
+      "health",
+      "hospital",
+      "drugs",
+      "blood",
+      "medicine",
+      "needle",
+      "doctor",
+      "nurse"
+    ]
+  },
+  {
+    "key": "t_shirt",
+    "path": "Objects/T Shirt.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "t_shirt",
+      "fashion",
+      "cloth",
+      "casual",
+      "shirt",
+      "tee"
+    ]
+  },
+  {
+    "key": "teapot",
+    "path": "Objects/Teapot.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "teapot",
+      "drink",
+      "hot"
+    ]
+  },
+  {
+    "key": "tear_off_calendar",
+    "path": "Objects/Tear Off Calendar.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "tear_off_calendar",
+      "schedule",
+      "date",
+      "planning"
+    ]
+  },
+  {
+    "key": "teddy_bear",
+    "path": "Objects/Teddy Bear.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "teddy_bear",
+      "plush",
+      "stuffed"
+    ]
+  },
+  {
+    "key": "telephone_receiver",
+    "path": "Objects/Telephone Receiver.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "telephone_receiver",
+      "technology",
+      "communication",
+      "dial"
+    ]
+  },
+  {
+    "key": "telephone",
+    "path": "Objects/Telephone.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "telephone",
+      "technology",
+      "communication",
+      "dial"
+    ]
+  },
+  {
+    "key": "telescope",
+    "path": "Objects/Telescope.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "telescope",
+      "stars",
+      "space",
+      "zoom",
+      "science",
+      "astronomy"
+    ]
+  },
+  {
+    "key": "television",
+    "path": "Objects/Television.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "television",
+      "technology",
+      "program",
+      "oldschool",
+      "show"
+    ]
+  },
+  {
+    "key": "test_tube",
+    "path": "Objects/Test Tube.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "test_tube",
+      "chemistry",
+      "experiment",
+      "lab",
+      "science"
+    ]
+  },
+  {
+    "key": "thermometer",
+    "path": "Objects/Thermometer.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "thermometer",
+      "weather",
+      "temperature",
+      "hot",
+      "cold"
+    ]
+  },
+  {
+    "key": "thong_sandal",
+    "path": "Objects/Thong Sandal.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "thong_sandal",
+      "thong sandal",
+      "footwear",
+      "summer"
+    ]
+  },
+  {
+    "key": "timer_clock",
+    "path": "Objects/Timer Clock.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "timer_clock",
+      "alarm"
+    ]
+  },
+  {
+    "key": "toilet",
+    "path": "Objects/Toilet.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "toilet",
+      "restroom",
+      "wc",
+      "washroom",
+      "bathroom",
+      "potty"
+    ]
+  },
+  {
+    "key": "toolbox",
+    "path": "Objects/Toolbox.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "toolbox",
+      "tools",
+      "diy",
+      "fix",
+      "maintainer",
+      "mechanic"
+    ]
+  },
+  {
+    "key": "toothbrush",
+    "path": "Objects/Toothbrush.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "toothbrush",
+      "hygiene",
+      "dental"
+    ]
+  },
+  {
+    "key": "top_hat",
+    "path": "Objects/Top Hat.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "top_hat",
+      "magic",
+      "gentleman",
+      "classy",
+      "circus"
+    ]
+  },
+  {
+    "key": "tornado",
+    "path": "Objects/Tornado.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "tornado",
+      "weather",
+      "cyclone",
+      "twister"
+    ]
+  },
+  {
+    "key": "trackball",
+    "path": "Objects/Trackball.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "trackball",
+      "technology",
+      "trackpad"
+    ]
+  },
+  {
+    "key": "transgender_flag",
+    "path": "Objects/Transgender Flag.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "transgender_flag",
+      "transgender flag",
+      "lgbtq"
+    ]
+  },
+  {
+    "key": "triangular_flag",
+    "path": "Objects/Triangular Flag.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "triangular_flag",
+      "mark",
+      "milestone",
+      "place"
+    ]
+  },
+  {
+    "key": "triangular_ruler",
+    "path": "Objects/Triangular Ruler.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "triangular_ruler",
+      "stationery",
+      "math",
+      "architect",
+      "sketch"
+    ]
+  },
+  {
+    "key": "unlocked",
+    "path": "Objects/Unlocked.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "unlocked",
+      "privacy",
+      "security"
+    ]
+  },
+  {
+    "key": "video_camera",
+    "path": "Objects/Video Camera.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "video_camera",
+      "film",
+      "record"
+    ]
+  },
+  {
+    "key": "videocassette",
+    "path": "Objects/Videocassette.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "videocassette",
+      "record",
+      "video",
+      "oldschool",
+      "90s",
+      "80s"
+    ]
+  },
+  {
+    "key": "wastebasket",
+    "path": "Objects/Wastebasket.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "wastebasket",
+      "bin",
+      "trash",
+      "rubbish",
+      "garbage",
+      "toss"
+    ]
+  },
+  {
+    "key": "watch",
+    "path": "Objects/Watch.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "watch",
+      "time",
+      "accessories"
+    ]
+  },
+  {
+    "key": "white_cane",
+    "path": "Objects/White Cane.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "white_cane",
+      "accessibility",
+      "blind"
+    ]
+  },
+  {
+    "key": "white_flag",
+    "path": "Objects/White Flag.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "white_flag",
+      "losing",
+      "loser",
+      "lost",
+      "surrender",
+      "give up",
+      "fail"
+    ]
+  },
+  {
+    "key": "wind_chime",
+    "path": "Objects/Wind Chime.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "wind_chime",
+      "nature",
+      "ding",
+      "spring",
+      "bell"
+    ]
+  },
+  {
+    "key": "window",
+    "path": "Objects/Window.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "window",
+      "scenery"
+    ]
+  },
+  {
+    "key": "womans_boot",
+    "path": "Objects/Womans Boot.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "womans_boot",
+      "shoes",
+      "fashion",
+      "boot"
+    ]
+  },
+  {
+    "key": "womans_clothes",
+    "path": "Objects/Womans Clothes.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "womans_clothes",
+      "fashion",
+      "shopping bags",
+      "female"
+    ]
+  },
+  {
+    "key": "womans_hat",
+    "path": "Objects/Womans Hat.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "womans_hat",
+      "fashion",
+      "accessories",
+      "female",
+      "lady",
+      "spring"
+    ]
+  },
+  {
+    "key": "womans_sandal",
+    "path": "Objects/Womans Sandal.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "womans_sandal",
+      "shoes",
+      "fashion",
+      "flip flops"
+    ]
+  },
+  {
+    "key": "wood",
+    "path": "Objects/Wood.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "wood",
+      "nature",
+      "timber",
+      "trunk"
+    ]
+  },
+  {
+    "key": "world_map",
+    "path": "Objects/World Map.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "world_map",
+      "location",
+      "direction"
+    ]
+  },
+  {
+    "key": "wrapped_gift",
+    "path": "Objects/Wrapped Gift.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "wrapped_gift",
+      "present",
+      "birthday",
+      "christmas",
+      "xmas"
+    ]
+  },
+  {
+    "key": "wrench",
+    "path": "Objects/Wrench.png",
+    "categoryKey": "objects",
+    "suggestions": [
+      "wrench",
+      "tools",
+      "diy",
+      "ikea",
+      "fix",
+      "maintainer"
+    ]
+  }
+]

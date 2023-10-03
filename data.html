@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans",
+        Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+    }
+
+    table {
+      border-collapse: collapse;
+    }
+
+    td {
+      border: 1px solid;
+    }
+
+    img {
+      width: 20px;
+      height: 20px;
+    }
+
+    nav {
+      display: flex;
+      margin: 30px 0;
+    }
+
+    nav a {
+      text-decoration: none;
+      color: inherit;
+      cursor: pointer;
+      margin-right: 10px;
+      display: block;
+      padding: 5px 10px;
+      border-radius: 4px;
+      background-color: #efefef;
+    }
+
+    nav a.active {
+      background-color: #55e8c9;
+    }
+  </style>
+</head>
+
+<body>
+  <nav id="nav"></nav>
+  <table class="container">
+    <tbody id="target"></tbody>
+  </table>
+  <script src="./src/data.js"></script>
+</body>

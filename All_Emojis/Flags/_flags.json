@@ -1,0 +1,3546 @@
+[
+  {
+    "key": "flag_afghanistan",
+    "path": "Flags/Flag Afghanistan.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_afghanistan",
+      "af",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "afghanistan"
+    ]
+  },
+  {
+    "key": "flag_aland_islands",
+    "path": "Flags/Flag Aland Islands.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_aland_islands",
+      "Åland",
+      "islands",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "aland_islands"
+    ]
+  },
+  {
+    "key": "flag_albania",
+    "path": "Flags/Flag Albania.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_albania",
+      "al",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "albania"
+    ]
+  },
+  {
+    "key": "flag_algeria",
+    "path": "Flags/Flag Algeria.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_algeria",
+      "dz",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "algeria"
+    ]
+  },
+  {
+    "key": "flag_american_samoa",
+    "path": "Flags/Flag American Samoa.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_american_samoa",
+      "american",
+      "ws",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "american_samoa"
+    ]
+  },
+  {
+    "key": "flag_andorra",
+    "path": "Flags/Flag Andorra.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_andorra",
+      "ad",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "andorra"
+    ]
+  },
+  {
+    "key": "flag_angola",
+    "path": "Flags/Flag Angola.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_angola",
+      "ao",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "angola"
+    ]
+  },
+  {
+    "key": "flag_anguilla",
+    "path": "Flags/Flag Anguilla.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_anguilla",
+      "ai",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "anguilla"
+    ]
+  },
+  {
+    "key": "flag_antarctica",
+    "path": "Flags/Flag Antarctica.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_antarctica",
+      "aq",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "antarctica"
+    ]
+  },
+  {
+    "key": "flag_antigua_barbuda",
+    "path": "Flags/Flag Antigua Barbuda.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_antigua_barbuda",
+      "antigua",
+      "barbuda",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "antigua_barbuda"
+    ]
+  },
+  {
+    "key": "flag_argentina",
+    "path": "Flags/Flag Argentina.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_argentina",
+      "ar",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "argentina"
+    ]
+  },
+  {
+    "key": "flag_armenia",
+    "path": "Flags/Flag Armenia.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_armenia",
+      "am",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "armenia"
+    ]
+  },
+  {
+    "key": "flag_aruba",
+    "path": "Flags/Flag Aruba.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_aruba",
+      "aw",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "aruba"
+    ]
+  },
+  {
+    "key": "flag_ascension_island",
+    "path": "Flags/Flag Ascension Island.png",
+    "categoryKey": "flags",
+    "suggestions": ["flag_ascension_island", "flag", "ascension island"]
+  },
+  {
+    "key": "flag_australia",
+    "path": "Flags/Flag Australia.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_australia",
+      "au",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "australia"
+    ]
+  },
+  {
+    "key": "flag_austria",
+    "path": "Flags/Flag Austria.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_austria",
+      "at",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "austria"
+    ]
+  },
+  {
+    "key": "flag_azerbaijan",
+    "path": "Flags/Flag Azerbaijan.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_azerbaijan",
+      "az",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "azerbaijan"
+    ]
+  },
+  {
+    "key": "flag_bahamas",
+    "path": "Flags/Flag Bahamas.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_bahamas",
+      "bs",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "bahamas"
+    ]
+  },
+  {
+    "key": "flag_bahrain",
+    "path": "Flags/Flag Bahrain.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_bahrain",
+      "bh",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "bahrain"
+    ]
+  },
+  {
+    "key": "flag_bangladesh",
+    "path": "Flags/Flag Bangladesh.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_bangladesh",
+      "bd",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "bangladesh"
+    ]
+  },
+  {
+    "key": "flag_barbados",
+    "path": "Flags/Flag Barbados.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_barbados",
+      "bb",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "barbados"
+    ]
+  },
+  {
+    "key": "flag_belarus",
+    "path": "Flags/Flag Belarus.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_belarus",
+      "by",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "belarus"
+    ]
+  },
+  {
+    "key": "flag_belgium",
+    "path": "Flags/Flag Belgium.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_belgium",
+      "be",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "belgium"
+    ]
+  },
+  {
+    "key": "flag_belize",
+    "path": "Flags/Flag Belize.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_belize",
+      "bz",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "belize"
+    ]
+  },
+  {
+    "key": "flag_benin",
+    "path": "Flags/Flag Benin.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_benin",
+      "bj",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "benin"
+    ]
+  },
+  {
+    "key": "flag_bermuda",
+    "path": "Flags/Flag Bermuda.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_bermuda",
+      "bm",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "bermuda"
+    ]
+  },
+  {
+    "key": "flag_bhutan",
+    "path": "Flags/Flag Bhutan.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_bhutan",
+      "bt",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "bhutan"
+    ]
+  },
+  {
+    "key": "flag_bolivia",
+    "path": "Flags/Flag Bolivia.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_bolivia",
+      "bo",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "bolivia"
+    ]
+  },
+  {
+    "key": "flag_bosnia_herzegovina",
+    "path": "Flags/Flag Bosnia Herzegovina.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_bosnia_herzegovina",
+      "bosnia",
+      "herzegovina",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "bosnia_herzegovina"
+    ]
+  },
+  {
+    "key": "flag_botswana",
+    "path": "Flags/Flag Botswana.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_botswana",
+      "bw",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "botswana"
+    ]
+  },
+  {
+    "key": "flag_bouvet_island",
+    "path": "Flags/Flag Bouvet Island.png",
+    "categoryKey": "flags",
+    "suggestions": ["flag_bouvet_island", "norway"]
+  },
+  {
+    "key": "flag_brazil",
+    "path": "Flags/Flag Brazil.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_brazil",
+      "br",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "brazil"
+    ]
+  },
+  {
+    "key": "flag_british_indian_ocean_territory",
+    "path": "Flags/Flag British Indian Ocean Territory.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_british_indian_ocean_territory",
+      "british",
+      "indian",
+      "ocean",
+      "territory",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "british_indian_ocean_territory"
+    ]
+  },
+  {
+    "key": "flag_british_virgin_islands",
+    "path": "Flags/Flag British Virgin Islands.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_british_virgin_islands",
+      "british",
+      "virgin",
+      "islands",
+      "bvi",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "british_virgin_islands"
+    ]
+  },
+  {
+    "key": "flag_brunei",
+    "path": "Flags/Flag Brunei.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_brunei",
+      "bn",
+      "darussalam",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "brunei"
+    ]
+  },
+  {
+    "key": "flag_bulgaria",
+    "path": "Flags/Flag Bulgaria.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_bulgaria",
+      "bg",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "bulgaria"
+    ]
+  },
+  {
+    "key": "flag_burkina_faso",
+    "path": "Flags/Flag Burkina Faso.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_burkina_faso",
+      "burkina",
+      "faso",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "burkina_faso"
+    ]
+  },
+  {
+    "key": "flag_burundi",
+    "path": "Flags/Flag Burundi.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_burundi",
+      "bi",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "burundi"
+    ]
+  },
+  {
+    "key": "flag_cambodia",
+    "path": "Flags/Flag Cambodia.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_cambodia",
+      "kh",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "cambodia"
+    ]
+  },
+  {
+    "key": "flag_cameroon",
+    "path": "Flags/Flag Cameroon.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_cameroon",
+      "cm",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "cameroon"
+    ]
+  },
+  {
+    "key": "flag_canada",
+    "path": "Flags/Flag Canada.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_canada",
+      "ca",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "canada"
+    ]
+  },
+  {
+    "key": "flag_canary_islands",
+    "path": "Flags/Flag Canary Islands.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_canary_islands",
+      "canary",
+      "islands",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "canary_islands"
+    ]
+  },
+  {
+    "key": "flag_cape_verde",
+    "path": "Flags/Flag Cape Verde.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_cape_verde",
+      "cabo",
+      "verde",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "cape_verde"
+    ]
+  },
+  {
+    "key": "flag_caribbean_netherlands",
+    "path": "Flags/Flag Caribbean Netherlands.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_caribbean_netherlands",
+      "bonaire",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "caribbean_netherlands"
+    ]
+  },
+  {
+    "key": "flag_cayman_islands",
+    "path": "Flags/Flag Cayman Islands.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_cayman_islands",
+      "cayman",
+      "islands",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "cayman_islands"
+    ]
+  },
+  {
+    "key": "flag_central_african_republic",
+    "path": "Flags/Flag Central African Republic.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_central_african_republic",
+      "central",
+      "african",
+      "republic",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "central_african_republic"
+    ]
+  },
+  {
+    "key": "flag_ceuta_melilla",
+    "path": "Flags/Flag Ceuta Melilla.png",
+    "categoryKey": "flags",
+    "suggestions": ["flag_ceuta_melilla", "flag", "ceuta melilla"]
+  },
+  {
+    "key": "flag_chad",
+    "path": "Flags/Flag Chad.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_chad",
+      "td",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "chad"
+    ]
+  },
+  {
+    "key": "flag_chile",
+    "path": "Flags/Flag Chile.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_chile",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "chile"
+    ]
+  },
+  {
+    "key": "flag_china",
+    "path": "Flags/Flag China.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_china",
+      "china",
+      "chinese",
+      "prc",
+      "flag",
+      "country",
+      "nation",
+      "banner"
+    ]
+  },
+  {
+    "key": "flag_christmas_island",
+    "path": "Flags/Flag Christmas Island.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_christmas_island",
+      "christmas",
+      "island",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "christmas_island"
+    ]
+  },
+  {
+    "key": "flag_clipperton_island",
+    "path": "Flags/Flag Clipperton Island.png",
+    "categoryKey": "flags",
+    "suggestions": ["flag_clipperton_island", "flag", "clipperton island"]
+  },
+  {
+    "key": "flag_cocos_keeling_islands",
+    "path": "Flags/Flag Cocos Keeling Islands.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_cocos_keeling_islands",
+      "cocos",
+      "keeling",
+      "islands",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "cocos_islands"
+    ]
+  },
+  {
+    "key": "flag_colombia",
+    "path": "Flags/Flag Colombia.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_colombia",
+      "co",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "colombia"
+    ]
+  },
+  {
+    "key": "flag_comoros",
+    "path": "Flags/Flag Comoros.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_comoros",
+      "km",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "comoros"
+    ]
+  },
+  {
+    "key": "flag_congo_brazzaville",
+    "path": "Flags/Flag Congo Brazzaville.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_congo_brazzaville",
+      "congo",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "congo_brazzaville"
+    ]
+  },
+  {
+    "key": "flag_congo_kinshasa",
+    "path": "Flags/Flag Congo Kinshasa.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_congo_kinshasa",
+      "congo",
+      "democratic",
+      "republic",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "congo_kinshasa"
+    ]
+  },
+  {
+    "key": "flag_cook_islands",
+    "path": "Flags/Flag Cook Islands.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_cook_islands",
+      "cook",
+      "islands",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "cook_islands"
+    ]
+  },
+  {
+    "key": "flag_costa_rica",
+    "path": "Flags/Flag Costa Rica.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_costa_rica",
+      "costa",
+      "rica",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "costa_rica"
+    ]
+  },
+  {
+    "key": "flag_cote_divoire",
+    "path": "Flags/Flag Cote Divoire.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_cote_divoire",
+      "ivory",
+      "coast",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "cote_d_ivoire"
+    ]
+  },
+  {
+    "key": "flag_croatia",
+    "path": "Flags/Flag Croatia.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_croatia",
+      "hr",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "croatia"
+    ]
+  },
+  {
+    "key": "flag_cuba",
+    "path": "Flags/Flag Cuba.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_cuba",
+      "cu",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "cuba"
+    ]
+  },
+  {
+    "key": "flag_curacao",
+    "path": "Flags/Flag Curacao.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_curacao",
+      "curaçao",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "curacao"
+    ]
+  },
+  {
+    "key": "flag_cyprus",
+    "path": "Flags/Flag Cyprus.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_cyprus",
+      "cy",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "cyprus"
+    ]
+  },
+  {
+    "key": "flag_czechia",
+    "path": "Flags/Flag Czechia.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_czechia",
+      "cz",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "czechia"
+    ]
+  },
+  {
+    "key": "flag_denmark",
+    "path": "Flags/Flag Denmark.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_denmark",
+      "dk",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "denmark"
+    ]
+  },
+  {
+    "key": "flag_djibouti",
+    "path": "Flags/Flag Djibouti.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_djibouti",
+      "dj",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "djibouti"
+    ]
+  },
+  {
+    "key": "flag_dominica",
+    "path": "Flags/Flag Dominica.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_dominica",
+      "dm",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "dominica"
+    ]
+  },
+  {
+    "key": "flag_dominican_republic",
+    "path": "Flags/Flag Dominican Republic.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_dominican_republic",
+      "dominican",
+      "republic",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "dominican_republic"
+    ]
+  },
+  {
+    "key": "flag_ecuador",
+    "path": "Flags/Flag Ecuador.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_ecuador",
+      "ec",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "ecuador"
+    ]
+  },
+  {
+    "key": "flag_egypt",
+    "path": "Flags/Flag Egypt.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_egypt",
+      "eg",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "egypt"
+    ]
+  },
+  {
+    "key": "flag_el_salvador",
+    "path": "Flags/Flag El Salvador.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_el_salvador",
+      "el",
+      "salvador",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "el_salvador"
+    ]
+  },
+  {
+    "key": "flag_england",
+    "path": "Flags/Flag England.png",
+    "categoryKey": "flags",
+    "suggestions": ["flag_england", "flag", "english"]
+  },
+  {
+    "key": "flag_equatorial_guinea",
+    "path": "Flags/Flag Equatorial Guinea.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_equatorial_guinea",
+      "equatorial",
+      "gn",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "equatorial_guinea"
+    ]
+  },
+  {
+    "key": "flag_eritrea",
+    "path": "Flags/Flag Eritrea.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_eritrea",
+      "er",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "eritrea"
+    ]
+  },
+  {
+    "key": "flag_estonia",
+    "path": "Flags/Flag Estonia.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_estonia",
+      "ee",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "estonia"
+    ]
+  },
+  {
+    "key": "flag_eswatini",
+    "path": "Flags/Flag Eswatini.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_eswatini",
+      "sz",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "eswatini"
+    ]
+  },
+  {
+    "key": "flag_ethiopia",
+    "path": "Flags/Flag Ethiopia.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_ethiopia",
+      "et",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "ethiopia"
+    ]
+  },
+  {
+    "key": "flag_european_union",
+    "path": "Flags/Flag European Union.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_european_union",
+      "european",
+      "union",
+      "flag",
+      "banner"
+    ]
+  },
+  {
+    "key": "flag_falkland_islands",
+    "path": "Flags/Flag Falkland Islands.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_falkland_islands",
+      "falkland",
+      "islands",
+      "malvinas",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "falkland_islands"
+    ]
+  },
+  {
+    "key": "flag_faroe_islands",
+    "path": "Flags/Flag Faroe Islands.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_faroe_islands",
+      "faroe",
+      "islands",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "faroe_islands"
+    ]
+  },
+  {
+    "key": "flag_fiji",
+    "path": "Flags/Flag Fiji.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_fiji",
+      "fj",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "fiji"
+    ]
+  },
+  {
+    "key": "flag_finland",
+    "path": "Flags/Flag Finland.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_finland",
+      "fi",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "finland"
+    ]
+  },
+  {
+    "key": "flag_french_guiana",
+    "path": "Flags/Flag French Guiana.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_french_guiana",
+      "french",
+      "guiana",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "french_guiana"
+    ]
+  },
+  {
+    "key": "flag_french_polynesia",
+    "path": "Flags/Flag French Polynesia.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_french_polynesia",
+      "french",
+      "polynesia",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "french_polynesia"
+    ]
+  },
+  {
+    "key": "flag_french_southern_territories",
+    "path": "Flags/Flag French Southern Territories.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_french_southern_territories",
+      "french",
+      "southern",
+      "territories",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "french_southern_territories"
+    ]
+  },
+  {
+    "key": "flag_gabon",
+    "path": "Flags/Flag Gabon.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_gabon",
+      "ga",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "gabon"
+    ]
+  },
+  {
+    "key": "flag_gambia",
+    "path": "Flags/Flag Gambia.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_gambia",
+      "gm",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "gambia"
+    ]
+  },
+  {
+    "key": "flag_georgia",
+    "path": "Flags/Flag Georgia.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_georgia",
+      "ge",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "georgia"
+    ]
+  },
+  {
+    "key": "flag_germany",
+    "path": "Flags/Flag Germany.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_germany",
+      "german",
+      "nation",
+      "flag",
+      "country",
+      "banner",
+      "germany"
+    ]
+  },
+  {
+    "key": "flag_ghana",
+    "path": "Flags/Flag Ghana.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_ghana",
+      "gh",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "ghana"
+    ]
+  },
+  {
+    "key": "flag_gibraltar",
+    "path": "Flags/Flag Gibraltar.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_gibraltar",
+      "gi",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "gibraltar"
+    ]
+  },
+  {
+    "key": "flag_greece",
+    "path": "Flags/Flag Greece.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_greece",
+      "gr",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "greece"
+    ]
+  },
+  {
+    "key": "flag_greenland",
+    "path": "Flags/Flag Greenland.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_greenland",
+      "gl",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "greenland"
+    ]
+  },
+  {
+    "key": "flag_grenada",
+    "path": "Flags/Flag Grenada.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_grenada",
+      "gd",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "grenada"
+    ]
+  },
+  {
+    "key": "flag_guadeloupe",
+    "path": "Flags/Flag Guadeloupe.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_guadeloupe",
+      "gp",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "guadeloupe"
+    ]
+  },
+  {
+    "key": "flag_guam",
+    "path": "Flags/Flag Guam.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_guam",
+      "gu",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "guam"
+    ]
+  },
+  {
+    "key": "flag_guatemala",
+    "path": "Flags/Flag Guatemala.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_guatemala",
+      "gt",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "guatemala"
+    ]
+  },
+  {
+    "key": "flag_guernsey",
+    "path": "Flags/Flag Guernsey.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_guernsey",
+      "gg",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "guernsey"
+    ]
+  },
+  {
+    "key": "flag_guinea_bissau",
+    "path": "Flags/Flag Guinea Bissau.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_guinea_bissau",
+      "gw",
+      "bissau",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "guinea_bissau"
+    ]
+  },
+  {
+    "key": "flag_guinea",
+    "path": "Flags/Flag Guinea.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_guinea",
+      "gn",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "guinea"
+    ]
+  },
+  {
+    "key": "flag_guyana",
+    "path": "Flags/Flag Guyana.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_guyana",
+      "gy",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "guyana"
+    ]
+  },
+  {
+    "key": "flag_haiti",
+    "path": "Flags/Flag Haiti.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_haiti",
+      "ht",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "haiti"
+    ]
+  },
+  {
+    "key": "flag_honduras",
+    "path": "Flags/Flag Honduras.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_honduras",
+      "hn",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "honduras"
+    ]
+  },
+  {
+    "key": "flag_hong_kong_sar_china",
+    "path": "Flags/Flag Hong Kong Sar China.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_hong_kong_sar_china",
+      "hong",
+      "kong",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "hong_kong_sar_china"
+    ]
+  },
+  {
+    "key": "flag_hungary",
+    "path": "Flags/Flag Hungary.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_hungary",
+      "hu",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "hungary"
+    ]
+  },
+  {
+    "key": "flag_iceland",
+    "path": "Flags/Flag Iceland.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_iceland",
+      "is",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "iceland"
+    ]
+  },
+  {
+    "key": "flag_india",
+    "path": "Flags/Flag India.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_india",
+      "in",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "india"
+    ]
+  },
+  {
+    "key": "flag_indonesia",
+    "path": "Flags/Flag Indonesia.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_indonesia",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "indonesia"
+    ]
+  },
+  {
+    "key": "flag_iran",
+    "path": "Flags/Flag Iran.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_iran",
+      "iran",
+      "islamic",
+      "republic",
+      "flag",
+      "nation",
+      "country",
+      "banner"
+    ]
+  },
+  {
+    "key": "flag_iraq",
+    "path": "Flags/Flag Iraq.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_iraq",
+      "iq",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "iraq"
+    ]
+  },
+  {
+    "key": "flag_ireland",
+    "path": "Flags/Flag Ireland.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_ireland",
+      "ie",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "ireland"
+    ]
+  },
+  {
+    "key": "flag_isle_of_man",
+    "path": "Flags/Flag Isle Of Man.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_isle_of_man",
+      "isle",
+      "man",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "isle_of_man"
+    ]
+  },
+  {
+    "key": "flag_israel",
+    "path": "Flags/Flag Israel.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_israel",
+      "il",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "israel"
+    ]
+  },
+  {
+    "key": "flag_italy",
+    "path": "Flags/Flag Italy.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_italy",
+      "italy",
+      "flag",
+      "nation",
+      "country",
+      "banner"
+    ]
+  },
+  {
+    "key": "flag_jamaica",
+    "path": "Flags/Flag Jamaica.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_jamaica",
+      "jm",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "jamaica"
+    ]
+  },
+  {
+    "key": "flag_japan",
+    "path": "Flags/Flag Japan.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_japan",
+      "japanese",
+      "nation",
+      "flag",
+      "country",
+      "banner",
+      "japan",
+      "jp",
+      "ja"
+    ]
+  },
+  {
+    "key": "flag_jersey",
+    "path": "Flags/Flag Jersey.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_jersey",
+      "je",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "jersey"
+    ]
+  },
+  {
+    "key": "flag_jordan",
+    "path": "Flags/Flag Jordan.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_jordan",
+      "jo",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "jordan"
+    ]
+  },
+  {
+    "key": "flag_kazakhstan",
+    "path": "Flags/Flag Kazakhstan.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_kazakhstan",
+      "kz",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "kazakhstan"
+    ]
+  },
+  {
+    "key": "flag_kenya",
+    "path": "Flags/Flag Kenya.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_kenya",
+      "ke",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "kenya"
+    ]
+  },
+  {
+    "key": "flag_kiribati",
+    "path": "Flags/Flag Kiribati.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_kiribati",
+      "ki",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "kiribati"
+    ]
+  },
+  {
+    "key": "flag_kosovo",
+    "path": "Flags/Flag Kosovo.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_kosovo",
+      "xk",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "kosovo"
+    ]
+  },
+  {
+    "key": "flag_kuwait",
+    "path": "Flags/Flag Kuwait.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_kuwait",
+      "kw",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "kuwait"
+    ]
+  },
+  {
+    "key": "flag_kyrgyzstan",
+    "path": "Flags/Flag Kyrgyzstan.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_kyrgyzstan",
+      "kg",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "kyrgyzstan"
+    ]
+  },
+  {
+    "key": "flag_laos",
+    "path": "Flags/Flag Laos.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_laos",
+      "lao",
+      "democratic",
+      "republic",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "laos"
+    ]
+  },
+  {
+    "key": "flag_latvia",
+    "path": "Flags/Flag Latvia.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_latvia",
+      "lv",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "latvia"
+    ]
+  },
+  {
+    "key": "flag_lebanon",
+    "path": "Flags/Flag Lebanon.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_lebanon",
+      "lb",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "lebanon"
+    ]
+  },
+  {
+    "key": "flag_lesotho",
+    "path": "Flags/Flag Lesotho.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_lesotho",
+      "ls",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "lesotho"
+    ]
+  },
+  {
+    "key": "flag_liberia",
+    "path": "Flags/Flag Liberia.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_liberia",
+      "lr",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "liberia"
+    ]
+  },
+  {
+    "key": "flag_libya",
+    "path": "Flags/Flag Libya.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_libya",
+      "ly",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "libya"
+    ]
+  },
+  {
+    "key": "flag_liechtenstein",
+    "path": "Flags/Flag Liechtenstein.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_liechtenstein",
+      "li",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "liechtenstein"
+    ]
+  },
+  {
+    "key": "flag_lithuania",
+    "path": "Flags/Flag Lithuania.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_lithuania",
+      "lt",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "lithuania"
+    ]
+  },
+  {
+    "key": "flag_luxembourg",
+    "path": "Flags/Flag Luxembourg.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_luxembourg",
+      "lu",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "luxembourg"
+    ]
+  },
+  {
+    "key": "flag_macao_sar_china",
+    "path": "Flags/Flag Macao Sar China.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_macao_sar_china",
+      "macao",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "macao_sar_china"
+    ]
+  },
+  {
+    "key": "flag_madagascar",
+    "path": "Flags/Flag Madagascar.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_madagascar",
+      "mg",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "madagascar"
+    ]
+  },
+  {
+    "key": "flag_malawi",
+    "path": "Flags/Flag Malawi.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_malawi",
+      "mw",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "malawi"
+    ]
+  },
+  {
+    "key": "flag_malaysia",
+    "path": "Flags/Flag Malaysia.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_malaysia",
+      "my",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "malaysia"
+    ]
+  },
+  {
+    "key": "flag_maldives",
+    "path": "Flags/Flag Maldives.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_maldives",
+      "mv",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "maldives"
+    ]
+  },
+  {
+    "key": "flag_mali",
+    "path": "Flags/Flag Mali.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_mali",
+      "ml",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "mali"
+    ]
+  },
+  {
+    "key": "flag_malta",
+    "path": "Flags/Flag Malta.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_malta",
+      "mt",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "malta"
+    ]
+  },
+  {
+    "key": "flag_marshall_islands",
+    "path": "Flags/Flag Marshall Islands.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_marshall_islands",
+      "marshall",
+      "islands",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "marshall_islands"
+    ]
+  },
+  {
+    "key": "flag_martinique",
+    "path": "Flags/Flag Martinique.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_martinique",
+      "mq",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "martinique"
+    ]
+  },
+  {
+    "key": "flag_mauritania",
+    "path": "Flags/Flag Mauritania.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_mauritania",
+      "mr",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "mauritania"
+    ]
+  },
+  {
+    "key": "flag_mauritius",
+    "path": "Flags/Flag Mauritius.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_mauritius",
+      "mu",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "mauritius"
+    ]
+  },
+  {
+    "key": "flag_mayotte",
+    "path": "Flags/Flag Mayotte.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_mayotte",
+      "yt",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "mayotte"
+    ]
+  },
+  {
+    "key": "flag_mexico",
+    "path": "Flags/Flag Mexico.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_mexico",
+      "mx",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "mexico"
+    ]
+  },
+  {
+    "key": "flag_micronesia",
+    "path": "Flags/Flag Micronesia.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_micronesia",
+      "micronesia",
+      "federated",
+      "states",
+      "flag",
+      "nation",
+      "country",
+      "banner"
+    ]
+  },
+  {
+    "key": "flag_moldova",
+    "path": "Flags/Flag Moldova.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_moldova",
+      "moldova",
+      "republic",
+      "flag",
+      "nation",
+      "country",
+      "banner"
+    ]
+  },
+  {
+    "key": "flag_monaco",
+    "path": "Flags/Flag Monaco.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_monaco",
+      "mc",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "monaco"
+    ]
+  },
+  {
+    "key": "flag_mongolia",
+    "path": "Flags/Flag Mongolia.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_mongolia",
+      "mn",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "mongolia"
+    ]
+  },
+  {
+    "key": "flag_montenegro",
+    "path": "Flags/Flag Montenegro.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_montenegro",
+      "me",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "montenegro"
+    ]
+  },
+  {
+    "key": "flag_montserrat",
+    "path": "Flags/Flag Montserrat.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_montserrat",
+      "ms",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "montserrat"
+    ]
+  },
+  {
+    "key": "flag_morocco",
+    "path": "Flags/Flag Morocco.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_morocco",
+      "ma",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "morocco"
+    ]
+  },
+  {
+    "key": "flag_mozambique",
+    "path": "Flags/Flag Mozambique.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_mozambique",
+      "mz",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "mozambique"
+    ]
+  },
+  {
+    "key": "flag_myanmar_burma",
+    "path": "Flags/Flag Myanmar Burma.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_myanmar_burma",
+      "mm",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "myanmar",
+      "burma"
+    ]
+  },
+  {
+    "key": "flag_namibia",
+    "path": "Flags/Flag Namibia.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_namibia",
+      "na",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "namibia"
+    ]
+  },
+  {
+    "key": "flag_nauru",
+    "path": "Flags/Flag Nauru.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_nauru",
+      "nr",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "nauru"
+    ]
+  },
+  {
+    "key": "flag_nepal",
+    "path": "Flags/Flag Nepal.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_nepal",
+      "np",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "nepal"
+    ]
+  },
+  {
+    "key": "flag_netherlands",
+    "path": "Flags/Flag Netherlands.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_netherlands",
+      "nl",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "netherlands"
+    ]
+  },
+  {
+    "key": "flag_new_caledonia",
+    "path": "Flags/Flag New Caledonia.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_new_caledonia",
+      "new",
+      "caledonia",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "new_caledonia"
+    ]
+  },
+  {
+    "key": "flag_new_zealand",
+    "path": "Flags/Flag New Zealand.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_new_zealand",
+      "new",
+      "zealand",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "new_zealand"
+    ]
+  },
+  {
+    "key": "flag_nicaragua",
+    "path": "Flags/Flag Nicaragua.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_nicaragua",
+      "ni",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "nicaragua"
+    ]
+  },
+  {
+    "key": "flag_niger",
+    "path": "Flags/Flag Niger.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_niger",
+      "ne",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "niger"
+    ]
+  },
+  {
+    "key": "flag_nigeria",
+    "path": "Flags/Flag Nigeria.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_nigeria",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "nigeria"
+    ]
+  },
+  {
+    "key": "flag_niue",
+    "path": "Flags/Flag Niue.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_niue",
+      "nu",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "niue"
+    ]
+  },
+  {
+    "key": "flag_norfolk_island",
+    "path": "Flags/Flag Norfolk Island.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_norfolk_island",
+      "norfolk",
+      "island",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "norfolk_island"
+    ]
+  },
+  {
+    "key": "flag_north_korea",
+    "path": "Flags/Flag North Korea.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_north_korea",
+      "north",
+      "korea",
+      "nation",
+      "flag",
+      "country",
+      "banner",
+      "north_korea"
+    ]
+  },
+  {
+    "key": "flag_north_macedonia",
+    "path": "Flags/Flag North Macedonia.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_north_macedonia",
+      "macedonia",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "north_macedonia"
+    ]
+  },
+  {
+    "key": "flag_northern_mariana_islands",
+    "path": "Flags/Flag Northern Mariana Islands.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_northern_mariana_islands",
+      "northern",
+      "mariana",
+      "islands",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "northern_mariana_islands"
+    ]
+  },
+  {
+    "key": "flag_oman",
+    "path": "Flags/Flag Oman.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_oman",
+      "om_symbol",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "oman"
+    ]
+  },
+  {
+    "key": "flag_pakistan",
+    "path": "Flags/Flag Pakistan.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_pakistan",
+      "pk",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "pakistan"
+    ]
+  },
+  {
+    "key": "flag_palau",
+    "path": "Flags/Flag Palau.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_palau",
+      "pw",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "palau"
+    ]
+  },
+  {
+    "key": "flag_palestinian_territories",
+    "path": "Flags/Flag Palestinian Territories.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_palestinian_territories",
+      "palestine",
+      "palestinian",
+      "territories",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "palestinian_territories"
+    ]
+  },
+  {
+    "key": "flag_panama",
+    "path": "Flags/Flag Panama.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_panama",
+      "pa",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "panama"
+    ]
+  },
+  {
+    "key": "flag_papua_new_guinea",
+    "path": "Flags/Flag Papua New Guinea.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_papua_new_guinea",
+      "papua",
+      "new",
+      "guinea",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "papua_new_guinea"
+    ]
+  },
+  {
+    "key": "flag_paraguay",
+    "path": "Flags/Flag Paraguay.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_paraguay",
+      "py",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "paraguay"
+    ]
+  },
+  {
+    "key": "flag_peru",
+    "path": "Flags/Flag Peru.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_peru",
+      "pe",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "peru"
+    ]
+  },
+  {
+    "key": "flag_philippines",
+    "path": "Flags/Flag Philippines.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_philippines",
+      "ph",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "philippines"
+    ]
+  },
+  {
+    "key": "flag_pitcairn_islands",
+    "path": "Flags/Flag Pitcairn Islands.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_pitcairn_islands",
+      "pitcairn",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "pitcairn_islands"
+    ]
+  },
+  {
+    "key": "flag_poland",
+    "path": "Flags/Flag Poland.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_poland",
+      "pl",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "poland"
+    ]
+  },
+  {
+    "key": "flag_portugal",
+    "path": "Flags/Flag Portugal.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_portugal",
+      "pt",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "portugal"
+    ]
+  },
+  {
+    "key": "flag_puerto_rico",
+    "path": "Flags/Flag Puerto Rico.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_puerto_rico",
+      "puerto",
+      "rico",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "puerto_rico"
+    ]
+  },
+  {
+    "key": "flag_qatar",
+    "path": "Flags/Flag Qatar.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_qatar",
+      "qa",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "qatar"
+    ]
+  },
+  {
+    "key": "flag_reunion",
+    "path": "Flags/Flag Reunion.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_reunion",
+      "réunion",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "reunion"
+    ]
+  },
+  {
+    "key": "flag_romania",
+    "path": "Flags/Flag Romania.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_romania",
+      "ro",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "romania"
+    ]
+  },
+  {
+    "key": "flag_russia",
+    "path": "Flags/Flag Russia.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_russia",
+      "russian",
+      "federation",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "russia"
+    ]
+  },
+  {
+    "key": "flag_rwanda",
+    "path": "Flags/Flag Rwanda.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_rwanda",
+      "rw",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "rwanda"
+    ]
+  },
+  {
+    "key": "flag_samoa",
+    "path": "Flags/Flag Samoa.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_samoa",
+      "ws",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "samoa"
+    ]
+  },
+  {
+    "key": "flag_san_marino",
+    "path": "Flags/Flag San Marino.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_san_marino",
+      "san",
+      "marino",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "san_marino"
+    ]
+  },
+  {
+    "key": "flag_sao_tome_principe",
+    "path": "Flags/Flag Sao Tome Principe.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_sao_tome_principe",
+      "sao",
+      "tome",
+      "principe",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "sao_tome_principe"
+    ]
+  },
+  {
+    "key": "flag_saudi_arabia",
+    "path": "Flags/Flag Saudi Arabia.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_saudi_arabia",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "saudi_arabia"
+    ]
+  },
+  {
+    "key": "flag_scotland",
+    "path": "Flags/Flag Scotland.png",
+    "categoryKey": "flags",
+    "suggestions": ["flag_scotland", "flag", "scottish"]
+  },
+  {
+    "key": "flag_senegal",
+    "path": "Flags/Flag Senegal.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_senegal",
+      "sn",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "senegal"
+    ]
+  },
+  {
+    "key": "flag_serbia",
+    "path": "Flags/Flag Serbia.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_serbia",
+      "rs",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "serbia"
+    ]
+  },
+  {
+    "key": "flag_seychelles",
+    "path": "Flags/Flag Seychelles.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_seychelles",
+      "sc",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "seychelles"
+    ]
+  },
+  {
+    "key": "flag_sierra_leone",
+    "path": "Flags/Flag Sierra Leone.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_sierra_leone",
+      "sierra",
+      "leone",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "sierra_leone"
+    ]
+  },
+  {
+    "key": "flag_singapore",
+    "path": "Flags/Flag Singapore.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_singapore",
+      "sg",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "singapore"
+    ]
+  },
+  {
+    "key": "flag_sint_maarten",
+    "path": "Flags/Flag Sint Maarten.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_sint_maarten",
+      "sint",
+      "maarten",
+      "dutch",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "sint_maarten"
+    ]
+  },
+  {
+    "key": "flag_slovakia",
+    "path": "Flags/Flag Slovakia.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_slovakia",
+      "sk",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "slovakia"
+    ]
+  },
+  {
+    "key": "flag_slovenia",
+    "path": "Flags/Flag Slovenia.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_slovenia",
+      "si",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "slovenia"
+    ]
+  },
+  {
+    "key": "flag_solomon_islands",
+    "path": "Flags/Flag Solomon Islands.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_solomon_islands",
+      "solomon",
+      "islands",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "solomon_islands"
+    ]
+  },
+  {
+    "key": "flag_somalia",
+    "path": "Flags/Flag Somalia.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_somalia",
+      "so",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "somalia"
+    ]
+  },
+  {
+    "key": "flag_south_africa",
+    "path": "Flags/Flag South Africa.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_south_africa",
+      "south",
+      "africa",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "south_africa"
+    ]
+  },
+  {
+    "key": "flag_south_georgia_south_sandwich_islands",
+    "path": "Flags/Flag South Georgia South Sandwich Islands.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_south_georgia_south_sandwich_islands",
+      "south",
+      "georgia",
+      "sandwich",
+      "islands",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "south_georgia_south_sandwich_islands"
+    ]
+  },
+  {
+    "key": "flag_south_korea",
+    "path": "Flags/Flag South Korea.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_south_korea",
+      "south",
+      "korea",
+      "nation",
+      "flag",
+      "country",
+      "banner",
+      "south_korea"
+    ]
+  },
+  {
+    "key": "flag_south_sudan",
+    "path": "Flags/Flag South Sudan.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_south_sudan",
+      "south",
+      "sd",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "south_sudan"
+    ]
+  },
+  {
+    "key": "flag_sri_lanka",
+    "path": "Flags/Flag Sri Lanka.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_sri_lanka",
+      "sri",
+      "lanka",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "sri_lanka"
+    ]
+  },
+  {
+    "key": "flag_st_barthelemy",
+    "path": "Flags/Flag St Barthelemy.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_st_barthelemy",
+      "saint",
+      "barthélemy",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "st_barthelemy"
+    ]
+  },
+  {
+    "key": "flag_st_kitts_nevis",
+    "path": "Flags/Flag St Kitts Nevis.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_st_kitts_nevis",
+      "saint",
+      "kitts",
+      "nevis",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "st_kitts_nevis"
+    ]
+  },
+  {
+    "key": "flag_st_lucia",
+    "path": "Flags/Flag St Lucia.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_st_lucia",
+      "saint",
+      "lucia",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "st_lucia"
+    ]
+  },
+  {
+    "key": "flag_st_pierre_miquelon",
+    "path": "Flags/Flag St Pierre Miquelon.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_st_pierre_miquelon",
+      "saint",
+      "pierre",
+      "miquelon",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "st_pierre_miquelon"
+    ]
+  },
+  {
+    "key": "flag_st_vincent_grenadines",
+    "path": "Flags/Flag St Vincent Grenadines.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_st_vincent_grenadines",
+      "saint",
+      "vincent",
+      "grenadines",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "st_vincent_grenadines"
+    ]
+  },
+  {
+    "key": "flag_sudan",
+    "path": "Flags/Flag Sudan.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_sudan",
+      "sd",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "sudan"
+    ]
+  },
+  {
+    "key": "flag_suriname",
+    "path": "Flags/Flag Suriname.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_suriname",
+      "sr",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "suriname"
+    ]
+  },
+  {
+    "key": "flag_sweden",
+    "path": "Flags/Flag Sweden.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_sweden",
+      "se",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "sweden"
+    ]
+  },
+  {
+    "key": "flag_switzerland",
+    "path": "Flags/Flag Switzerland.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_switzerland",
+      "ch",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "switzerland"
+    ]
+  },
+  {
+    "key": "flag_syria",
+    "path": "Flags/Flag Syria.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_syria",
+      "syrian",
+      "arab",
+      "republic",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "syria"
+    ]
+  },
+  {
+    "key": "flag_taiwan",
+    "path": "Flags/Flag Taiwan.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_taiwan",
+      "tw",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "taiwan"
+    ]
+  },
+  {
+    "key": "flag_tajikistan",
+    "path": "Flags/Flag Tajikistan.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_tajikistan",
+      "tj",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "tajikistan"
+    ]
+  },
+  {
+    "key": "flag_tanzania",
+    "path": "Flags/Flag Tanzania.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_tanzania",
+      "tanzania",
+      "united",
+      "republic",
+      "flag",
+      "nation",
+      "country",
+      "banner"
+    ]
+  },
+  {
+    "key": "flag_thailand",
+    "path": "Flags/Flag Thailand.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_thailand",
+      "th",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "thailand"
+    ]
+  },
+  {
+    "key": "flag_timor_leste",
+    "path": "Flags/Flag Timor Leste.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_timor_leste",
+      "timor",
+      "leste",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "timor_leste"
+    ]
+  },
+  {
+    "key": "flag_togo",
+    "path": "Flags/Flag Togo.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_togo",
+      "tg",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "togo"
+    ]
+  },
+  {
+    "key": "flag_tokelau",
+    "path": "Flags/Flag Tokelau.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_tokelau",
+      "tk",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "tokelau"
+    ]
+  },
+  {
+    "key": "flag_tonga",
+    "path": "Flags/Flag Tonga.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_tonga",
+      "to",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "tonga"
+    ]
+  },
+  {
+    "key": "flag_trinidad_tobago",
+    "path": "Flags/Flag Trinidad Tobago.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_trinidad_tobago",
+      "trinidad",
+      "tobago",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "trinidad_tobago"
+    ]
+  },
+  {
+    "key": "flag_tunisia",
+    "path": "Flags/Flag Tunisia.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_tunisia",
+      "tn",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "tunisia"
+    ]
+  },
+  {
+    "key": "flag_turkey",
+    "path": "Flags/Flag Turkey.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_turkey",
+      "turkey",
+      "flag",
+      "nation",
+      "country",
+      "banner"
+    ]
+  },
+  {
+    "key": "flag_turkmenistan",
+    "path": "Flags/Flag Turkmenistan.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_turkmenistan",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "turkmenistan"
+    ]
+  },
+  {
+    "key": "flag_turks_caicos_islands",
+    "path": "Flags/Flag Turks Caicos Islands.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_turks_caicos_islands",
+      "turks",
+      "caicos",
+      "islands",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "turks_caicos_islands"
+    ]
+  },
+  {
+    "key": "flag_tuvalu",
+    "path": "Flags/Flag Tuvalu.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_tuvalu",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "tuvalu"
+    ]
+  },
+  {
+    "key": "flag_uganda",
+    "path": "Flags/Flag Uganda.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_uganda",
+      "ug",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "uganda"
+    ]
+  },
+  {
+    "key": "flag_ukraine",
+    "path": "Flags/Flag Ukraine.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_ukraine",
+      "ua",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "ukraine"
+    ]
+  },
+  {
+    "key": "flag_united_arab_emirates",
+    "path": "Flags/Flag United Arab Emirates.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_united_arab_emirates",
+      "united",
+      "arab",
+      "emirates",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "united_arab_emirates"
+    ]
+  },
+  {
+    "key": "flag_united_kingdom",
+    "path": "Flags/Flag United Kingdom.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_united_kingdom",
+      "united",
+      "kingdom",
+      "great",
+      "britain",
+      "northern",
+      "ireland",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "british",
+      "UK",
+      "english",
+      "england",
+      "union jack",
+      "united_kingdom"
+    ]
+  },
+  {
+    "key": "flag_united_nations",
+    "path": "Flags/Flag United Nations.png",
+    "categoryKey": "flags",
+    "suggestions": ["flag_united_nations", "un", "flag", "banner"]
+  },
+  {
+    "key": "flag_uruguay",
+    "path": "Flags/Flag Uruguay.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_uruguay",
+      "uy",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "uruguay"
+    ]
+  },
+  {
+    "key": "flag_us_outlying_islands",
+    "path": "Flags/Flag Us Outlying Islands.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_us_outlying_islands",
+      "flag",
+      "nation",
+      "country",
+      "outlying islands"
+    ]
+  },
+  {
+    "key": "flag_us_virgin_islands",
+    "path": "Flags/Flag Us Virgin Islands.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_us_virgin_islands",
+      "virgin islands",
+      "us",
+      "flag",
+      "nation",
+      "country",
+      "banner"
+    ]
+  },
+  {
+    "key": "flag_uzbekistan",
+    "path": "Flags/Flag Uzbekistan.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_uzbekistan",
+      "uz",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "uzbekistan"
+    ]
+  },
+  {
+    "key": "flag_vanuatu",
+    "path": "Flags/Flag Vanuatu.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_vanuatu",
+      "vu",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "vanuatu"
+    ]
+  },
+  {
+    "key": "flag_vatican_city",
+    "path": "Flags/Flag Vatican City.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_vatican_city",
+      "vatican",
+      "city",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "vatican_city"
+    ]
+  },
+  {
+    "key": "flag_venezuela",
+    "path": "Flags/Flag Venezuela.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_venezuela",
+      "ve",
+      "bolivarian",
+      "republic",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "venezuela"
+    ]
+  },
+  {
+    "key": "flag_vietnam",
+    "path": "Flags/Flag Vietnam.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_vietnam",
+      "viet",
+      "nam",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "vietnam"
+    ]
+  },
+  {
+    "key": "flag_wales",
+    "path": "Flags/Flag Wales.png",
+    "categoryKey": "flags",
+    "suggestions": ["flag_wales", "flag", "welsh"]
+  },
+  {
+    "key": "flag_wallis_futuna",
+    "path": "Flags/Flag Wallis Futuna.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_wallis_futuna",
+      "wallis",
+      "futuna",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "wallis_futuna"
+    ]
+  },
+  {
+    "key": "flag_western_sahara",
+    "path": "Flags/Flag Western Sahara.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_western_sahara",
+      "western",
+      "sahara",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "western_sahara"
+    ]
+  },
+  {
+    "key": "flag_yemen",
+    "path": "Flags/Flag Yemen.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_yemen",
+      "ye",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "yemen"
+    ]
+  },
+  {
+    "key": "flag_zambia",
+    "path": "Flags/Flag Zambia.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_zambia",
+      "zm",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "zambia"
+    ]
+  },
+  {
+    "key": "flag_zimbabwe",
+    "path": "Flags/Flag Zimbabwe.png",
+    "categoryKey": "flags",
+    "suggestions": [
+      "flag_zimbabwe",
+      "zw",
+      "flag",
+      "nation",
+      "country",
+      "banner",
+      "zimbabwe"
+    ]
+  }
+]
