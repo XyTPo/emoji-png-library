@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <link rel="stylesheet" href="./src/swiper-bundle.min.css" />
+
+  <link rel="stylesheet" href="../css/main.css" />
+  <link rel="stylesheet" href="./emoji-library.css" />
+  <link rel="stylesheet" href="./Utilities.css" />
+
+  <script src="./src/swiper-bundle.min.js"></script>
+  <script src="../js/lib/JQuery/jquery.js"></script>
+
+  <script src="./emoji-library.js"></script>
+
+  <!-- <script type="text/javascript" src="../js/lib/CSInterface.js"></script> -->
+
+  <style>
+    body {
+      background-color: #efefef;
+    }
+
+    .data-link {
+      text-decoration: none;
+      color: inherit;
+      cursor: pointer;
+      margin-right: 10px;
+      display: block;
+      padding: 5px 10px;
+      border-radius: 4px;
+      background-color: #cfc7c7;
+      display: table;
+      margin-top: 30px;
+      color: black;
+    }
+
+    .data-link:hover {
+      background-color: #55e8c9;
+    }
+
+    .container {
+      background-image: url("./img/screenshot_hanibal.png");
+      background-position: 0 0;
+      background-repeat: no-repeat;
+      background-size: 363px auto;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="container">
+    <div class="lodder">
+      <img id="bgrLoader" src="./img/loader.svg" />
+    </div>
+
+    <hr class="line first-line" />
+
+    <p class="text emojis-library-title">Emojis Library</p>
+
+    <div id="emoji-library" class="emoji-library"></div>
+
+    <div class="version-div">
+      <p class="text" id="version-text">Version 2.0.6</p>
+    </div>
+
+    <!-- load the sript  afte the html loded-->
+    <script>
+      window.addEventListener("load", (event) => {
+        console.log("page is fully loaded");
+        document.querySelector(".lodder").classList.add("fade-out");
+      });
+      //Utilities();
+      addEmojiLibrary();
+    </script>
+  </div>
+
+  <a href="./data.html" class="data-link" target="_blank">To data source -></a>
+</body>

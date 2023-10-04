@@ -144,115 +144,17 @@ pre {
   border-radius: 4px;
   width: 500px;
 }
-.div-emojis {
-  height: 205px;
 
-  /* background-color: red; */
-}
-
-.container-emoji {
-  max-width: 326px;
-  background-color: #1e1e1e;
-
-  /* padding: 20px 25px 30px;
-    box-sizing: border-box; */
-
-  /* background-color: red; */
-}
-
-.swiper-slide {
-  padding: 0 5px;
-  font-size: 12px;
-  line-height: 18px;
-  flex-shrink: 0;
-  width: auto;
-  color: #ffffff;
-  cursor: pointer;
-  user-select: none;
-
-  display: flex;
-}
-.swiper-slide:hover {
-  color: #55e8c9;
-}
-.swiper-slide[data-current="1"] {
-  color: #55e8c9;
-}
-
-.swiper {
-  width: 100%;
-  margin-bottom: 20px;
-}
-
-.swiper-button-next,
-.swiper-button-prev {
-  outline: none;
-}
-.swiper-button-next.swiper-button-disabled,
-.swiper-button-prev.swiper-button-disabled {
-  display: none;
-}
-
-.swiper-button-next:after,
-.swiper-button-prev:after {
-  font-family: inherit;
-  font-size: 12px;
-  color: #ffffff;
-  line-height: normal; /* add this line */
-  width: 12px; /* add this line */
-  height: 12px; /* add this line */
-}
-.swiper-button-next:hover:after,
-.swiper-button-prev:hover:after {
-  color: #55e8c9;
-}
-.swiper-button-prev:after {
-  content: "<<";
-}
-.swiper-button-prev {
-  left: 0;
-  padding-right: 50px;
-  background: linear-gradient(
-    to right,
-    rgba(30, 30, 30, 1) 50%,
-    rgba(30, 30, 30, 0) 100%
-  );
-}
-.swiper-button-next:after {
-  content: ">>";
-}
-
-.swiper-button-next {
-  right: 0;
-  padding-left: 50px;
-  background: linear-gradient(
-    to right,
-    rgba(30, 30, 30, 0) 0%,
-    rgba(30, 30, 30, 1) 50%
-  );
-}
-.data-grid-item {
-  display: grid;
-  grid-template-columns: repeat(5, 1fr);
-  grid-gap: 11px 13px;
-  max-height: 115px;
-  max-height: 180px;
-  overflow-y: scroll;
-  /* overflow: auto; */
-  padding-right: 10px; /* Add this line */
-  /* margin-right: -10px; */
-  grid-auto-rows: min-content;
-}
 /* ================ scroll start =================================*/
 
 .div-suggested-emojis::-webkit-scrollbar,
-.data-grid-item::-webkit-scrollbar {
+.styled-scrollbar::-webkit-scrollbar {
   width: 5px;
   height: 30px;
 }
 
 .div-suggested-emojis::-webkit-scrollbar-track,
-.data-grid-item::-webkit-scrollbar-track {
+.styled-scrollbar::-webkit-scrollbar-track {
   position: absolute;
   width: 10px;
   height: 415px;
@@ -264,7 +166,7 @@ pre {
 }
 
 .div-suggested-emojis::-webkit-scrollbar-thumb,
-.data-grid-item::-webkit-scrollbar-thumb {
+.styled-scrollbar::-webkit-scrollbar-thumb {
   background-color: #888;
   width: 10px;
   border-radius: 5px;
@@ -272,29 +174,11 @@ pre {
 }
 
 .div-suggested-emojis::-webkit-scrollbar-thumb:hover,
-.data-grid-item::-webkit-scrollbar-thumb:hover {
+.styled-scrollbar::-webkit-scrollbar-thumb:hover {
   background-color: #777;
 }
 /* scroll end */
-.data-grid-item[data-current="0"] {
-  display: none;
-}
-.grid-item-box {
-  height: 48px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  border: 1px solid #d9d9d9;
-  border-radius: 12px;
-  cursor: pointer;
-}
-.grid-item-box:hover {
-  border: 1px solid #55e8c9;
-}
 
-.grid-item-box img {
-  height: 25px;
-}
 /* ============== suggsted emojis =========================== */
 
 .div-suggested-emojis {
@@ -341,41 +225,4 @@ pre {
 
 .grid-item-box-suggested img {
   height: 25px;
-}
-
-.emoji-search {
-  margin: 50px 0 10px;
-  position: relative;
-}
-
-.emoji-search-input {
-  width: 100%;
-  padding: 5px 50px 5px 10px;
-  box-sizing: border-box;
-  border: 1px solid #55e8c9;
-  background-color: white;
-  color: black;
-  border-radius: 4px;
-}
-
-.emoji-search-clear {
-  position: absolute;
-  height: 100%;
-  top: 0;
-  right: 0;
-  width: 40px;
-  cursor: pointer;
-}
-
-.emoji-search-results {
-  display: grid;
-  grid-template-columns: repeat(5, 1fr);
-  grid-gap: 11px 13px;
-  max-height: 115px;
-  max-height: 180px;
-  overflow-y: scroll;
-  /* overflow: auto; */
-  padding-right: 10px; /* Add this line */
-  /* margin-right: -10px; */
-  grid-auto-rows: min-content;
 }

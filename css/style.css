@@ -1,0 +1,245 @@
+/* change to the font inter that local here in the font folder: */
+@font-face {
+    font-family: "Inter";
+    src: url("./assets/fonts/Inter-Light.ttf") format("truetype");
+    font-weight: light;
+}
+@font-face {
+    font-family: "Inter";
+    src: url("./assets/fonts/Inter-Regular.ttf") format("truetype");
+    font-weight: normal;
+}
+@font-face {
+    font-family: "Inter";
+    src: url("./assets/fonts/Inter-Black.ttf") format("truetype");
+    font-weight: bold;
+}
+
+.text{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #FFFFFF;
+}
+
+body{
+    margin: 0px;
+    padding: 0px;
+    width: 300px;
+    height: 490px;
+    background: #1E1E1E;
+    overflow: hidden;
+}
+
+.main-div{
+    position: absolute;
+    width: 300px;
+    height: 490px;
+    padding: 5px 25px 12px 25px;
+    margin: 0px;
+    /* space between the items */
+    background: #1E1E1E;
+}
+.div-size label {
+    display: inline-block;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    padding: 0px;
+    
+  }
+
+.div-checkbox{
+    /* make it to be coloumn */
+    display: flex;
+    flex-direction: column; 
+    align-items: left;
+    justify-content: space-between;
+    margin-top: 30px;
+    padding: 0px;
+    width: 150px;
+    height: 102px;
+    background: #1E1E1E;
+}
+  /* .radio-label {
+    margin-left: 5px;
+  }
+  .radio {
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-right: 5px;
+  } */
+
+.checkbox-label {
+    display: inline-block;
+    padding: 0px;
+    border: 1px solid gray;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+.div-custom{
+    display: flex;
+    flex-direction: column;
+    align-items: right;
+    justify-content: space-between;
+    width: 178px;
+    height: 150px;
+    background: #25ce25;
+}
+input[type='radio']:after {
+    width: 10px;
+    height: 10px;
+    border-radius: 10px;
+    top: -2px;
+    left: -1px;
+    position: relative;
+    background-color: #1E1E1E;
+    content: '';
+    display: inline-block;
+    visibility: visible;
+    border: 2px solid white;
+    cursor: pointer;
+}
+input[type='radio']:checked:after {
+    width: 10px;
+    height: 10px;
+    border-radius: 10px;
+    top: -2px;
+    left: -1px;
+    position: relative;
+    background-color: #55E8C9;
+    content: '';
+    display: inline-block;
+    visibility: visible;
+    border: 2px solid #55E8C9;
+    cursor: pointer;
+}
+
+label{
+    display:flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+.radio{
+    margin-right: 10px;
+}
+.div-inner-color{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-end;
+    width: 178px;
+    height: 50px;
+    
+    background-color: #1E1E1E;
+}
+.box{
+    width: 50px;
+    height: 28px;
+    border-radius: 5px;
+    border-width: 0;
+    border: none;
+    outline: none;
+    margin-left: 10px;
+    background: #ffffff;
+  }
+#sel-vertical-drop{
+    width: 50px;
+    height: 28px;
+    border-radius: 5px;
+    outline: none;
+    border: 0px solid #ffffff;
+    color: #ffffff;
+    margin-left: 10px;
+    background: #494949;
+
+    cursor: pointer;
+
+}
+#comp-name-div{
+    width: 320px;
+    height: 70px; 
+    
+    background: #1E1E1E;
+}
+input[type="color"] {
+    width: 50px;
+    height: 28px;
+    border: none;
+    outline: none;
+    opacity: 100;
+    cursor: pointer;
+    }
+input[type="color"]:disabled {
+    opacity: 0.5; /* set the opacity to make the color picker appear grayed out */
+    cursor: not-allowed;
+    }
+        
+#comp-name-input{
+    position: absolute;
+    width: 285px;
+    height: 30px;
+    border-radius: 5px;
+    outline: none;
+    border: 1px solid #ffffff;
+    color: #ffffff;
+
+    padding-left: 10px;
+    background: #1E1E1E;
+}
+#comp-name-input:focus{
+    border: 1px solid #55E8C9;
+}    
+#button{
+    position: absolute;
+    width: 302px;
+    height: 72px;
+        
+    font-family: 'Inter';
+    font-weight: bold;
+    font-size: 23.6218px;
+    line-height: 29px;
+    text-transform: uppercase;
+
+    border: none;
+    border-radius: 5px;
+    background-color: #55E8C9;
+
+    margin-top: 20px ;
+
+    cursor: pointer;
+}
+
+#button:hover{
+    background-color: #55e8c825;
+    color: #55E8C9;
+    border: 2px solid #55E8C9;
+}
+
+.version-div {
+    position: fixed;
+    bottom: 0px;
+    right: 8px;
+}
+
+.version-div:hover {
+    cursor: default;
+    color: white
+}
+
+.version-div .text {
+    color: gray;
+    /* font-size: 10px; */
+}
+
+.version-div:hover .text {
+    color: rgba(255, 255, 255, 0.767);
+    /* font-size: 10px; */
+}
+
+
+/* #button:hover{
+    background-color: #46bea4;
+} */
