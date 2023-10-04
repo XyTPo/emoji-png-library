@@ -1,12 +1,12 @@
 {
   "categories": [
+    { "key": "symbols", "name": "Symbols" },
+    { "key": "objects", "name": "Objects" },
     { "key": "smileys-people", "name": "Smileys & People" },
     { "key": "animals-nature", "name": "Animals & Nature" },
     { "key": "food-drinks", "name": "Food & Drink" },
     { "key": "activity", "name": "Activity" },
     { "key": "travel-places", "name": "Travel & Places" },
-    { "key": "objects", "name": "Objects" },
-    { "key": "symbols", "name": "Symbols" },
     { "key": "flags", "name": "Flags" }
   ],
   "icons": [

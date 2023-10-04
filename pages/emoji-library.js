@@ -40,9 +40,11 @@ async function addEmojiLibrary() {
 
   categories.forEach(({ key: categoryKey, name }, categoryIndex) => {
     const slide = document.createElement("div");
+    const dataCurrent = categoryIndex === 0 ? 1 : 0;
+
     slide.classList.add("swiper-slide");
     slide.dataset.index = categoryIndex;
-    slide.dataset.current = categoryIndex === 0 ? 1 : 0;
+    slide.dataset.current = dataCurrent;
     slide.textContent = name;
     slidesNode.appendChild(slide);
 
@@ -50,10 +52,10 @@ async function addEmojiLibrary() {
 
     const gridItem = document.createElement("div");
     gridItem.classList.add("data-grid-item", "styled-scrollbar");
-    gridItem.dataset.current = categoryIndex === 0 ? 1 : 0;
+    gridItem.dataset.current = dataCurrent;
     gridItem.innerHTML = categoryIcons
       .map(({ path }) => {
-        return `<div class="grid-item-box"><img src="${path}" /></div>`;
+        return `<div class="grid-item-box"><img ${dataCurrent} src="${path}" /></div>`;
       })
       .join("");
     dataNode.appendChild(gridItem);
