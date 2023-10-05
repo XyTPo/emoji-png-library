@@ -1,148 +1,221 @@
 async function addEmojiLibrary() {
-  const emojiData = await getEmojisImgs();
+  const iconsDataObj = await getIconsData();
 
-  const { categories, icons } = emojiData;
+  if (!iconsDataObj) return;
 
-  const targetNode = document.querySelector("#emoji-library");
+  const { categories: iconCategoriesData, icons: iconsData } = iconsDataObj;
 
-  targetNode.insertAdjacentHTML(
-    "beforeend",
+  const CLASS_NAME_ACTIVE = "active";
+  const CLASS_NAME_HIDDEN = "hidden";
+
+  const parentNode = document.querySelector("#emoji-library");
+  const sharedDomElements = {
+    searchInput: null,
+    searchResults: null,
+    fullList: null,
+  };
+
+  const iconCategoryLabelElements = [];
+  const iconCategoryGridElements = [];
+
+  generateDOM();
+
+  parentNode.addEventListener("click", (e) => {
+    clickEventsHandler(e);
+  });
+
+  let searchDebounceTimeout = null;
+
+  sharedDomElements.searchInput.addEventListener("input", (e) => {
+    if (searchDebounceTimeout) window.clearTimeout(searchDebounceTimeout);
+    searchDebounceTimeout = window.setTimeout(
+      ((value) => {
+        return () => {
+          searchDebounceTimeout = null;
+          if (value.trim() === "") {
+            clearSearchResults(value);
+          } else {
+            showSearchResults(value);
+          }
+        };
+      })(e.target.value),
+      500
+    );
+  });
+
+  async function generateDOM() {
+    parentNode.insertAdjacentHTML(
+      "beforeend",
+      `
+      <div class="emoji-search">
+        <div class="emoji-search-block">
+          <input
+            type="text"
+            id="emoji-search-input"
+            class="emoji-search-input"
+          />
+        </div>
+        <div
+          id="emoji-search-results"
+          class="emoji-search-results styled-scrollbar"
+        ></div>
+      </div>
+      <div id="emoji-full-list" class="container-emoji">
+        <div class="swiper">
+          <div id="emoji-categories" class="swiper-wrapper"></div>
+          <div class="swiper-button swiper-button-prev"></div>
+          <div class="swiper-button swiper-button-next"></div>
+        </div>
+        <div id="emoji-grid" class="data-grid"></div>
+      </div>
     `
-    <div class="emoji-search">
-      <div class="emoji-search-block">
-        <input
-          type="text"
-          id="emoji-search-input"
-          class="emoji-search-input"
-        />
-      </div>
-      <div
-        id="emoji-search-results"
-        class="emoji-search-results styled-scrollbar"
-      ></div>
-    </div>
-    <div id="emoji-slider" class="container-emoji">
-      <div class="swiper">
-        <div class="swiper-wrapper"></div>
-        <div class="swiper-button-prev"></div>
-        <div class="swiper-button-next"></div>
-      </div>
-      <div class="data-grid"></div>
-    </div>
-  `
-  );
+    );
 
-  const emojiSliderNode = document.querySelector("#emoji-slider");
-  // Select the element with the class "swiper-wrapper" from the DOM
-  const slidesNode = emojiSliderNode.querySelector(".swiper-wrapper");
-  //data grid
-  const dataNode = emojiSliderNode.querySelector(".data-grid");
+    sharedDomElements.searchInput = parentNode.querySelector(
+      "#emoji-search-input"
+    );
+    sharedDomElements.searchResults = parentNode.querySelector(
+      "#emoji-search-results"
+    );
 
-  categories.forEach(({ key: categoryKey, name }, categoryIndex) => {
-    const slide = document.createElement("div");
-    const dataCurrent = categoryIndex === 0 ? 1 : 0;
+    sharedDomElements.fullList = parentNode.querySelector("#emoji-full-list");
 
-    slide.classList.add("swiper-slide");
-    slide.dataset.index = categoryIndex;
-    slide.dataset.current = dataCurrent;
-    slide.textContent = name;
-    slidesNode.appendChild(slide);
+    const emojiCategoriesNode = parentNode.querySelector("#emoji-categories");
+    const emojiGridNode = parentNode.querySelector("#emoji-grid");
 
-    const categoryIcons = icons.filter((icon) => icon.category === categoryKey);
+    iconCategoriesData.forEach(
+      ({ key: categoryKey, name: categoryName }, categoryIndex) => {
+        const iconCategoryLabel = document.createElement("div");
 
-    const gridItem = document.createElement("div");
-    gridItem.classList.add("data-grid-item", "styled-scrollbar");
-    gridItem.dataset.current = dataCurrent;
-    gridItem.innerHTML = categoryIcons
-      .map(({ path }) => {
-        return `<div class="grid-item-box"><img ${dataCurrent} src="${path}" /></div>`;
-      })
-      .join("");
-    dataNode.appendChild(gridItem);
-  });
+        iconCategoryLabel.classList.add("swiper-slide");
 
-  const swiper = new Swiper(".swiper", {
-    slidesPerView: "auto",
-    spaceBetween: 10,
-    navigation: {
-      nextEl: ".swiper-button-next",
-      prevEl: ".swiper-button-prev",
-    },
-    mousewheel: {
-      releaseOnEdges: true,
-      sensitivity: 4,
-    },
-  });
+        if (categoryIndex === 0) {
+          iconCategoryLabel.classList.add(CLASS_NAME_ACTIVE);
+        }
 
-  const allSlides = emojiSliderNode.querySelectorAll(".swiper-slide");
-  const allDataItems = emojiSliderNode.querySelectorAll(".data-grid-item");
+        iconCategoryLabel.dataset.category = categoryKey;
+        iconCategoryLabel.textContent = categoryName;
+        emojiCategoriesNode.appendChild(iconCategoryLabel);
 
-  targetNode.addEventListener("click", (e) => {
-    clickEventFunc(e);
-  });
-  function clickEventFunc(e) {
-    if (e.target.closest(".swiper-button-prev")) {
-      const categoryClickedNode = emojiSliderNode.querySelector(
-        ".swiper-slide[data-current='1']"
+        iconCategoryLabelElements.push(iconCategoryLabel);
+
+        const categoryIcons = iconsData.filter(
+          (icon) => icon.category === categoryKey
+        );
+
+        const gridItem = document.createElement("div");
+        gridItem.classList.add("data-grid-item", "styled-scrollbar");
+
+        if (categoryIndex === 0) {
+          gridItem.classList.add(CLASS_NAME_ACTIVE);
+        }
+
+        gridItem.dataset.category = categoryKey;
+        gridItem.innerHTML = categoryIcons
+          .map(({ path }) => {
+            if (categoryIndex === 0) {
+              return `<div class="grid-item-box"><img src="${path}" /></div>`;
+            }
+
+            return `<div class="grid-item-box"><img data-src="${path}" src="./img/loader.svg" /></div>`;
+          })
+          .join("");
+
+        emojiGridNode.appendChild(gridItem);
+
+        iconCategoryGridElements.push(gridItem);
+      }
+    );
+
+    new Swiper(".swiper", {
+      slidesPerView: "auto",
+      spaceBetween: 10,
+      navigation: {
+        nextEl: ".swiper-button-next",
+        prevEl: ".swiper-button-prev",
+      },
+      mousewheel: {
+        releaseOnEdges: true,
+        sensitivity: 4,
+      },
+    });
+  }
+
+  function handleCategoryChange(targetCategoryNode) {
+    iconCategoryLabelElements.forEach((categoryLabelElement) => {
+      categoryLabelElement.classList.remove(CLASS_NAME_ACTIVE);
+    });
+
+    targetCategoryNode.classList.add(CLASS_NAME_ACTIVE);
+
+    iconCategoryGridElements.forEach((categoryGridElement) => {
+      categoryGridElement.classList.remove(CLASS_NAME_ACTIVE);
+    });
+
+    const targetCategoryKey = targetCategoryNode.dataset.category;
+    const targetDataNode = iconCategoryGridElements.find(
+      (gridElement) => gridElement.dataset.category === targetCategoryKey
+    );
+
+    targetDataNode.classList.add(CLASS_NAME_ACTIVE);
+
+    targetDataNode.querySelectorAll("img").forEach((img) => {
+      const dataSrc = img.dataset.src;
+
+      if (dataSrc) {
+        img.src = dataSrc;
+        delete img.dataset.src;
+      }
+    });
+  }
+
+  function clickEventsHandler(e) {
+    if (e.target.closest(".swiper-button")) {
+      const arrowClicked = e.target.closest(".swiper-button");
+
+      const activeCategoryNode = iconCategoryLabelElements.find(
+        (categoryElement) =>
+          categoryElement.classList.contains(CLASS_NAME_ACTIVE)
       );
-      const theCurrentIndex = Number(categoryClickedNode.dataset.index) - 1;
 
-      if (theCurrentIndex < 0) return;
+      if (!activeCategoryNode) {
+        return;
+      }
 
-      handleCategoryClick(e, theCurrentIndex);
-    }
+      const targetCategoryNode = arrowClicked.classList.contains(
+        "swiper-button-prev"
+      )
+        ? activeCategoryNode.previousElementSibling
+        : activeCategoryNode.nextElementSibling;
 
-    if (e.target.closest(".swiper-button-next")) {
-      const categoryClickedNode = emojiSliderNode.querySelector(
-        ".swiper-slide[data-current='1']"
-      );
-      const theCurrentIndex = Number(categoryClickedNode.dataset.index) + 1;
+      if (!targetCategoryNode) {
+        return;
+      }
 
-      if (theCurrentIndex > allSlides.length - 1) return;
-
-      handleCategoryClick(e, theCurrentIndex);
+      handleCategoryChange(targetCategoryNode);
     }
 
     if (e.target.closest(".swiper-slide")) {
       const categoryClickedNode = e.target.closest(".swiper-slide");
-      const theCurrentIndex = categoryClickedNode.dataset.index;
 
-      handleCategoryClick(e, theCurrentIndex);
+      if (categoryClickedNode.classList.contains(CLASS_NAME_ACTIVE)) {
+        return;
+      }
+
+      handleCategoryChange(categoryClickedNode);
     }
     if (e.target.closest(".grid-item-box")) {
       return;
     }
-    function handleCategoryClick(e, currentIndex) {
-      const currentSlider = swiper.slides[currentIndex];
-
-      //reset all slides to 0
-      allSlides.forEach((slide) => {
-        slide.dataset.current = 0;
-      });
-      //set current slide to 1
-      currentSlider.dataset.current = 1;
-
-      //reset all data items to 0
-      allDataItems.forEach((dataItem) => {
-        dataItem.dataset.current = 0;
-      });
-      //set current data item to 1
-      allDataItems[currentIndex].dataset.current = 1;
-    }
   }
 
-  ////////////////////////////
-
-  const searchInput = document.querySelector("#emoji-search-input");
-  const searchResults = document.querySelector("#emoji-search-results");
-
-  const showSearchResults = (searchTerm = "") => {
+  function showSearchResults(searchTerm = "") {
     const cleanSearchTerm = searchTerm.replace(/[^A-Za-z0-9öäüßÖÄÜ\s]/g, "");
 
     var rx = new RegExp("^" + cleanSearchTerm, "g");
     var rx2 = new RegExp(cleanSearchTerm, "g");
 
-    const targetIcons = icons.filter((icon) => {
+    const targetIcons = iconsData.filter((icon) => {
       const suggestions = icon.suggestions;
 
       let found = false;
@@ -160,53 +233,35 @@ async function addEmojiLibrary() {
       return found;
     });
 
-    emojiSliderNode.classList.add("hidden");
+    sharedDomElements.fullList.classList.add(CLASS_NAME_HIDDEN);
 
     if (targetIcons.length === 0) {
-      searchResults.innerHTML =
+      sharedDomElements.searchResults.innerHTML =
         "<div style='grid-column-start: 1;grid-column-end: -1;color: white'>No results...</div>";
       return;
     }
 
-    searchResults.innerHTML = targetIcons
+    sharedDomElements.searchResults.innerHTML = targetIcons
       .map(({ path }) => {
         return `<div class="grid-item-box"><img src="${path}" /></div>`;
       })
       .join("");
-  };
-  const clearSearchResults = (value) => {
-    searchResults.innerHTML = "";
-    emojiSliderNode.classList.remove("hidden");
-  };
+  }
 
-  let searchDebounce = null;
-
-  searchInput.addEventListener("input", (e) => {
-    if (searchDebounce) window.clearTimeout(searchDebounce);
-    searchDebounce = window.setTimeout(
-      ((value) => {
-        return () => {
-          searchDebounce = null;
-          if (value.trim() === "") {
-            clearSearchResults(value);
-          } else {
-            showSearchResults(value);
-          }
-        };
-      })(e.target.value),
-      500
-    );
-  });
+  function clearSearchResults() {
+    sharedDomElements.searchResults.innerHTML = "";
+    sharedDomElements.fullList.classList.remove(CLASS_NAME_HIDDEN);
+  }
 }
 
-//web version
-function getEmojisImgs() {
+//Web version icons data
+function getIconsData() {
   const data = fetch("./src/emoji-library.json")
     .then((res) => res.json())
     .catch((err) => {
       console.log(err);
       console.log("can't find the emoji.json file");
-      return false;
+      return null;
     });
   return data;
 }

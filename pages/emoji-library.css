@@ -13,6 +13,7 @@
 .container-emoji {
   max-width: 326px;
   background-color: #1e1e1e;
+  padding-top: 10px;
 }
 
 .container-emoji.hidden {
@@ -34,7 +35,7 @@
 .swiper-slide:hover {
   color: #55e8c9;
 }
-.swiper-slide[data-current="1"] {
+.swiper-slide.active {
   color: #55e8c9;
 }
 
@@ -95,12 +96,12 @@
   display: grid;
   grid-template-columns: repeat(5, 1fr);
   grid-gap: 11px 13px;
-  max-height: 235px;
+  max-height: 115px;
   overflow-y: scroll;
   padding-right: 10px;
   grid-auto-rows: min-content;
 }
-.data-grid-item[data-current="0"] {
+.data-grid-item:not(.active) {
   display: none;
 }
 .grid-item-box {
@@ -152,8 +153,9 @@
   display: grid;
   grid-template-columns: repeat(5, 1fr);
   grid-gap: 11px 13px;
-  max-height: 240px;
+  max-height: 175px;
   overflow-y: scroll;
   padding-right: 10px;
   grid-auto-rows: min-content;
+  margin-top: -10px;
 }
