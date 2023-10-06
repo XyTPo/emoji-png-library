@@ -1,14 +1,14 @@
 const path = require("path");
 const fs = require("fs").promises;
 
-const smileysPeople = require("./All_Emojis/Smileys people/_smileys-people.json");
-const animalsNature = require("./All_Emojis/Animals Neture/_animals-nature.json");
-const foodDrinks = require("./All_Emojis/Food Drink/_food-drink.json");
-const activity = require("./All_Emojis/Activity/_activity.json");
-const travelPlaces = require("./All_Emojis/Travel Places/_travel-places.json");
-const objects = require("./All_Emojis/Objects/_objects.json");
-const symbols = require("./All_Emojis/Symbols/_symbols.json");
-const flags = require("./All_Emojis/Flags/_flags.json");
+const smileysPeople = require("./assets/All_Emojis/Smileys people/smileys-people.json");
+const animalsNature = require("./assets/All_Emojis/Animals Neture/animals-nature.json");
+const foodDrinks = require("./assets/All_Emojis/Food Drink/food-drink.json");
+const activity = require("./assets/All_Emojis/Activity/activity.json");
+const travelPlaces = require("./assets/All_Emojis/Travel Places/travel-places.json");
+const objects = require("./assets/All_Emojis/Objects/objects.json");
+const symbols = require("./assets/All_Emojis/Symbols/symbols.json");
+const flags = require("./assets/All_Emojis/Flags/flags.json");
 
 const allCategories = [
   ...smileysPeople,
@@ -26,11 +26,17 @@ const init = async () => {
     const iconsArr = [];
 
     allCategories.forEach((icon) => {
+      const suggestions = icon.suggestions || [];
+
+      const fixedSuggestions = suggestions.map((suggestion) =>
+        suggestion.replace("_", " ")
+      );
+
       iconsArr.push({
         key: icon.key,
         category: icon.categoryKey,
-        path: "./All_Emojis/" + icon.path,
-        suggestions: icon.suggestions || [],
+        path: "./assets/All_Emojis/" + icon.path,
+        suggestions: fixedSuggestions,
       });
     });
 

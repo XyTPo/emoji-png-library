@@ -260,6 +260,8 @@ function addEmojiLibrary() {
       return;
     }
 
+    sharedDomElements.searchResults.innerHTML = "";
+
     targetIcons.forEach((iconData) => {
       appendGridItem(sharedDomElements.searchResults, iconData);
     });
