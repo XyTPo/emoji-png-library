@@ -1,9 +1,7 @@
-async function addEmojiLibrary() {
-  const iconsDataObj = await getIconsData();
+function addEmojiLibrary() {
+  if (!emojiDataObj) return;
 
-  if (!iconsDataObj) return;
-
-  const { categories: iconCategoriesData, icons: iconsData } = iconsDataObj;
+  const { categories: iconCategoriesData, icons: iconsData } = emojiDataObj;
 
   const CLASS_NAME_ACTIVE = "active";
   const CLASS_NAME_HIDDEN = "hidden";
@@ -43,7 +41,30 @@ async function addEmojiLibrary() {
     );
   });
 
-  async function generateDOM() {
+  function appendGridItem(parentNode, iconData, isLazyLoad = false) {
+    const path = iconData?.path || "";
+
+    const gridItem = document.createElement("div");
+    gridItem.classList.add("grid-item-box");
+
+    const gridItemIcon = document.createElement("img");
+    if (isLazyLoad) {
+      gridItemIcon.dataset.src = path;
+      gridItemIcon.src = "./img/loader.svg";
+    } else {
+      gridItemIcon.src = path;
+    }
+
+    const gridItemDataInput = document.createElement("input");
+    gridItemDataInput.type = "hidden";
+    gridItemDataInput.value = path;
+
+    gridItem.append(gridItemIcon, gridItemDataInput);
+
+    parentNode.append(gridItem);
+  }
+
+  function generateDOM() {
     parentNode.insertAdjacentHTML(
       "beforeend",
       `
@@ -111,15 +132,10 @@ async function addEmojiLibrary() {
         }
 
         gridItem.dataset.category = categoryKey;
-        gridItem.innerHTML = categoryIcons
-          .map(({ path }) => {
-            if (categoryIndex === 0) {
-              return `<div class="grid-item-box"><img src="${path}" /></div>`;
-            }
 
-            return `<div class="grid-item-box"><img data-src="${path}" src="./img/loader.svg" /></div>`;
-          })
-          .join("");
+        categoryIcons.forEach((iconData) => {
+          appendGridItem(gridItem, iconData, categoryIndex !== 0);
+        });
 
         emojiGridNode.appendChild(gridItem);
 
@@ -205,7 +221,10 @@ async function addEmojiLibrary() {
       handleCategoryChange(categoryClickedNode);
     }
     if (e.target.closest(".grid-item-box")) {
-      return;
+      const dataInput = e.target
+        .closest(".grid-item-box")
+        .querySelector("input");
+      alert(dataInput.value);
     }
   }
 
@@ -241,27 +260,13 @@ async function addEmojiLibrary() {
       return;
     }
 
-    sharedDomElements.searchResults.innerHTML = targetIcons
-      .map(({ path }) => {
-        return `<div class="grid-item-box"><img src="${path}" /></div>`;
-      })
-      .join("");
+    targetIcons.forEach((iconData) => {
+      appendGridItem(sharedDomElements.searchResults, iconData);
+    });
   }
 
   function clearSearchResults() {
     sharedDomElements.searchResults.innerHTML = "";
     sharedDomElements.fullList.classList.remove(CLASS_NAME_HIDDEN);
   }
-}
-
-//Web version icons data
-function getIconsData() {
-  const data = fetch("./src/emoji-library.json")
-    .then((res) => res.json())
-    .catch((err) => {
-      console.log(err);
-      console.log("can't find the emoji.json file");
-      return null;
-    });
-  return data;
 }
