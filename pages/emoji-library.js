@@ -1,7 +1,7 @@
 function addEmojiLibrary() {
-  if (!emojiDataObj) return;
+  if (!emojiData) return;
 
-  const { categories: iconCategoriesData, icons: iconsData } = emojiDataObj;
+  const { categories: iconCategoriesData, icons: iconsData } = emojiData;
 
   const CLASS_NAME_ACTIVE = "active";
   const CLASS_NAME_HIDDEN = "hidden";
@@ -42,7 +42,7 @@ function addEmojiLibrary() {
   });
 
   function appendGridItem(parentNode, iconData, isLazyLoad = false) {
-    const path = iconData?.path || "";
+    const path = "/assets/All_Emojis" + iconData.path;
 
     const gridItem = document.createElement("div");
     gridItem.classList.add("grid-item-box");
@@ -264,6 +264,20 @@ function addEmojiLibrary() {
 
     targetIcons.forEach((iconData) => {
       appendGridItem(sharedDomElements.searchResults, iconData);
+
+      const { key } = iconData;
+
+      const skitToneIcons = iconsData.filter(
+        ({ key: searchKey }) =>
+          searchKey === key + "_light_skin_tone" ||
+          searchKey === key + "_dark_skin_tone"
+      );
+
+      if (skitToneIcons.length !== 0) {
+        skitToneIcons.forEach((skitToneIconData) => {
+          appendGridItem(sharedDomElements.searchResults, skitToneIconData);
+        });
+      }
     });
   }
 
