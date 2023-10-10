@@ -1,0 +1,123 @@
+.watch-main {
+  color: #fff;
+  font-family: "Inter";
+  padding: 15px 0;
+}
+
+.main-title {
+  font-size: 12px;
+  margin-bottom: 25px;
+}
+
+.link-group {
+  margin-bottom: 55px;
+}
+
+.link-group-block {
+  position: relative;
+}
+
+.link-group-block.loading:after {
+  content: "";
+  display: block;
+  position: absolute;
+  top: 15px;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+  width: 100px;
+  height: 100px;
+  background-image: url("./img/loader-transparent.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.link-group-title {
+  font-size: 12.5px;
+  font-weight: 500;
+  margin-bottom: 15px;
+}
+
+.link-group-item {
+  font-size: 12.5px;
+  font-weight: 500;
+  margin-bottom: 15px;
+  transition: 0.3s;
+}
+
+.link-group-block.loading .link-group-item {
+  opacity: 0.2;
+  pointer-events: none;
+}
+
+.link-group-item-label {
+  font-size: 12px;
+  line-height: 18px;
+  padding-left: 7px;
+}
+
+.link-group-item-label span {
+  opacity: 0.7;
+}
+
+.link-group-item-input {
+  border-radius: 4px;
+  background: #313131;
+  padding: 13px 55px 13px 15px;
+  position: relative;
+  overflow: hidden;
+  min-height: 16px;
+}
+
+.link-group-item-input::after {
+  content: "";
+  display: block;
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  width: 105px;
+  background: linear-gradient(
+    90deg,
+    rgba(49, 49, 49, 0) 0%,
+    rgba(49, 49, 49, 1) 45%,
+    rgba(49, 49, 49, 1) 100%
+  );
+  z-index: 1;
+}
+
+.link-group-item-input a {
+  color: #06f;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 15px;
+  text-decoration-line: underline;
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+.link-group-item-input a[href=""] {
+  cursor: default;
+  text-decoration: none;
+  color: #6b6b6b;
+}
+
+.link-group-item-copy {
+  position: absolute;
+  width: 18px;
+  height: 18px;
+  right: 25px;
+  top: 0;
+  bottom: 0;
+  margin: auto;
+  cursor: pointer;
+  z-index: 2;
+}
+
+.link-group-item-copy img {
+  width: 100%;
+  height: 100%;
+  display: block;
+}

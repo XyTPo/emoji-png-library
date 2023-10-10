@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <link rel="stylesheet" href="../css/main.css" />
+  <link rel="stylesheet" href="./watch.css" />
+  <script src="../js/lib/JQuery/jquery.js"></script>
+
+  <script src="./watch.js"></script>
+
+  <!-- <script type="text/javascript" src="../js/lib/CSInterface.js"></script> -->
+
+  <style>
+    html {
+      background-color: #ffffff;
+    }
+
+    .data-link {
+      text-decoration: none;
+      color: inherit;
+      cursor: pointer;
+      margin-right: 10px;
+      display: block;
+      padding: 5px 10px;
+      border-radius: 4px;
+      background-color: #cfc7c7;
+      display: table;
+      margin-top: 30px;
+      color: black;
+    }
+
+    .data-link:hover {
+      background-color: #55e8c9;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="container">
+    <img style="display: none" id="bgrLoader" src="./img/loader.svg" />
+
+    <div class="nav watch-nav">
+      <a href="name.html" class="text tab">Create</a>
+      <a href="style.html" class="text tab">Utilities</a>
+      <a href="Watch.html" class="text tab active">Watch</a>
+    </div>
+
+    <div class="watch-main">
+      <div class="main-title">Watch</div>
+
+      <div class="link-group">
+        <div class="link-group-title">Google Drive Backup</div>
+        <div class="link-group-block loading" id="video-links">
+          <div class="link-group-item" id="16:9">
+            <div class="link-group-item-label">
+              16:9 <span class="date-info"></span>
+            </div>
+            <div class="link-group-item-input">
+              <a href="" class="link-group-item-value"> </a>
+              <div class="link-group-item-copy">
+                <img src="./img/copy.svg" />
+              </div>
+            </div>
+          </div>
+          <div class="link-group-item" id="16:9tt">
+            <div class="link-group-item-label">
+              16:9 TT Layout <span class="date-info"></span>
+            </div>
+            <div class="link-group-item-input">
+              <a href="" class="link-group-item-value"> </a>
+              <div class="link-group-item-copy">
+                <img src="./img/copy.svg" />
+              </div>
+            </div>
+          </div>
+          <div class="link-group-item" id="1:1">
+            <div class="link-group-item-label">
+              1:1 <span class="date-info"></span>
+            </div>
+            <div class="link-group-item-input">
+              <a href="" class="link-group-item-value"> </a>
+              <div class="link-group-item-copy">
+                <img src="./img/copy.svg" />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="link-group" id="video-links">
+        <div class="link-group-title">Jira Backup</div>
+        <div class="link-group-block loading" id="video-links">
+          <div class="link-group-item" id="jira">
+            <div class="link-group-item-label">
+              Jira Task <span class="date-info"></span>
+            </div>
+            <div class="link-group-item-input">
+              <a href="" class="link-group-item-value"> </a>
+              <div class="link-group-item-copy">
+                <img src="./img/copy.svg" />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <a href="#" class="data-link get-data-success" target="_blank"
+    >Get Data Success</a
+  >
+  <a href="#" class="data-link get-data-fail" target="_blank">Get Data Fail</a>
+
+  <script>
+    window.pageData = {
+      videos: {
+        "16:9": {
+          link: "https://www.shutterstock.com/search/vertical-xxxxxxx/",
+          time: "10:30",
+          date: "22.09.23",
+        },
+        "16:9tt": {
+          link: "https://www.shutterstock.com/search/vertical-xxxxxxx/",
+          time: "10:30",
+          date: "22.09.23",
+        },
+        "1:1": {
+          link: "https://www.shutterstock.com/search/vertical-xxxxxxx/",
+          time: "10:30",
+          date: "22.09.23",
+        },
+      },
+      jira: {
+        link: "https://www.shutterstock.com/search/vertical-xxxxxxx/",
+        time: "10:30",
+        date: "22.09.23",
+      },
+    };
+
+    watchUtils();
+
+    ////DEMO ONLY
+
+    function cleanDom() {
+      document.querySelectorAll(".link-group-block").forEach((element) => {
+        element.classList.add("loading");
+      });
+
+      document.querySelectorAll(".link-group-item").forEach((element) => {
+        const link = element.querySelector("a");
+        link.innerText = "";
+        link.href = "";
+
+        element.querySelector(".date-info").innerText = "";
+      });
+    }
+
+    document.querySelector(".get-data-fail").addEventListener("click", (e) => {
+      e.preventDefault();
+      window.pageData = {};
+
+      window.failDemoFetch = true;
+
+      cleanDom();
+
+      watchUtils();
+    });
+
+    document
+      .querySelector(".get-data-success")
+      .addEventListener("click", (e) => {
+        e.preventDefault();
+
+        window.failDemoFetch = false;
+
+        window.pageData = {};
+
+        cleanDom();
+        watchUtils();
+      });
+  </script>
+</body>
