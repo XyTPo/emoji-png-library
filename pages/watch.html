@@ -5,9 +5,11 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
+  <link rel="stylesheet" href="./src/toastr.min.css" />
   <link rel="stylesheet" href="../css/main.css" />
   <link rel="stylesheet" href="./watch.css" />
   <script src="../js/lib/JQuery/jquery.js"></script>
+  <script src="./src/toastr.min.js"></script>
 
   <script src="./watch.js"></script>
 
@@ -15,7 +17,7 @@
 
   <style>
     html {
-      background-color: #ffffff;
+      background: #1e1e1e;
     }
 
     .data-link {
@@ -48,7 +50,7 @@
       <a href="Watch.html" class="text tab active">Watch</a>
     </div>
 
-    <div class="watch-main">
+    <div id="watch-main" class="watch-main">
       <div class="main-title">Watch</div>
 
       <div class="link-group">
@@ -108,10 +110,14 @@
     </div>
   </div>
 
+  <!--  !DEMO ONLY!  -->
+
   <a href="#" class="data-link get-data-success" target="_blank"
     >Get Data Success</a
   >
   <a href="#" class="data-link get-data-fail" target="_blank">Get Data Fail</a>
+
+  <!--  !DEMO ONLY!  -->
 
   <script>
     window.pageData = {
@@ -141,21 +147,7 @@
 
     watchUtils();
 
-    ////DEMO ONLY
-
-    function cleanDom() {
-      document.querySelectorAll(".link-group-block").forEach((element) => {
-        element.classList.add("loading");
-      });
-
-      document.querySelectorAll(".link-group-item").forEach((element) => {
-        const link = element.querySelector("a");
-        link.innerText = "";
-        link.href = "";
-
-        element.querySelector(".date-info").innerText = "";
-      });
-    }
+    ////  ---------- !DEMO ONLY!  ---------- ///
 
     document.querySelector(".get-data-fail").addEventListener("click", (e) => {
       e.preventDefault();
@@ -163,9 +155,7 @@
 
       window.failDemoFetch = true;
 
-      cleanDom();
-
-      watchUtils();
+      watchUtils(true);
     });
 
     document
@@ -176,9 +166,9 @@
         window.failDemoFetch = false;
 
         window.pageData = {};
-
-        cleanDom();
-        watchUtils();
+        watchUtils(true);
       });
+
+    ////  ---------- !DEMO ONLY!  ---------- ///
   </script>
 </body>

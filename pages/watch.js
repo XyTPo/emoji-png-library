@@ -1,8 +1,96 @@
-function watchUtils() {
+function watchUtils(isReInitialized = false) {
   const pageData = window?.pageData;
+
+  //isReInitialized param is for demo only to clean DOM and not to add Event listeners twice
+  //parameter and all related conditions should be removed
+  if (isReInitialized) {
+    cleanDom();
+  }
 
   setVideoData();
   setJiraData();
+
+  toastr.options = {
+    closeButton: true,
+    newestOnTop: false,
+    progressBar: false,
+    positionClass: "toast-bottom-left",
+    preventDuplicates: false,
+    onclick: null,
+    showDuration: "300",
+    hideDuration: "1000",
+    timeOut: "4000",
+    extendedTimeOut: "1000",
+    showEasing: "swing",
+    hideEasing: "linear",
+    showMethod: "fadeIn",
+    hideMethod: "fadeOut",
+  };
+
+  if (!isReInitialized) {
+    document
+      .querySelector("#watch-main")
+      .addEventListener("click", clickHandlers);
+  }
+
+  function clickHandlers(e) {
+    if (e.target.closest(".link-group-item-copy")) {
+      e.preventDefault();
+
+      const clickedElement = e.target.closest(".link-group-item-copy");
+
+      const parentLinkItemId = clickedElement.closest(".link-group-item").id;
+
+      const hrefToCopy = clickedElement.previousElementSibling.href;
+
+      copyTextToClipboard(hrefToCopy);
+
+      toastr.success(
+        `${parentLinkItemId.toLocaleUpperCase()} link copied to clipboard`
+      );
+    }
+    if (e.target.closest("a")) {
+      e.preventDefault();
+
+      alert("Redirect to " + e.target.closest("a").href);
+    }
+  }
+
+  function copyTextToClipboard(text) {
+    var textArea = document.createElement("textarea");
+    textArea.value = text;
+
+    // Avoid scrolling to bottom
+    textArea.style.top = "0";
+    textArea.style.left = "0";
+    textArea.style.position = "fixed";
+
+    document.body.appendChild(textArea);
+    textArea.focus();
+    textArea.select();
+
+    try {
+      document.execCommand("copy");
+    } catch (err) {
+      console.error("Unable to copy", err);
+    }
+
+    document.body.removeChild(textArea);
+  }
+
+  function cleanDom() {
+    document.querySelectorAll(".link-group-block").forEach((element) => {
+      element.classList.add("loading");
+    });
+
+    document.querySelectorAll(".link-group-item").forEach((element) => {
+      const link = element.querySelector("a");
+      link.innerText = "";
+      link.href = "";
+
+      element.querySelector(".date-info").innerText = "";
+    });
+  }
 
   function setLinkInfo(targetNode, linkData = {}) {
     const dateNode = targetNode.querySelector(".date-info");
