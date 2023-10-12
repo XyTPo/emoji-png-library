@@ -4,6 +4,7 @@ function watchUtils(isReInitialized = false) {
   //isReInitialized param is for demo only to clean DOM and not to add Event listeners twice
   //parameter and all related conditions should be removed
   if (isReInitialized) {
+    //cleanDom() not needed on real page, it will not be reinitialized after load on real use cases
     cleanDom();
   }
 
@@ -28,6 +29,8 @@ function watchUtils(isReInitialized = false) {
   };
 
   if (!isReInitialized) {
+    //!isReInitialized condition should be removed, adding click event listeners should be unconditional
+
     document
       .querySelector("#watch-main")
       .addEventListener("click", clickHandlers);
@@ -78,20 +81,6 @@ function watchUtils(isReInitialized = false) {
     document.body.removeChild(textArea);
   }
 
-  function cleanDom() {
-    document.querySelectorAll(".link-group-block").forEach((element) => {
-      element.classList.add("loading");
-    });
-
-    document.querySelectorAll(".link-group-item").forEach((element) => {
-      const link = element.querySelector("a");
-      link.innerText = "";
-      link.href = "";
-
-      element.querySelector(".date-info").innerText = "";
-    });
-  }
-
   function setLinkInfo(targetNode, linkData = {}) {
     const dateNode = targetNode.querySelector(".date-info");
 
@@ -140,6 +129,20 @@ function watchUtils(isReInitialized = false) {
 
     jiraLinkItem.parentElement.classList.remove("loading");
   }
+}
+
+function cleanDom() {
+  document.querySelectorAll(".link-group-block").forEach((element) => {
+    element.classList.add("loading");
+  });
+
+  document.querySelectorAll(".link-group-item").forEach((element) => {
+    const link = element.querySelector("a");
+    link.innerText = "";
+    link.href = "";
+
+    element.querySelector(".date-info").innerText = "";
+  });
 }
 
 function getFakeVideoData() {

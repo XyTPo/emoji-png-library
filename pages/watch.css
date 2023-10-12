@@ -102,6 +102,7 @@
   cursor: default;
   text-decoration: none;
   color: #6b6b6b;
+  pointer-events: none;
 }
 
 .link-group-item-copy {
@@ -114,13 +115,15 @@
   margin: auto;
   cursor: pointer;
   z-index: 2;
+  color: #55e8c9;
 }
 
 .link-group-item-input a[href=""] ~ .link-group-item-copy {
-  display: none;
+  color: #6b6b6b;
+  pointer-events: none;
 }
 
-.link-group-item-copy img {
+.link-group-item-copy svg {
   width: 100%;
   height: 100%;
   display: block;
