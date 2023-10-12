@@ -55,6 +55,8 @@ function watchUtils(isReInitialized = false) {
     if (e.target.closest("a")) {
       e.preventDefault();
 
+      // Add function here to redirect user to URL
+
       alert("Redirect to " + e.target.closest("a").href);
     }
   }
@@ -97,6 +99,7 @@ function watchUtils(isReInitialized = false) {
     let videoData = pageData?.videos;
 
     if (!videoData) {
+      //If video data is missing on page load - async get data
       videoData = await getFakeVideoData();
     }
 
@@ -120,6 +123,7 @@ function watchUtils(isReInitialized = false) {
     let jiraData = pageData?.jira;
 
     if (!jiraData) {
+      //If Jira data is missing on page load - async get data
       jiraData = await getFakeJiraData();
     }
 
@@ -130,6 +134,8 @@ function watchUtils(isReInitialized = false) {
     jiraLinkItem.parentElement.classList.remove("loading");
   }
 }
+
+//DEMO-ONLY Functions //
 
 function cleanDom() {
   document.querySelectorAll(".link-group-block").forEach((element) => {
@@ -194,3 +200,5 @@ function getFakeJiraData() {
     }, 1500);
   });
 }
+
+//DEMO-ONLY Functions //
