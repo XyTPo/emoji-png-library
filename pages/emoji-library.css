@@ -124,7 +124,6 @@
 .emoji-search-block {
   position: relative;
   border-radius: 21px;
-  width: 305px;
   height: 38px;
   overflow: hidden;
   border: 1px solid #55e8c9;
@@ -134,7 +133,6 @@
   background-image: url("./img/search-icon.svg");
   background-position: 15px 50%;
   background-repeat: no-repeat;
-  margin-bottom: 20px;
 }
 
 .emoji-search-input {
@@ -158,4 +156,113 @@
   padding-right: 10px;
   grid-auto-rows: min-content;
   margin-top: -10px;
+}
+
+.emoji-controls {
+  display: grid;
+  grid-template-columns: 1fr 36px;
+  margin-bottom: 20px;
+  align-items: center;
+}
+
+.tone-wrapper {
+  width: 36px;
+  height: 36px;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.tone-dropdown-trigger {
+  width: 25px;
+  height: 25px;
+  border: 1px solid transparent;
+  border-radius: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.tone-dropdown-trigger:hover {
+  border: 1px solid rgba(255, 255, 255, 0.5);
+}
+
+.tone-dropdown-trigger::before {
+  content: "";
+  display: block;
+  width: 16px;
+  height: 16px;
+  background-color: #fade72;
+  border-radius: 50%;
+}
+
+.tone-dropdown {
+  position: absolute;
+  top: 44px;
+  right: 0;
+  width: 110px;
+  padding: 5px 10px;
+  background: #1e1e1e;
+  border: 1px solid rgba(255, 255, 255, 0.5);
+  z-index: 99;
+  border-radius: 5px;
+  display: none;
+}
+
+.tone-wrapper.dropdown-visible .tone-dropdown {
+  display: block;
+}
+
+.tone-dropdown-item {
+  font-size: 12px;
+  line-height: 18px;
+  color: #ffffff;
+  display: flex;
+  height: 20px;
+  align-items: center;
+  cursor: pointer;
+}
+
+.tone-dropdown-item:not(:last-of-type) {
+  margin-bottom: 2px;
+}
+
+.tone-dropdown-item:hover {
+  color: #55e8c9;
+}
+
+.tone-dropdown-item::before {
+  content: "";
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background-color: #fade72;
+  border: 2px solid #1e1e1e;
+  margin-right: 5px;
+}
+
+.tone-dropdown-item.active:before {
+  border: 2px solid hsla(167, 76%, 62%, 0.8);
+}
+
+.tone-wrapper [data-tone="light"]::before {
+  background-color: #f3dfd0;
+}
+
+.tone-wrapper [data-tone="medium_light"]::before {
+  background-color: #eed3a8;
+}
+
+.tone-wrapper [data-tone="medium"]::before {
+  background-color: #cfad8d;
+}
+
+.tone-wrapper [data-tone="medium_dark"]::before {
+  background-color: #a8805d;
+}
+
+.tone-wrapper [data-tone="dark"]::before {
+  background-color: #765542;
 }

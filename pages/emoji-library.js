@@ -11,10 +11,13 @@ function addEmojiLibrary() {
     searchInput: null,
     searchResults: null,
     fullList: null,
+    toneSelector: null,
   };
 
   const iconCategoryLabelElements = [];
   const iconCategoryGridElements = [];
+
+  let currentColorTone = "";
 
   generateDOM();
 
@@ -42,14 +45,15 @@ function addEmojiLibrary() {
   });
 
   function appendGridItem(parentNode, iconData, isLazyLoad = false) {
-    const path = "/assets/All_Emojis" + iconData.path;
+    const path = generatePath(iconData);
 
     const gridItem = document.createElement("div");
     gridItem.classList.add("grid-item-box");
+    gridItem.dataset.key = iconData.key;
 
     const gridItemIcon = document.createElement("img");
     if (isLazyLoad) {
-      gridItemIcon.dataset.src = path;
+      gridItemIcon.dataset.preload = "";
       gridItemIcon.src = "./img/loader.svg";
     } else {
       gridItemIcon.src = path;
@@ -57,9 +61,14 @@ function addEmojiLibrary() {
 
     const gridItemDataInput = document.createElement("input");
     gridItemDataInput.type = "hidden";
+    gridItemDataInput.dataset.tone = "default";
     gridItemDataInput.value = path;
 
     gridItem.append(gridItemIcon, gridItemDataInput);
+
+    if (iconData.skin_tone_support) {
+      gridItem.classList.add("skin-tone-support");
+    }
 
     parentNode.append(gridItem);
   }
@@ -69,12 +78,25 @@ function addEmojiLibrary() {
       "beforeend",
       `
       <div class="emoji-search">
-        <div class="emoji-search-block">
-          <input
-            type="text"
-            id="emoji-search-input"
-            class="emoji-search-input"
-          />
+        <div class="emoji-controls">
+          <div class="emoji-search-block">
+            <input
+              type="text"
+              id="emoji-search-input"
+              class="emoji-search-input"
+            />
+          </div>
+          <div class="tone-wrapper" id="tone-wrapper">
+            <div data-tone="" class="tone-dropdown-trigger"></div>
+            <div class="tone-dropdown">
+              <div data-tone="" class="tone-dropdown-item active">Default</div>
+              <div data-tone="light" class="tone-dropdown-item">Light</div>
+              <div data-tone="medium_light" class="tone-dropdown-item">Medium Light</div>
+              <div data-tone="medium" class="tone-dropdown-item">Medium</div>
+              <div data-tone="medium_dark" class="tone-dropdown-item">Medium Dark</div>
+              <div data-tone="dark" class="tone-dropdown-item">Dark</div>
+            </div>
+          </div>
         </div>
         <div
           id="emoji-search-results"
@@ -98,6 +120,7 @@ function addEmojiLibrary() {
     sharedDomElements.searchResults = parentNode.querySelector(
       "#emoji-search-results"
     );
+    sharedDomElements.toneSelector = parentNode.querySelector("#tone-wrapper");
 
     sharedDomElements.fullList = parentNode.querySelector("#emoji-full-list");
 
@@ -157,6 +180,37 @@ function addEmojiLibrary() {
     });
   }
 
+  function generatePath(iconData) {
+    let path = "../assets/All_Emojis" + iconData.path;
+
+    if (currentColorTone && iconData?.skin_tones) {
+      path = "../assets/All_Emojis" + iconData?.skin_tones[currentColorTone];
+    }
+
+    return path;
+  }
+
+  function updateColorTone() {
+    parentNode
+      .querySelectorAll(".grid-item-box.skin-tone-support")
+      .forEach((gridItemBox) => {
+        const iconKey = gridItemBox.dataset.key;
+
+        const iconData = iconsData.find((icon) => icon.key === iconKey);
+
+        if (iconData) {
+          const path = generatePath(iconData);
+
+          gridItemBox.querySelector("input").value = path;
+          const img = gridItemBox.querySelector("img");
+
+          if (!img.hasAttribute("data-preload")) {
+            img.src = path;
+          }
+        }
+      });
+  }
+
   function handleCategoryChange(targetCategoryNode) {
     iconCategoryLabelElements.forEach((categoryLabelElement) => {
       categoryLabelElement.classList.remove(CLASS_NAME_ACTIVE);
@@ -178,9 +232,11 @@ function addEmojiLibrary() {
     targetDataNode.querySelectorAll("img").forEach((img) => {
       const dataSrc = img.dataset.src;
 
-      if (dataSrc) {
-        img.src = dataSrc;
-        delete img.dataset.src;
+      if (img.hasAttribute("data-preload")) {
+        const path = img.nextElementSibling?.value || "";
+        img.src = path;
+
+        delete img.dataset.preload;
       }
     });
   }
@@ -225,6 +281,38 @@ function addEmojiLibrary() {
         .closest(".grid-item-box")
         .querySelector("input");
       alert(dataInput.value);
+    }
+
+    if (e.target.closest(".tone-dropdown-trigger")) {
+      sharedDomElements.toneSelector.classList.toggle("dropdown-visible");
+    }
+
+    if (e.target.closest(".tone-dropdown-item")) {
+      const clickedDropdownItem = e.target.closest(".tone-dropdown-item");
+
+      clickedDropdownItem.parentNode
+        .querySelectorAll(".tone-dropdown-item")
+        .forEach((item) => {
+          item.classList.remove(CLASS_NAME_ACTIVE);
+        });
+
+      clickedDropdownItem.classList.add(CLASS_NAME_ACTIVE);
+
+      const targetTone = clickedDropdownItem.dataset.tone;
+
+      sharedDomElements.toneSelector.querySelector(
+        ".tone-dropdown-trigger"
+      ).dataset.tone = targetTone;
+
+      sharedDomElements.toneSelector.classList.remove("dropdown-visible");
+
+      currentColorTone = targetTone;
+
+      updateColorTone();
+    }
+
+    if (!e.target.closest("#tone-wrapper")) {
+      sharedDomElements.toneSelector.classList.remove("dropdown-visible");
     }
   }
 

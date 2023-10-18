@@ -1,48 +1,41 @@
 const path = require("path");
 const fs = require("fs").promises;
 
-const smileysPeople = require("./assets/All_Emojis/Smileys people/smileys-people.json");
-const animalsNature = require("./assets/All_Emojis/Animals Neture/animals-nature.json");
-const foodDrinks = require("./assets/All_Emojis/Food Drink/food-drink.json");
-const activity = require("./assets/All_Emojis/Activity/activity.json");
-const travelPlaces = require("./assets/All_Emojis/Travel Places/travel-places.json");
-const objects = require("./assets/All_Emojis/Objects/objects.json");
-const symbols = require("./assets/All_Emojis/Symbols/symbols.json");
-const flags = require("./assets/All_Emojis/Flags/flags.json");
+const { emojiData } = require("./pages/src/emoji-data.js");
+const skinToneIcons = require("./data/skin-tone-icons.json");
 
-const allCategories = [
-  ...smileysPeople,
-  ...animalsNature,
-  ...foodDrinks,
-  ...activity,
-  ...travelPlaces,
-  ...objects,
-  ...symbols,
-  ...flags,
-];
+const { icons } = emojiData;
 
 const init = async () => {
+  const skinToneIconsFull = [...skinToneIcons];
   try {
-    const iconsArr = [];
+    const iconKeys = icons.map((icon) => icon.key);
+    const skinToneToneIconKeys = [];
 
-    allCategories.forEach((icon) => {
-      const suggestions = icon.suggestions || [];
+    skinToneIcons.forEach((skinToneIcon) => {
+      const key = skinToneIcon.key;
+      skinToneToneIconKeys.push(key);
+      if (skinToneIcon.skin_tone_support) {
+        skinToneToneIconKeys.push(
+          key + "_light_skin_tone",
+          key + "_dark_skin_tone",
+          key + "_medium_skin_tone",
+          key + "_medium_light_skin_tone",
+          key + "_medium_dark_skin_tone"
+        );
+      }
+    });
 
-      const fixedSuggestions = suggestions.map((suggestion) =>
-        suggestion.replace("_", " ")
-      );
-
-      iconsArr.push({
-        key: icon.key,
-        category: icon.categoryKey,
-        path: "./assets/All_Emojis/" + icon.path,
-        suggestions: fixedSuggestions,
-      });
+    iconKeys.forEach((iconKey) => {
+      if (!skinToneToneIconKeys.includes(iconKey)) {
+        const targetIcon = icons.find((icon) => icon.key === iconKey);
+        skinToneIconsFull.push(targetIcon);
+      }
     });
 
     fs.writeFile(
-      "./data/icons.json",
-      JSON.stringify(iconsArr, null, 2),
+      "./data/skin-tone-icons-full.json",
+      JSON.stringify(skinToneIconsFull, null, 2),
       "utf-8"
     );
   } catch (error) {
