@@ -61,7 +61,6 @@ function addEmojiLibrary() {
 
     const gridItemDataInput = document.createElement("input");
     gridItemDataInput.type = "hidden";
-    gridItemDataInput.dataset.tone = "default";
     gridItemDataInput.value = path;
 
     gridItem.append(gridItemIcon, gridItemDataInput);
@@ -230,8 +229,6 @@ function addEmojiLibrary() {
     targetDataNode.classList.add(CLASS_NAME_ACTIVE);
 
     targetDataNode.querySelectorAll("img").forEach((img) => {
-      const dataSrc = img.dataset.src;
-
       if (img.hasAttribute("data-preload")) {
         const path = img.nextElementSibling?.value || "";
         img.src = path;
@@ -352,20 +349,6 @@ function addEmojiLibrary() {
 
     targetIcons.forEach((iconData) => {
       appendGridItem(sharedDomElements.searchResults, iconData);
-
-      const { key } = iconData;
-
-      const skitToneIcons = iconsData.filter(
-        ({ key: searchKey }) =>
-          searchKey === key + "_light_skin_tone" ||
-          searchKey === key + "_dark_skin_tone"
-      );
-
-      if (skitToneIcons.length !== 0) {
-        skitToneIcons.forEach((skitToneIconData) => {
-          appendGridItem(sharedDomElements.searchResults, skitToneIconData);
-        });
-      }
     });
   }
 
