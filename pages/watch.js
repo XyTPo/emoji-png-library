@@ -1,12 +1,5 @@
-function watchUtils(isReInitialized = false) {
+function watchUtils() {
   const pageData = window?.pageData;
-
-  //isReInitialized param is for demo only to clean DOM and not to add Event listeners twice
-  //parameter and all related conditions should be removed
-  if (isReInitialized) {
-    //cleanDom() not needed on real page, it will not be reinitialized after load on real use cases
-    cleanDom();
-  }
 
   setVideoData();
   setJiraData();
@@ -28,13 +21,9 @@ function watchUtils(isReInitialized = false) {
     hideMethod: "fadeOut",
   };
 
-  if (!isReInitialized) {
-    //!isReInitialized condition should be removed, adding click event listeners should be unconditional
-
-    document
-      .querySelector("#watch-main")
-      .addEventListener("click", clickHandlers);
-  }
+  document
+    .querySelector("#watch-main")
+    .addEventListener("click", clickHandlers);
 
   function clickHandlers(e) {
     if (e.target.closest(".link-group-item-copy")) {
@@ -96,11 +85,36 @@ function watchUtils(isReInitialized = false) {
   }
 
   async function setVideoData() {
-    let videoData = pageData?.videos;
+    let videoData = pageData?.links_obj;
 
     if (!videoData) {
-      //If video data is missing on page load - async get data
-      videoData = await getFakeVideoData();
+      //Video data request if missing
+      //Must be async to block further actions till data is ready
+      //Expected format
+      /*
+      {
+        square: {
+          link: "https://drive.google.com/file/d/1cLEeMiS4Min3PB8S3xQNh-2-X9Kr9hb-/view?usp=drivesdk",
+          time: "10:30",
+          date: "22.09.23",
+        },
+        vertical_TT: {
+          link: "https://drive.google.com/file/d/19ONSFAaVAn0XZJXlBaZsg157Nj8Fb7tJ/view?usp=drivesdk",
+          time: "10:30",
+          date: "22.09.23",
+        },
+        vertical: {
+          link: "https://drive.google.com/file/d/1rE_zdyx3JT9nHalqRR9Vfb4L0WTVyrvb/view?usp=drivesdk",
+          time: "10:30",
+          date: "22.09.23",
+        },
+        vertical_guide: {
+          link: "https://drive.google.com/file/d/1A8GIOQaCc_wNPJqTJ-aGLY3e_lBFrlSz/view?usp=drivesdk",
+          time: "10:30",
+          date: "22.09.23",
+        },
+      }
+      */
     }
 
     const videoLinksContainer = document.querySelector("#video-links");
@@ -113,92 +127,34 @@ function watchUtils(isReInitialized = false) {
 
       const videoItemData = videoData[videoLinkId];
 
-      setLinkInfo(videoLinkItem, videoItemData);
+      if (videoItemData) {
+        setLinkInfo(videoLinkItem, videoItemData);
+      }
     });
 
     videoLinksContainer.classList.remove("loading");
   }
 
   async function setJiraData() {
-    let jiraData = pageData?.jira;
+    let jiraData = pageData?.jira_link;
 
     if (!jiraData) {
-      //If Jira data is missing on page load - async get data
-      jiraData = await getFakeJiraData();
+      //Jira task data request if missing
+      //Must be async to block further actions till data is ready
+      //Expected format
+      /*
+      {
+        link: "https://thescriptfighter.atlassian.net/jira/software/projects/KAN/boards/1?selectedIssue=KAN-7",
+        time: "10:30",
+        date: "22.09.23",
+      }
+      */
     }
 
-    const jiraLinkItem = document.querySelector("#jira");
+    const jiraLinkItem = document.querySelector("#jira_link");
 
     setLinkInfo(jiraLinkItem, jiraData);
 
     jiraLinkItem.parentElement.classList.remove("loading");
   }
 }
-
-//DEMO-ONLY Functions //
-
-function cleanDom() {
-  document.querySelectorAll(".link-group-block").forEach((element) => {
-    element.classList.add("loading");
-  });
-
-  document.querySelectorAll(".link-group-item").forEach((element) => {
-    const link = element.querySelector("a");
-    link.innerText = "";
-    link.href = "";
-
-    element.querySelector(".date-info").innerText = "";
-  });
-}
-
-function getFakeVideoData() {
-  return new Promise((resolve) => {
-    setTimeout(() => {
-      resolve(
-        window?.failDemoFetch
-          ? {
-              "16:9tt": {
-                link: "https://www.shutterstock.com/search/vertical-xxxxxxx/",
-                time: "10:30",
-                date: "22.09.23",
-              },
-            }
-          : {
-              "16:9": {
-                link: "https://www.shutterstock.com/search/vertical-xxxxxxx/",
-                time: "10:30",
-                date: "22.09.23",
-              },
-              "16:9tt": {
-                link: "https://www.shutterstock.com/search/vertical-xxxxxxx/",
-                time: "10:30",
-                date: "22.09.23",
-              },
-              "1:1": {
-                link: "https://www.shutterstock.com/search/vertical-xxxxxxx/",
-                time: "10:30",
-                date: "22.09.23",
-              },
-            }
-      );
-    }, 2500);
-  });
-}
-
-function getFakeJiraData() {
-  return new Promise((resolve) => {
-    setTimeout(() => {
-      resolve(
-        window?.failDemoFetch
-          ? {}
-          : {
-              link: "https://www.shutterstock.com/search/vertical-xxxxxxx/",
-              time: "10:30",
-              date: "22.09.23",
-            }
-      );
-    }, 1500);
-  });
-}
-
-//DEMO-ONLY Functions //
