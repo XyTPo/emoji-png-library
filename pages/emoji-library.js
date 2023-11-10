@@ -1,5 +1,38 @@
-function addEmojiLibrary() {
+async function addEmojiLibrary() {
   if (!emojiData) return;
+
+  let recentEmojiData = await new Promise((resolve) => {
+    setTimeout(() => {
+      const storageRecentData = localStorage.getItem("recentEmoji");
+
+      const recentEmojiData = storageRecentData
+        ? JSON.parse(storageRecentData)
+        : ["alien", "alien_monster"];
+
+      resolve(recentEmojiData);
+    }, 200);
+  });
+
+  let favoriteEmojiData = await new Promise((resolve, reject) => {
+    const storageFavoriteData = localStorage.getItem("favoriteEmoji");
+
+    const recentEmojiData = storageFavoriteData
+      ? JSON.parse(storageFavoriteData)
+      : [
+          "alien",
+          "alien_monster",
+          "baby_angel",
+          "clapping_hands",
+          "face_with_tears_of_joy",
+          "man_gesturing_no",
+          "person_frowning",
+          "victory_hand",
+        ];
+
+    setTimeout(() => {
+      resolve(recentEmojiData);
+    }, 200);
+  });
 
   const { categories: iconCategoriesData, icons: iconsData } = emojiData;
 
@@ -12,6 +45,7 @@ function addEmojiLibrary() {
     searchResults: null,
     fullList: null,
     toneSelector: null,
+    contextMenu: null,
   };
 
   const iconCategoryLabelElements = [];
@@ -21,9 +55,12 @@ function addEmojiLibrary() {
 
   generateDOM();
 
-  parentNode.addEventListener("click", (e) => {
-    clickEventsHandler(e);
-  });
+  parentNode.addEventListener("click", clickEventsHandler);
+
+  sharedDomElements.fullList.addEventListener(
+    "contextmenu",
+    contextmenuEventsHandler
+  );
 
   let searchDebounceTimeout = null;
 
@@ -110,6 +147,7 @@ function addEmojiLibrary() {
         </div>
         <div id="emoji-grid" class="data-grid"></div>
       </div>
+      <div class="context-menu" id="context-menu"></div>
     `
     );
 
@@ -123,11 +161,24 @@ function addEmojiLibrary() {
 
     sharedDomElements.fullList = parentNode.querySelector("#emoji-full-list");
 
+    sharedDomElements.contextMenu = parentNode.querySelector("#context-menu");
+
     const emojiCategoriesNode = parentNode.querySelector("#emoji-categories");
     const emojiGridNode = parentNode.querySelector("#emoji-grid");
 
-    iconCategoriesData.forEach(
-      ({ key: categoryKey, name: categoryName }, categoryIndex) => {
+    const systemCategories = [
+      { key: "recent", name: "Recent", iconKeys: recentEmojiData },
+      {
+        key: "favorite",
+        name: "Favorite",
+        iconKeys: favoriteEmojiData,
+      },
+    ];
+
+    const targetCategories = [...systemCategories, ...iconCategoriesData];
+
+    targetCategories.forEach(
+      ({ key: categoryKey, name: categoryName, iconKeys }, categoryIndex) => {
         const iconCategoryLabel = document.createElement("div");
 
         iconCategoryLabel.classList.add("swiper-slide");
@@ -142,9 +193,9 @@ function addEmojiLibrary() {
 
         iconCategoryLabelElements.push(iconCategoryLabel);
 
-        const categoryIcons = iconsData.filter(
-          (icon) => icon.category === categoryKey
-        );
+        const categoryIcons = iconKeys
+          ? iconKeys.map((key) => iconsData.find((icon) => icon.key === key))
+          : iconsData.filter((icon) => icon.category === categoryKey);
 
         const gridItem = document.createElement("div");
         gridItem.classList.add("data-grid-item", "styled-scrollbar");
@@ -239,6 +290,8 @@ function addEmojiLibrary() {
   }
 
   function clickEventsHandler(e) {
+    sharedDomElements.contextMenu.style.display = "none";
+
     if (e.target.closest(".swiper-button")) {
       const arrowClicked = e.target.closest(".swiper-button");
 
@@ -274,10 +327,11 @@ function addEmojiLibrary() {
       handleCategoryChange(categoryClickedNode);
     }
     if (e.target.closest(".grid-item-box")) {
-      const dataInput = e.target
-        .closest(".grid-item-box")
-        .querySelector("input");
+      const iconBox = e.target.closest(".grid-item-box");
+      const dataInput = iconBox.querySelector("input");
       alert(dataInput.value);
+
+      updateRecentEmojis(iconBox.dataset.key);
     }
 
     if (e.target.closest(".tone-dropdown-trigger")) {
@@ -311,6 +365,108 @@ function addEmojiLibrary() {
     if (!e.target.closest("#tone-wrapper")) {
       sharedDomElements.toneSelector.classList.remove("dropdown-visible");
     }
+
+    if (e.target.closest("#context-menu")) {
+      const contextMenu = e.target.closest("#context-menu");
+      updateFavoriteEmojis(contextMenu);
+    }
+  }
+
+  function contextmenuEventsHandler(e) {
+    e.preventDefault();
+    if (e.target.closest(".grid-item-box")) {
+      showContextMenu(e, e.target.closest(".grid-item-box"));
+    }
+  }
+
+  function updateRecentEmojis(iconKey) {
+    const recentEmojiUpdated = recentEmojiData
+      .filter((e) => e !== iconKey)
+      .slice(0, 19);
+
+    recentEmojiUpdated.unshift(iconKey);
+
+    recentEmojiData = recentEmojiUpdated;
+
+    const recentIconsData = recentEmojiUpdated.map((iconKey) =>
+      iconsData.find((i) => i.key === iconKey)
+    );
+
+    const gridItem = document.querySelector(
+      '.data-grid-item[data-category="recent"]'
+    );
+
+    gridItem.innerHTML = "";
+
+    recentIconsData.forEach((recentIconData) => {
+      appendGridItem(gridItem, recentIconData);
+    });
+
+    localStorage.setItem("recentEmoji", JSON.stringify(recentEmojiUpdated));
+  }
+
+  function updateFavoriteEmojis(contextMenu) {
+    const action = contextMenu.dataset.action;
+    const iconKey = contextMenu.dataset.key;
+
+    const favoriteEmojisUpdated = favoriteEmojiData.filter(
+      (e) => e !== iconKey
+    );
+
+    if (action === "add") {
+      favoriteEmojisUpdated.unshift(iconKey);
+    }
+
+    favoriteEmojiData = favoriteEmojisUpdated;
+
+    const favoriteIconsData = favoriteEmojisUpdated.map((iconKey) =>
+      iconsData.find((i) => i.key === iconKey)
+    );
+
+    const gridItem = document.querySelector(
+      '.data-grid-item[data-category="favorite"]'
+    );
+
+    gridItem.innerHTML = "";
+
+    favoriteIconsData.forEach((favoriteIconData) => {
+      appendGridItem(gridItem, favoriteIconData);
+    });
+
+    localStorage.setItem(
+      "favoriteEmoji",
+      JSON.stringify(favoriteEmojisUpdated)
+    );
+  }
+
+  function showContextMenu(e, targetEmoji) {
+    const emojiKey = targetEmoji.dataset.key;
+    const targetCategoryKey =
+      targetEmoji.closest(".data-grid-item").dataset.category;
+
+    console.log(emojiKey, targetCategoryKey);
+    const isCategoryFavorite = targetCategoryKey === "favorite";
+
+    sharedDomElements.contextMenu.innerText = isCategoryFavorite
+      ? "Remove from favorite"
+      : "Add to favorite";
+
+    sharedDomElements.contextMenu.dataset.action = isCategoryFavorite
+      ? "remove"
+      : "add";
+
+    sharedDomElements.contextMenu.dataset.key = emojiKey;
+    sharedDomElements.contextMenu.style.display = "block";
+
+    const windowWidth = window.innerWidth;
+    const contextMenuWidth = sharedDomElements.contextMenu.offsetWidth;
+    const cursorPositionY = e.pageX;
+
+    const yOverlap = cursorPositionY + contextMenuWidth - windowWidth;
+    const yCorrection = yOverlap > 0 ? yOverlap : 0;
+
+    sharedDomElements.contextMenu.style.left = e.pageX - yCorrection + "px";
+    sharedDomElements.contextMenu.style.top = e.pageY + 5 + "px";
   }
 
   function showSearchResults(searchTerm = "") {

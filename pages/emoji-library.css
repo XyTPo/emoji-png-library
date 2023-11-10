@@ -1,8 +1,9 @@
 .emoji-library {
   position: absolute;
   height: 330px;
-  left: 50%;
-  transform: translate(-50%, 0%);
+  left: 0;
+  right: 0;
+  margin: auto;
   top: 387px;
   width: 326px;
   font-family: "Inter";
@@ -112,6 +113,7 @@
   border: 1px solid #d9d9d9;
   border-radius: 12px;
   cursor: pointer;
+  position: relative;
 }
 .grid-item-box:hover {
   border: 1px solid #55e8c9;
@@ -265,4 +267,44 @@
 
 .tone-wrapper [data-tone="dark"]::before {
   background-color: #765542;
+}
+
+.context-menu {
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 10px 20px rgb(64 64 64 / 5%);
+  box-sizing: border-box;
+  padding: 8px 15px;
+  min-width: 140px;
+  font-weight: 500;
+  font-size: 12px;
+  color: #000;
+  align-items: center;
+  transition: background 0.2s linear;
+  z-index: 101;
+  display: none;
+  position: fixed;
+  white-space: nowrap;
+  cursor: pointer;
+  line-height: 17px;
+}
+
+.context-menu[data-action]::before {
+  display: inline-block;
+  font-weight: 900;
+  margin-right: 8px;
+  font-size: 17px;
+  line-height: 17px;
+  vertical-align: bottom;
+  transform: translateY(-1px);
+}
+.context-menu[data-action="remove"]::before {
+  content: "−";
+}
+.context-menu[data-action="add"]::before {
+  content: "+";
+}
+
+.context-menu:hover {
+  background: #b5e0d7;
 }
